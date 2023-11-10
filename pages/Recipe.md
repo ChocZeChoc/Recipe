@@ -132,9 +132,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- [[Optional]]
 			- [[Instruction]]
-		- [[Massamun Curry]]
+		- [[Paad Prik Kang]] #[[Dried curry]]
 			- [[Ingredient]]
+				- 2 Tbsp Red curry paste
 				- [[Optional]]
+					-
 			- [[Instruction]]
 		- [[Stir-fry Venus clam]]
 			- [[Ingredient]]
