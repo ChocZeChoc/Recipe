@@ -52,5 +52,6 @@
 		- [[Instruction]]
 	- [[Panang Curry]]
 	- [[Green Curry]]
+	- [[Massamun Curry]]
 	-
 - [[Dessert]]
