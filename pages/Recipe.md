@@ -136,7 +136,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- 2 Tbsp Red curry paste
 				- [[Optional]]
-					-
+					- Massamun curry paste (Very little to make it sweeter)
 			- [[Instruction]]
 		- [[Stir-fry Venus clam]]
 			- [[Ingredient]]
