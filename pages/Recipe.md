@@ -167,9 +167,16 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 1 tsp Garlic powder
 				- 2 tsp cayenne pepper powder
 				- 2 tsp soy sauce
-				-
+				- 1 Tbsp oil
 				- [[Optional]]
+					- BBQ rub
+					- Texas style rub
+					- Oregano
+					- chili flakes
+					- Korean style BBQ rub
+					- msg
 			- [[Instruction]]
+				- Add
 		- [[Lab(Larb) Moo/Nam Tok Moo]]
 			- [[Ingredient]]
 				- [[Optional]]
