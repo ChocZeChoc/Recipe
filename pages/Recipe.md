@@ -2,5 +2,7 @@
 	- [[Fried Rice]]
 		- [[Ingredient]]
 			- 300g meat (pork/chicken)
-			- 2 Tbsp
+			- 2 Tbsp Oystersauce
+			- 2 Eggs
+			- 6
 - [[Dessert]]
