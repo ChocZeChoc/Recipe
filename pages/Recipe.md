@@ -177,6 +177,7 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 			- Add into a pot on medium-high heat stir until it starts to thicken (about 10-30mins).
 			- Spread it out very thinly and leave it out in the sun, or bake in the oven at 80C$\degree$ until dry.
 	- [[Oreo Ice-cream sandwich]]
+	  collapsed:: true
 		- [[Ingredient]]
 			- 600g Oreo cookies (about 50 cookies)
 			- 170g Melted butter
@@ -192,6 +193,7 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 			- Spread the cookie & butter mixture onto a baking pan, then add the cream mixture.
 			- Chilled in the freezer for 2-3 hours, then add the rest of the cookie & butter mixture on top.
 			- Freeze for at least another 6hours or overnight.
+	-
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
