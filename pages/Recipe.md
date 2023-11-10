@@ -48,6 +48,7 @@
 			- Add basil leaves. Cook until the leaves withered (Add the extra veggies in this step)
 	- [[Classic carbonara]]
 		- [[Ingredient]]
+			- 80g uncooked Spaghetti pasta ()
 			- [[Optional]]
 		- [[Instruction]]
 	- [[Panang Curry]]
@@ -56,6 +57,6 @@
 	- [[Stir-fry Venus clam]]
 	- [[Marinated pork neck]]
 	- [[Nathan's Oven baked Drumstick]]
-	-
+	- [[Lab/Nam Tok Moo]]
 - [[Dessert]]
 - [[Sauces]]
