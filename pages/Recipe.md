@@ -257,9 +257,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Set aside **100g of crushed cookies**
 				- Transfer the rest of the **crushed cookies** into a bowl add the **melted butter**, and mix.
 				- In a new bowl beat up the **heavy cream** until it can form **firm-peaks**, mix in the **crush cookies** that you've set aside and the **condensed milk**. **Fold** until thoroughly mixed.
-				- Spread the **cookie & butter mixture** onto a baking pan, then add the cream mixture.
-				- Chilled in the freezer for 2-3 hours, then add the rest of the cookie & butter mixture on top.
-				- Freeze for at least another 6hours or overnight.
+				- Spread the **cookie & butter mixture** onto a baking pan, then add the **cream mixture**.
+				- **Chilled** in the freezer for **2-3 hours**, then add the rest of the **cookie & butter mixture** on top.
+				- **Freeze** for at least another **6hours** or overnight.
 		- [[Classic Ice cream sandwich]]
 			- [[Ingredient]]
 				- 120g + 1 Tbsp all-purpose flour
@@ -277,9 +277,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- up to 200g extra butter
 					- 2 eggs
 			- [[Instruction]]
-				- Preheat the oven to 175$\degree$C. Cover/Spray the baking sheet with cooking oil or butter.
-				- Whisk all-purpose flour, salt, baking soda, and cocoa together in a bowl, sift the mixture.
-				- Mix butter, both sugars, and vanilla in another bowl with a spatula until smooth (add the eggs here). Add flour mixture along with mix until the batter is smooth and stiff. Scoop the mixture on to the baking sheet.
+				- Preheat the **oven to 175**$\degree$C. Cover/Spray the baking sheet with cooking oil or butter.
+				- **Whisk all-purpose flour**, **salt**, **baking soda**, and **cocoa** together in a **bowl**, **sift** the mixture.
+				- Mix **butter**, **both sugars**, and **vanilla** in another bowl with a spatula until smooth (add the eggs here). Add flour mixture along with mix until the batter is smooth and stiff. Scoop the mixture on to the baking sheet.
 				- Bake for about 10mins or until the top is no longer wet. Let the cookie cools at room temp for about 15mins.
 				- Freeze the cookies for about 15mins, after chilled bring out the cookies add a scoop of ice cream between the cookies. And freeze for 3hours before eating.
 		- [[Chocolate chip cookies]]
