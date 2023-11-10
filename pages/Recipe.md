@@ -145,7 +145,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 30ml fish sauce (2 Tbsp)
 				- [[Optional]]
 			- [[Instruction]]
-				- Chopped Onions and potatoes into bite s
+				- Chopped Onions and potatoes into bite size pieces (2.5-5cm / 1-2"  cubes)
 		- [[Paad Prik Kang]] #[[Dried curry]]
 			- [[Ingredient]]
 				- 200g Meat (Any kind of chopped meat best with fatty meat)
