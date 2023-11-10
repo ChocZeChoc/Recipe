@@ -283,7 +283,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- msg
 			- [[Instruction]]
 				- Just mix everything
-		- [[Nam Jim look shin]]
+		- [[Nam Jim look shin]] #[[Meat balls & Sausage sauce]]
 			- [[Ingredient]]
 				- 35g chili flakes
 				- 40g dried whole Thai chilies
