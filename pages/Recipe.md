@@ -148,7 +148,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- White/Brown sugar
 					- msg
 			- [[Instruction]]
-				- Finely chop the garlic, put everything except the meat into a bag/bowl,
+				- Finely chop the garlic, put everything except the meat into a bag/bowl, Mix everything until fully combined and the sugar has dissolve into the mixture. Add in the pork and mix again until all the meat is coated.
+				- Let it
 		- [[Nathan's Oven baked Drumstick]]
 			- [[Ingredient]]
 				- [[Optional]]
