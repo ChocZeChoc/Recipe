@@ -29,7 +29,10 @@
 	- [[Stir-fry pork basil]]
 		- [[Ingredient]]
 			- 300g mince meat (pork/chicken)
-			- 1 Tbsp soy sauce (Ma)
+			- 1 Tbsp soy sauce (Magi, Green cap, Japanese soya sauce or light soy sauce)
+			- 1/2 Tbsp Dark soy sauce
+			- 1/2 Tbsp Sugar
+			-
 			- [[Optional]]
 		- [[Instruction]]
 - [[Dessert]]
