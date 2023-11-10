@@ -235,7 +235,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Instruction]]
 			- Sift out the flours, salt, and baking soda into a bowl.
 			- Keep stirring the butter in a Medium-High heat pan/pot until brown. After browning immediately put the browned butter into a container until it reach room temp to stop the cooking and keep the butter from burning. Add some water into the melted butter until it reach about 250ml in total volume.
-			- Mix in White sugar, brown sugar, espresso powder, and vanilla extract into a bowl, then add in the cooled off butter
+			- Mix in White sugar, brown sugar, espresso powder, and vanilla extract into a bowl, then add in the room temp brown butter. Whisk until thoroughly mixed. Then add the egg & egg yolk
 - [[Sauces/Paste/rub]]
   collapsed:: true
 	- [[Wing-zabb/Larb powder]]
