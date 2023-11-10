@@ -267,7 +267,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- msg
 			- [[Instruction]]
 				- Roast the chili flakes in oil and a pinch of salt, until fragrant.
-				- Chopped up the shallots and onions into
+				- Chopped up the shallots and onions into thin slices. Add all the ingredient into a small bowl.
 		- [[Wing-zabb/Larb powder]]
 			- [[Ingredient]]
 				- 3 Tbsp Paprika powder
