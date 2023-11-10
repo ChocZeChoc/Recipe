@@ -148,9 +148,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- White/Brown sugar
 					- msg
 			- [[Instruction]]
-				- Finely chop the garlic, put everything except the meat into a bag/bowl, Mix everything until fully combined and the sugar has dissolve into the mixture. Add in the pork and mix again until all the meat is coated.
+				- Finely chop the garlic, put everything except the meat into a bag/bowl, Mix everything until fully combined and the sugar has dissolve into the mixture. Add in the pork (chopped in )and mix again until all the meat is coated.
 				- Let it marinate in the fridge for at least 15mins to 2 hours.
-				- Grill it over some charcoal or use an air-fryer/oven at 180-200$\degree$C for about 10-20mins. Make sure the middle is at least
+				- Grill it over some charcoal or use an air-fryer/oven at 180-200$\degree$C for about 10-20mins. Make sure the middle is at least 65$\degree$C.
+				-
 		- [[Nathan's Oven baked Drumstick]]
 			- [[Ingredient]]
 				- [[Optional]]
