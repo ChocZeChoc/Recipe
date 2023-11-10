@@ -207,6 +207,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- Vanilla Ice cream
 			- oil or butter
 			- [[Optional]]
+				- up to 200g extra butter
+				- 2 eggs
 		- [[Instruction]]
 			- Preheat the oven to 175$\degree$C. Cover/Spray the baking sheet with cooking oil or butter.
 			- Whisk all-purpose flour, salt, baking soda, and cocoa together in a bowl, sift the mixture.
