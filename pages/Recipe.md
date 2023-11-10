@@ -220,7 +220,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Ingredient]]
 			- 100g All purpose flour
 			- 135g bread flour
-			- 2 tsp salt
+			- 1 tsp salt
 			- 1 tsp Baking soda
 			- 225g browned butter
 			- 215g Brown sugar
@@ -232,6 +232,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 100g chopped dark chocolate
 			- [[Optional]]
 				- 135g All purpose flour or 100g All purpose flour + 35g gluten flour
+				-
 		- [[Instruction]]
 - [[Sauces/Paste/rub]]
   collapsed:: true
