@@ -71,6 +71,7 @@
 			- After the pasta is **Al Dente** (almost cooked but still springy). **Turn off** the heat with guanciale and add the **still hot pasta** and about 5-6Tbsp of pasta water in the pan, Stir in the cheese mixture, **KEEP STIRRING** until everything is coated.
 	- [[Panang Curry]]
 		- [[Ingredient]]
+			- 400g Meat (Sliced pork/Chicken drumstick,Thigh)
 			- [[Optional]]
 		- [[Instruction]]
 	- [[Green Curry]]
