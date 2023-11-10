@@ -228,11 +228,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 2 tsp vanilla extract
 			- 1 tsp coffee powder
 			- 1 egg + 1 yolk
-			- 150g chocolate chips
-			- 100g chopped dark chocolate
+			- 150g chocolate chips (Use 60%+)
+			- 100g chopped chocolate (Use 60%+)
 			- [[Optional]]
 				- 135g All purpose flour or 100g All purpose flour + 35g gluten flour
-				-
 		- [[Instruction]]
 - [[Sauces/Paste/rub]]
   collapsed:: true
