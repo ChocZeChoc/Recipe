@@ -172,5 +172,7 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 			- 1 tps salt
 			- 1 Tbsp sugar
 			- 1 Tbsp roasted uncooked rice
+			- [[Optional]]
+				- msg
 		- [[Instruction]]
 			- Just mix everything
