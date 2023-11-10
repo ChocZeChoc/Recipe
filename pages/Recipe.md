@@ -52,7 +52,6 @@
 			- 1-2 Eggs
 			- salt
 			- Pepper
-			- 2Tbsp oil
 			- 20g of Parmesan (about 2Tbsp)
 			- 100g Guanciale
 			- [[Optional]]
@@ -60,8 +59,10 @@
 				- garlic
 				- Pecorino
 				- Extra egg yolk
+				- 2Tbsp oil
 		- [[Instruction]]
-			- Cook the guanciale(bacon/Pan
+			- Cook the guanciale(bacon/pancetta) until crispy (add oil if needed).
+			- While the guanciale is cooking, cook the pasta is sea-salty
 	- [[Panang Curry]]
 	- [[Green Curry]]
 	- [[Massamun Curry]]
