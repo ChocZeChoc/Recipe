@@ -1,4 +1,0 @@
-- [[Food]]
-	- [[Ingredient]]
-		- [[Optional]]
-	- [[Instruction]]
