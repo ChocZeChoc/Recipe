@@ -222,7 +222,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 135g bread flour
 			- 1 tsp salt
 			- 1 tsp Baking soda
-			- 225g browned butter
+			- 225g butter
 			- 215g Brown sugar
 			- 100g sugar
 			- 2 tsp vanilla extract
@@ -234,7 +234,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 135g All purpose flour or 100g All purpose flour + 35g gluten flour
 		- [[Instruction]]
 			- Sift out the flours, salt, and baking soda into a bowl.
-			- Keep stirring the butter in a Medium-High
+			- Keep stirring the butter in a Medium-High heat pan/pot until brown. After browning immediately put the browned butter into a
 - [[Sauces/Paste/rub]]
   collapsed:: true
 	- [[Wing-zabb/Larb powder]]
