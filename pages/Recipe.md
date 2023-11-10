@@ -50,4 +50,7 @@
 		- [[Ingredient]]
 			- [[Optional]]
 		- [[Instruction]]
+	- [[Panang Curry]]
+	- [[Green Curry]]
+	-
 - [[Dessert]]
