@@ -151,7 +151,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Finely chop the garlic, put everything except the meat into a bag/bowl, Mix everything until fully combined and the sugar has dissolve into the mixture. Add in the pork (chopped into long strips if preferred you can also copped after it has been cooked) and mix again until all the meat is coated.
 				- Let it marinate in the fridge for at least 15mins to 2 hours.
 				- Grill it over some charcoal or use an air-fryer/oven at 180-200$\degree$C for about 10-20mins. Make sure the middle is at least 65$\degree$C.
-				- Eat with sticky rice and
+				- Eat with sticky rice and #[[Nam Jim Jaew]]
 		- [[Nathan's Oven baked Drumstick]]
 			- [[Ingredient]]
 				- [[Optional]]
@@ -252,6 +252,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Chopped up the chocolate, then add it into the mixture. Fold until everything is mixed. Scoop out the cookies into 70-80g balls (About 14-16 pieces) on to a baking paper. Let it chilled in the fridge for 1 hour.
 				- Bake in the oven for 12-15mins at 180$\degree$C
 	- [[Sauces/Paste/rub]]
+		- [[Nam Jim Jaew]]
+			-
 		- [[Wing-zabb/Larb powder]]
 			- [[Ingredient]]
 				- 3 Tbsp Paprika powder
