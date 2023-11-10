@@ -148,6 +148,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- White/Brown sugar
 					- msg
 			- [[Instruction]]
+				- Cho
 		- [[Nathan's Oven baked Drumstick]]
 			- [[Ingredient]]
 				- [[Optional]]
