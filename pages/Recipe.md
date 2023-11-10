@@ -171,7 +171,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Stir-fry Venus clam]] ^^Missing^^ **Missing**
 			- [[Ingredient]]
 				- 500g Undulate Venus clam (Stripe clam)
-				- 30g Thai basil
+				- 30g Thai basil #horapha
+				- 1 Head of garlic
+				- 7 Thai chilies
+				- 60g of Thai chili paste ()
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Marinated pork neck]]
