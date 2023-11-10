@@ -53,8 +53,12 @@
 			- salt
 			- Pepper
 			- 2Tbsp oil
-			- 30g of parmessan
+			- 20g of Parmesan (about 2Tbsp)
+			- 100g Guanciale
 			- [[Optional]]
+				- Bacon/Pancetta
+				- gralic
+				- Pecorin
 		- [[Instruction]]
 	- [[Panang Curry]]
 	- [[Green Curry]]
