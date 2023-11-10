@@ -178,10 +178,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 6g sugar (1 tsp)
 				- 15ml Oyster sauce (1 Tbsp)
 				- 7.5ml Fish sauce (1/2 Tbsp)
+				- 30ml oil (2 Tbsp)
 				- [[Optional]]
 			- [[Instruction]]
 				- Smash/Crush the garlic and chilies in a pestle and mortar, (If you do not have one, smack it hard with a knife and finely chopped).
-				- Fry
+				- Fry the smashed chili and garlic paste, in some cooking oil on High heat until fragrant or golden
 		- [[Marinated pork neck]]
 			- [[Ingredient]]
 				- 1.3kg pork neck (or any fatty pork)
