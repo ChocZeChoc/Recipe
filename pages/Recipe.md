@@ -166,5 +166,6 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 - [[Sauces/Paste/rub]]
 	- [[Ingredient]]
 		- 3 Tbsp Paprika powder
-		-
+		- 2 tps chili powder (more if needed)
+		- 2 tps Lime powder
 	- [[Instruction]]
