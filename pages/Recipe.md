@@ -187,7 +187,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 1-2 lime (about 2-4Tbsp)
 				- 3-4 small shallots (can be substitute with red onions)
 				- 3-5 spring onions
-				- handful mint leaves
+				- half a handful mint leaves
 				- [[Optional]]
 					- culantro/cilantro for garnish
 			- [[Instruction]]
