@@ -75,7 +75,11 @@
 			- Coconut milk 200ml
 			- 2 cloves garlic
 			- 2 Tbsp oil
-			- Fresh Chilies
+			- 3-4 Fresh Chilies
+			- salt
+			- 20g sugar
+			- Kaffir leaves
+			- 40-60g Panang curry paste (About 2)
 			- [[Optional]]
 		- [[Instruction]]
 	- [[Green Curry]]
