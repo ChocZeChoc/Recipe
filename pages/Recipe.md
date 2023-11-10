@@ -157,7 +157,12 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Nathan's Oven baked Drumstick]]
 			- [[Ingredient]]
 				- 700g chicken drumstick (Thighs, Wings)
-				- 1
+				- 1 tsp Black pepper
+				- 1 tsp salt
+				- 1 tsp smoked paprika
+				- 1 tsp coriander seed powder
+				- 1 tsp Dried basil
+				-
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Lab(Larb) Moo/Nam Tok Moo]]
