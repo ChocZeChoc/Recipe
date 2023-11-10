@@ -163,4 +163,4 @@ Links:: https://www.youtube.com/@GinDaiAroiDuay
 			- [[Optional]]
 		- [[Instruction]]
 - [[Dessert]]
-- [[Sauces/Paste]]
+- [[Sauces/Paste/rub]]
