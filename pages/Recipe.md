@@ -163,7 +163,10 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Optional]]
 		- [[Instruction]]
 - [[Dessert]]
-	-
+	- [[Fruit Lather]]
+		- [[Ingredient]]
+			- [[Optional]]
+		- [[Instruction]]
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
