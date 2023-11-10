@@ -203,9 +203,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 50g sugar
 			- 30g brown sugar
 			- 1/2 tps vanilla extract
-			- 80ml
+			- 80ml room temp whole milk
+			- Vanilla Ice cream
 			- [[Optional]]
 		- [[Instruction]]
+			- Preheat the oven to 175\degree C
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
