@@ -323,8 +323,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		  id:: 654e1d49-d7ae-4575-be1e-b07ec9a3235a
 			- [[Ingredient]]
 				- 6g chili flakes (1 Tbsp)
-				- 25ml lime juice (1+1/2 Tbsp; can be substitute with tamarind paste)
-				- 25ml fish sauce (1 + 1/2 Tbsp)
+				- 22.5ml lime juice (1+1/2 Tbsp; can be substitute with tamarind paste)
+				- 22.5ml fish sauce (1 + 1/2 Tbsp)
 				- 4g sugar (1 tps)
 				- 2g crushed roasted uncooked rice (1/2 Tbsp)
 				- 10g shallots (can be substitute with red onions)
