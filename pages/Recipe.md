@@ -44,7 +44,7 @@
 			- 1/2 Tbsp Sugar
 			- 3-4 Red Thai chilies
 			- 4-6 cloves of garlic
-			- 1 Cup of fresh basil leaves #kaphrao
+			- 1 Cup of fresh holy basil leaves #kaphrao
 			- 2 Tbsp oil
 			- [[Optional]]
 				- msg
@@ -86,7 +86,7 @@
 			- Kaffir leaves
 			- 2 Tbsp Fish sauce
 			- [[Optional]]
-				- Basil leaves #kaphrao
+				- Holy basil leaves #kaphrao
 				- Lime/Lemon leaves
 				- Turkey berry (Can be substitute with 1-2 Big purple egg plant/Aubergine)
 				- Coriander seed
@@ -106,6 +106,7 @@
 			- 8 Thai egg plant (Can be substitute with 1-2 Big purple egg plant/Aubergine)
 			- 1 Cup turkey berry (Can be substitute with 1 Big purple egg plant/Aubergine)
 			- 1 Cup Thai basil leaves #horapha
+			- 1/2 Cup kaffir leaves
 			- 2 Tbsp Fish sauce
 			- [[Optional]]
 		- [[Instruction]]
