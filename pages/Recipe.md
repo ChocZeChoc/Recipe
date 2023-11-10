@@ -297,7 +297,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- msg
 			- [[Instruction]]
 				- Roast Dried chilies. And roast chili flakes in oil & salt. until fragrant.
-				- Blend both chilies, and tomatoes and pickled
+				- Blend both chilies, and tomatoes and pickled garlic until fully combined.
+				- Put in all the sugars into a pan/pot Medium-High to high heat, add in the blended mixture and some water
 	- [[Misc]]
 		- [[pickled garlic]]
 			- [[Ingredient]]
