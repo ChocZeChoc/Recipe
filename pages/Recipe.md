@@ -71,7 +71,7 @@
 			- After the pasta is **Al Dente** (almost cooked but still springy). **Turn off** the heat with guanciale and add the **still hot pasta** and about 5-6Tbsp of pasta water in the pan, Stir in the cheese mixture, **KEEP STIRRING** until everything is coated.
 	- [[Panang Curry]]
 		- [[Ingredient]]
-			- 400g Meat (Sliced pork, Chicken )
+			- 300-400g Meat (Sliced pork, Chicken)
 			- Coconut milk 200ml
 			- 2 cloves garlic
 			- 2 Tbsp oil
@@ -95,7 +95,8 @@
 			- Garnish with sliced none spicy chilies, and citrus leaves
 	- [[Green Curry]]
 		- [[Ingredient]]
-			- 200-300g Meat
+			- 200-300g Meat (Sliced pork, Chicken, Pork belly)
+			-
 			- [[Optional]]
 		- [[Instruction]]
 			- Fry garlic, curry paste, and half of the chilies in medium-high heat pan (use a pot for bigger portions) in oil or the more solid part of coconut milk until you start to see oil/fat render out of the coconut milk or until golden if using oil. If you use oil to fry the garlic etc. add the more solid part of the coconut milk in before the next step and let it heat up for about 5-10mins or until fat starts to render out of the coconut milk.
