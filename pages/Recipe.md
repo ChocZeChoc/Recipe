@@ -338,7 +338,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Chopped** up the **shallots** and **onions** into **thin slices**. Add all the ingredient into a **small bowl**.
 		- [[Wing-zabb/Larb powder]]
 			- [[Ingredient]]
-				- 3 Tbsp Paprika powder
+				- 18g Paprika powder (3 Tbsp)
 				- 2 tps chili powder (more if needed)
 				- 2 tps Lime powder (can be Substitute with citric acid powder)
 				- 1 tps salt
