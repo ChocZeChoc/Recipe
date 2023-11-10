@@ -6,10 +6,12 @@
 		- All units are measured in Metric scale
 		- Tablespoon = Tbsp
 		- Teaspoon = tps
+		- ml = millilitres
+		- L = litres
 - [[Conversion]]
 	- [[Temperature]]
 		- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
-	- 1 Metric cup = 250ml = 1.06 US cup
+	- 1 Metric cup = 250ml \approx 1.06 US cup
 - [[Savoury]]
 	- [[Nathan's Fried Rice]]
 		- [[Ingredient]]
