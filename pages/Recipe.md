@@ -199,7 +199,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 1/4 tps salt
 			- 1/4 tps baking soda
 			- 60g cup sifted cocoa powder
-			- 3 Tbsp room temp butter
+			- 40-50g room temp butter (3 Tbsp)
 			- 50g sugar
 			- [[Optional]]
 		- [[Instruction]]
