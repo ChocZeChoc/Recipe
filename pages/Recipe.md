@@ -325,7 +325,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 1 + 1/2 Tbsp lime juice (can be substitute with tamarind paste)
 				- 1 + 1/2 Tbsp fish sauce
 				- 1 tps sugar
-				- 1/2 Tbsp crushed roasted uncooked rice
+				- 5g crushed roasted uncooked rice (1/2 Tbsp)
 				- 10g shallots (can be substitute with red onions)
 				- 5g spring onions
 				- salt
