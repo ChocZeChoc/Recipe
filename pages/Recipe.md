@@ -174,7 +174,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 30g Thai basil #horapha
 				- 20g garlic (1 Head)
 				- 20g Thai chilies (About 7 chilies)
-				- 60g of Thai chili paste (2 Tbsp Nam Prik Pao)
+				- 60g of Thai chili paste (2-4 Tbsp Nam Prik Pao)
 				- 6g sugar (1 tsp)
 				- 15ml Oyster sauce (1 Tbsp)
 				- 7.5ml Fish sauce (1/2 Tbsp)
@@ -182,7 +182,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 			- [[Instruction]]
 				- **Smash/Crush** the **garlic** and **chilies** in a **pestle & mortar**, (If you do not have one, smack it hard with a knife and finely chopped).
-				- **Fry** the **smashed chili** and **garlic** paste, in some cooking **oil** on **High** heat until **fragrant** or **golden**. Then add in the clam cook until the clam relax. Then add Thai chili paste
+				- **Fry** the **smashed chili** and **garlic** paste, in some cooking **oil** on **High** heat until **fragrant** or **golden**. Then add in the clam cook until the clam relax. Then add Thai chili paste, Sugar, fish sauce, and oyster sauce into the pan/wok.
 		- [[Marinated pork neck]]
 			- [[Ingredient]]
 				- 1.3kg pork neck (or any fatty pork)
