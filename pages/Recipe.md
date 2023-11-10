@@ -188,7 +188,8 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 			- Crush the Oreo cookies, by either beating them in a Ziploc bag or blending them.
 			- Set aside 100g of crushed cookies
 			- Transfer the rest of the crushed cookies into a bowl add the melted butter, and mix.
-			- Spread the
+			- In a new bowl beat up the heavy cream until it becomes
+			-
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
