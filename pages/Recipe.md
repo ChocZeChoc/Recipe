@@ -284,3 +284,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 				- Just mix everything
 		- [[Nam Jim look shin]]
+			- [[Ingredient]]
+				- 80g of Chi
+				- [[Optional]]
+					- msg
+			- [[Instruction]]
