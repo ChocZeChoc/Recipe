@@ -88,7 +88,7 @@
 				- Coriander seed
 				- None spicy red chilies & Extra Kaffir leaves
 		- [[Instruction]]
-			- Fry chilies, garlic and curry paste in medium-high heat pan in oil or the more solid part of coconut milk until you start to see oil/fat render out of the coconut milk.
+			- Fry chilies, garlic and curry paste in medium-high heat pan in oil or the more solid part of coconut milk until you start to see oil/fat render out of the coconut milk. If you use oil to fry the garlic etc. add the more solid part of the coconut milk in before the
 			- Add in the meat let it cook, you can fry it before adding it in to add more flavour, if using bone-in chicken(drumstick, chicken thigh etc.) do this step first and then bake the chicken to fully cook it.
 	- [[Green Curry]]
 		- [[Ingredient]]
