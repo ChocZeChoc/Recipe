@@ -5,6 +5,9 @@
 			- 2 Tbsp Oystersauce
 			- 2 Eggs
 			- 6 cups of cooked rice, chilled (2 cups as uncooked)
-			- 1 Tbsp Soy sauce (Magi or green )
-			-
+			- 1 Tbsp Soy sauce (Magi or green cap)
+			- 2 Cloves of gralic
+			- 2 tsp black pepper
+			- 2 Tbsp oil
+			- 4 Strips of bacon
 - [[Dessert]]
