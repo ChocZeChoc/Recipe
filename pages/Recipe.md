@@ -211,7 +211,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- 300g mince pork (mince chicken, Grilled pork neck for Nam Tok)
 				- 60g roasted uncooked rice (5 Tbsp)
-				- 1 Tbsp chili powder/flakes
+				- 6g chili powder/flakes (1 Tbsp)
 				- 1-2 lime worth of lime juice (about 2-4Tbsp)
 				- 3-4 small shallots (can be substitute with red onions)
 				- 3-5 spring onions
