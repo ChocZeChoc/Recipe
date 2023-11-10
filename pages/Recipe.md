@@ -1,5 +1,5 @@
 - [[Savoury]]
-	- [[Fried Rice]]
+	- [[Nathan's Fried Rice]]
 		- [[Ingredient]]
 			- 300g meat (pork/chicken)
 			- 2 Tbsp Oystersauce
@@ -10,4 +10,11 @@
 			- 2 tsp black pepper
 			- 2 Tbsp oil
 			- 4 Strips of bacon
+			- [[Optional]]
+				- Chili
+				- salt
+				- Chives
+				- msg
+				- Lime
+				- Dark soy sauce
 - [[Dessert]]
