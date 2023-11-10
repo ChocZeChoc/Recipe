@@ -4,7 +4,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 	- Things to know
 		- #kaphrao and #horapha are both Thai basil but they are not the same, read which tag it has.
 			- Common name for #kaphrao is Holy basil, used more often.
-			- And for #horapha is Thai basil
+			- And for #horapha common name is Thai basil
 			- For baking try to use kosher salt if possible
 		- [[Unit]]
 			- All units are measured in Metric scale
@@ -26,7 +26,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 2 Cloves of gralic
 				- 2 tsp black pepper
 				- 2 Tbsp oil
-				- 4 Strips of bacon
+				- 4 Strips of bacon (Half a pack)
 				- [[Optional]]
 					- 300g of sliced/mince meat (pork/chicken)
 					- 1-2 Chili
