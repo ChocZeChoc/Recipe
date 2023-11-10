@@ -37,8 +37,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- more oil
 					- Dark soy sauce
 			- [[Instruction]]
-				- Cooked 2 cups of rice and let it **chill in the fridge** for at least 15mins (overnight is better)
-				- Chop the garlic, chilies and bacon
+				- **Cooked** 2 cups of **rice** and let it **chill in the fridge** for at least **15mins** (overnight is better)
+				- Chop the **garlic**, chilies and bacon
 				- Put 2 Tbsp of cooking oil in the pan, turn the heat to **medium-high**, when the pan gets hot, put in the chopped chilies and garlic. Stir fry until **golden** **(Not burnt)**
 				- Put in the meats (Bacon and/or sliced meat) let it cooked, for the bacon just cook it **enough for color** (not too crispy).
 				- Add in the eggs, then **break up the yolk** and cover the meat. Keep stirring until all the egg is cooked
@@ -354,8 +354,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 				- **Roast** Dried **chilies** and **chili flakes** (and **shallots**) in **oil & salt** until **fragrant** or **golden**. (separate frying shallots and chilies for the most control)
 				- **Blend** both chilies, (and tomatoes) and **pickled garlic** until fully **combined**. (coriander root goes in this step)
-				- Put in all the **sugars** into a pan/pot Medium-High to high heat, add in the blended mixture, tamarind paste, and some water. Stir and mix until thicken(use starches to thicken if the flavour is harsher than you'd like) .
+				- Put in all the **sugars** into a **pan/pot Medium-High** to **high** heat, add in the **blended mixture**, **tamarind paste**, and some **water**. Stir and **mix** until **thicken**(use starches to thicken if the flavour is harsher than you'd like) .
 	- [[Misc]]
+	  collapsed:: true
 		- [[pickled garlic]]
 			- [[Ingredient]]
 				- [[Optional]]
