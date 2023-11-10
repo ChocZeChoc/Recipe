@@ -130,8 +130,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
 		- [[Massamun Curry]]
 			- [[Ingredient]]
-				- 250g chicken thigh & drumstick
-				- 150g Potato
+				- 250g chicken thigh & drumstick (about 2-3 pieces)
+				- 150g Potato (1-2 Potato)
 				- 75g White onion (1 onion)
 				- 300ml Coconut milk
 				- 2.5g cardamom (1 tsp)
