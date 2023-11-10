@@ -13,7 +13,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- ml = millilitres
 			- L = litres
 			- For quick estimate: Solids 1 Tbsp \approx 30g , Liquids 1 Tbsp \approx 15ml
-			- US Volumes are roughly equal to Metric volume (1 Tbsp \approx 1 Tbsp(US))
+			- US Volumes are roughly equal to Metric volume; 1 Tbsp(Metric) \approx 1 Tbsp(US), 1 tsp \approx 1 tsp
 		- [[Conversion]]
 			- [[Temperature]]
 				- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
