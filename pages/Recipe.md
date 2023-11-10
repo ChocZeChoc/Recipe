@@ -99,9 +99,11 @@
 			- [[Optional]]
 		- [[Instruction]]
 	- [[Sushi Rice]]
-		- 1 cup uncooked Japanese rice
-		- 1 cup water
-		- 7.5ml vinegar mix
-		-
+		- [[Ingredient]]
+			- 1 cup uncooked Japanese rice
+			- 1 cup water
+			- 7.5ml #[[Vinegar mix]]
+		- [[Vinegar mix]]
+			-
 - [[Dessert]]
 - [[Sauces]]
