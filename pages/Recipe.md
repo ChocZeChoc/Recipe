@@ -61,10 +61,10 @@
 				- Extra egg yolk
 				- 2Tbsp oil
 		- [[Instruction]]
-			- Cook the guanciale(bacon/pancetta) until crispy (add oil if needed).
-			- While the guanciale is cooking, cook the pasta is sea-salty water.(3% salt; 1L water : 30g salt )
+			- Cook the **guanciale**(bacon/pancetta) until **crispy** (add oil if needed).
+			- While the guanciale is cooking, cook the **pasta in sea-salty water**.(3% salt; 1L water : 30g salt )
 			- In a small bowl mix in the eggs and cheese
-			- After the pasta is Al Dente (almost cooked but still springy). Turn of the heat with guanciale and add the still hot pasta and about 5-6Tbsp of pasta water in the pan, Stir in the cheese mixture, KEEP STRRING
+			- After the pasta is Al Dente (almost cooked but still springy). Turn of the heat with guanciale and add the still hot pasta and about 5-6Tbsp of pasta water in the pan, Stir in the cheese mixture, **KEEP STIRRING** until everything is coated.
 	- [[Panang Curry]]
 	- [[Green Curry]]
 	- [[Massamun Curry]]
