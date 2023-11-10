@@ -132,7 +132,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- 250g chicken thigh & drumstick
 				- 150g Potato
-				- 75g White onion ()
+				- 75g White onion (1 onion)
 				- 300ml Coconut milk
 				- 2.5g cardamom (1 tsp)
 				- 0.5g bay leaf (about 3 leaves)
