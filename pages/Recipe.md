@@ -191,7 +191,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 					- culantro/cilantro for garnish
 			- [[Instruction]]
-				- Cooked the mince meat in water (you can brown it in oil for some extra flavour). Add in blended/smashed roasted uncooked rice.
+				- Cooked the mince meat in water (you can brown it in oil for some extra flavour). Add in blended/crushed roasted uncooked rice, chili flakes, chopped shallots ()
 		- [[Sushi Rice]]
 			- [[Ingredient]]
 				- 1 cup uncooked Japanese rice
@@ -294,7 +294,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 1 + 1/2 Tbsp lime juice (can be substitute with tamarind paste)
 				- 1 + 1/2 Tbsp fish sauce
 				- 1 tps sugar
-				- 1/2 Tbsp roasted uncooked rice
+				- 1/2 Tbsp crushed roasted uncooked rice
 				- 10g shallots (can be substitute with red onions)
 				- 5g spring onions
 				- salt
