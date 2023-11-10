@@ -169,6 +169,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 1 part vinegar
 					- 1/3 part sugar
 					- 1/6 part salt
+					- [[Instruction]]
+						- Boil everything together until combined, then let it rest for 10mins
 			- [[Instruction]]
 				- Wash and cook the Japanese rice in a rice cooker with 1 : 1; Rice : Water ratio
 				- Put the hot rice in a wide bowl (Japanese wooden thing is best)
