@@ -219,6 +219,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 	- [[Chocolate chip cookies]]
 		- [[Ingredient]]
 			- 235g All purpose flour
+			- 2 tsp salt
+			- 1 tsp Baking soda
+			- 225g browned butter
+			- 215g Brown sugar
+			- 100g sugar
 			-
 			- [[Optional]]
 		- [[Instruction]]
