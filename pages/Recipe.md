@@ -289,7 +289,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 40g dried whole chilies
 				- 200ml tamarind paste
 				- 300g palm/coconut sugar
-				- 150g pickle garlic +
+				- 150g pickle garlic + juice #[[pickled garlic]]
+				- 250g sugar
+				- salt
 				- [[Optional]]
 					- msg
 			- [[Instruction]]
+	-
