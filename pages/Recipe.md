@@ -135,8 +135,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 75g White onion
 				- 300ml Coconutmilk
 				- 2.5g cardamom
-				- 0.5g bay leaf
-				- 13g roasted peanuts (about 1)
+				- 0.5g bay leaf (about 3 leaves)
+				- 13g roasted peanuts (about 1+1/2 Tbsp)
 				- 30-40g Massamun curry paste (1-2 Tbsp)
 				- 15ml Tbsp tamarind paste (about 1 Tbsp)
 				- 30-40g palm/coconut sugar (about 1-1+1/2 Tbsp)
