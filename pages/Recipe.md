@@ -286,7 +286,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Nam Jim look shin]]
 			- [[Ingredient]]
 				- 35g chili flakes
-				- 40g dried whole chilies
+				- 40g dried whole Thai chilies
 				- 200ml tamarind paste
 				- 300g palm/coconut sugar
 				- 150g pickle garlic + juice #[[pickled garlic]]
@@ -295,7 +295,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 					- msg
 			- [[Instruction]]
-				- Fry the dried whole chilies
+				- Fry the dried whole chilies, and roast chili flakes in oil & salt. until fragrant.
+				-
 	- [[Misc]]
 		- [[pickled garlic]]
 			- [[Ingredient]]
