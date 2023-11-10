@@ -165,12 +165,12 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 - [[Dessert]]
 	- [[Fruit Lather]]
 		- [[Ingredient]]
-			- 2-10kg Very ripe fruit
+			- 1-10kg Very ripe fruit
 			- 1 tps salt
 			- [[Optional]]
 				- 1-2 cup unripe fruit
 				- 1Tbsp Syrup / 30g sugar
-				- 1 tsp
+				- 1 tsp lime juice
 		- [[Instruction]]
 			- Blend all the fruit until there are no more clumps.
 			- Add into a pot on medium-high heat stir until it starts to boil (about 10-30mins).
