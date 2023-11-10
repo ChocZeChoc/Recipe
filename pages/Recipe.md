@@ -180,7 +180,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Bake in an oven at 200-225$\degree$C for 25-35mins or until the inside is at least 75$\degree$C and the outside is nice and crispy.
 		- [[Lab(Larb) Moo/Nam Tok Moo]]
 			- [[Ingredient]]
-				- 300g mince pork (mince chicken)
+				- 300g mince pork (mince chicken, Grilled pork neck for Nam Tok)
 				- 5 Tbsp roasted uncooked rice
 				- 1 Tbsp chili powder/flakes
 				- 1/2 tsp sugar
@@ -191,7 +191,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 					- culantro/cilantro for garnish
 			- [[Instruction]]
-				- Cook
+				- Cooked the mince meat in
 		- [[Sushi Rice]]
 			- [[Ingredient]]
 				- 1 cup uncooked Japanese rice
