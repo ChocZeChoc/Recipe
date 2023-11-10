@@ -185,12 +185,13 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 1 Tbsp chili powder/flakes
 				- 1/2 tsp sugar
 				- 1-2 lime (about 2-4Tbsp)
-				- 3-4 small shallots
+				- 3-4 small shallots (can be substitute with red onions)
 				- 3-5 spring onions
 				- handful mint leaves
-				-
 				- [[Optional]]
+					- culantro/cilantro for garnish
 			- [[Instruction]]
+				- Cook
 		- [[Sushi Rice]]
 			- [[Ingredient]]
 				- 1 cup uncooked Japanese rice
