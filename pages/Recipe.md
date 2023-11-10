@@ -22,5 +22,5 @@
 			- Cooked 2 cups of rice and let it chill in the fridge for at least 15mins (overnight is better)
 			- Chop the garlic, chilies and bacon
 			- Put 2 Tbsp of cooking oil in the pan, turn the heat to medium-high, when the pan gets hot, put in the chopped chilies and garlic. Stir fry until golden (Do not burn)
-			- Put in the meats (Bacon and/or )
+			- Put in the meats (Bacon and/or sliced meat) let it cooked, for the bacon just cook it enough for color (not too crispy)
 - [[Dessert]]
