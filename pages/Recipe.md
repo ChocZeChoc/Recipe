@@ -27,7 +27,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 2 Cloves of garlic
 				- 5-10g black pepper (1-2 tsp)
 				- 15ml oil (2 Tbsp)
-				- 4 Strips of bacon (Half a pack)
+				- 50-75g bacon (Half a pack \approx 4 strips )
 				- [[Optional]]
 					- 300g of sliced/mince meat (pork/chicken)
 					- 1-2 Chili
