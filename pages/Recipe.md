@@ -104,6 +104,8 @@
 			- 1 cup water
 			- 7.5ml #[[Vinegar mix]]
 		- [[Vinegar mix]]
-			-
+			- 1 part vinegar
+			- 1/3 part sugar
+			- 1/6 part salt
 - [[Dessert]]
 - [[Sauces]]
