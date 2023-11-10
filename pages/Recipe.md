@@ -185,7 +185,8 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 			- 150g sweet condensed milk
 			- [[Optional]]
 		- [[Instruction]]
-			- Beat
+			- Crush the Oreo cookies, by either beating them in a Ziploc bag or blending them.
+			-
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
