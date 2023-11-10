@@ -291,15 +291,15 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 300g palm/coconut sugar
 				- 150g pickle garlic + juice #[[pickled garlic]]
 				- 250g sugar
-				- 2 whole tomatoes
 				- salt
 				- [[Optional]]
 					- msg
 					- 1 cup shallots
 					- coriander root
+					- 2 whole tomatoes
 			- [[Instruction]]
 				- Roast Dried chilies and chili flakes (and shallots) in oil & salt until fragrant or golden. (separate frying shallots and chilies for the most control)
-				- Blend both chilies, and tomatoes and pickled garlic until fully combined. (coriander root )
+				- Blend both chilies, (and tomatoes) and pickled garlic until fully combined. (coriander root goes in this step)
 				- Put in all the sugars into a pan/pot Medium-High to high heat, add in the blended mixture, tamarind paste, and some water. Stir and mix until thicken.
 	- [[Misc]]
 		- [[pickled garlic]]
