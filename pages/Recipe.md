@@ -162,7 +162,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Mix in **fish sauce** to slow down the cooking.
 				- Add in the **meat** let it cook, you can fry it before adding it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to **fully cook it**. Add the **kaffir leave** and **Long green beans**, keep mixing until everything is **covered** in the curry paste.
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
-		- [[Stir-fry Venus clam]]
+		- [[Stir-fry Venus clam]] ^^Missing^^ **Missing**
 			- [[Ingredient]]
 				- [[Optional]]
 			- [[Instruction]]
@@ -240,7 +240,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Wash and cook the Japanese rice in a rice cooker with **1 : 1; Rice : Water ratio**
 				- Put the hot rice in a **wide bowl** (Japanese wooden thing is best)
 				- Add the **vinegar mix** and mix the rice and vinegar mixture in a **slicing motion** (Do not fold the rice or stir only scoop a little and shake it off the rice spoon; Big ass wide spoon for rice; wood or plastic)
-		- [[Hainan-style chicken/Khoa mun kai]]
+		- [[Hainan-style chicken/Khoa mun kai]] ^^Missing^^ **Missing**
 			- [[Ingredient]]
 				- [[Optional]]
 			- [[Instruction]]
@@ -369,7 +369,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Blend** both chilies, (and tomatoes) and **pickled garlic** until fully **combined**. (coriander root goes in this step)
 				- Put in all the **sugars** into a **pan/pot Medium-High** to **high** heat, add in the **blended mixture**, **tamarind paste**, and some **water**. Stir and **mix** until **thicken**(use starches to thicken if the flavour is harsher than you'd like) .
 	- [[Misc]]
-		- [[pickled garlic]]
+		- [[pickled garlic]] ^^Missing^^ **Missing**
 			- [[Ingredient]]
 				- [[Optional]]
 			- [[Instruction]]
