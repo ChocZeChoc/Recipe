@@ -295,4 +295,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 					- msg
 			- [[Instruction]]
-	-
+				- Fry the dried whole chilies
+	- [[Misc]]
+		- [[pickled garlic]]
+			- [[Ingredient]]
+				- [[Optional]]
+			- [[Instruction]]
