@@ -261,7 +261,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 600g Oreo cookies (about 50 cookies)
 				- 170g Melted butter
 				- 500g Heavy cream
-				- 1 Tbsp vanilla extract
+				- 1 tsp vanilla extract
 				- 150g sweet condensed milk
 				- [[Optional]]
 			- [[Instruction]]
