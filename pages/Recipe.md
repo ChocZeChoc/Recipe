@@ -34,7 +34,11 @@
 			- 1 Tbsp Fish sauce
 			- 1/2 Tbsp Dark soy sauce
 			- 1/2 Tbsp Sugar
-			- 3-4
+			- 3-4 Red Thai chilies
+			- 4-6 cloves of garlic
+			- 1 Cup of fresh basil leaves
 			- [[Optional]]
+				- msg
+				- Sliced baby carr
 		- [[Instruction]]
 - [[Dessert]]
