@@ -134,7 +134,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 150g Potato
 				- 75g White onion
 				- 300ml Coconutmilk
-				-
+				- 2.5g cardamom
+				- 0.5g bay leaf
+				- 13g roasted peanuts
+				- 30-40g Massamun curry paste
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Paad Prik Kang]] #[[Dried curry]]
