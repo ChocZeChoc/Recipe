@@ -57,9 +57,11 @@
 			- 100g Guanciale
 			- [[Optional]]
 				- Bacon/Pancetta
-				- gralic
-				- Pecorin
+				- garlic
+				- Pecorino
+				- Extra egg yolk
 		- [[Instruction]]
+			- Cook the guanciale(bacon/Pan
 	- [[Panang Curry]]
 	- [[Green Curry]]
 	- [[Massamun Curry]]
