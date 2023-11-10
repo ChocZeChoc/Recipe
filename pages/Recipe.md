@@ -254,10 +254,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 			- [[Instruction]]
 				- **Crush** the **Oreo cookies**, by either beating them in a Ziploc bag or blending them.
-				- Set aside 100g of crushed cookies
-				- Transfer the rest of the crushed cookies into a bowl add the melted butter, and mix.
-				- In a new bowl beat up the heavy cream until it can form firm-peaks, mix in the crush cookies that you've set aside and the condensed milk. Fold until thoroughly mixed.
-				- Spread the cookie & butter mixture onto a baking pan, then add the cream mixture.
+				- Set aside **100g of crushed cookies**
+				- Transfer the rest of the **crushed cookies** into a bowl add the **melted butter**, and mix.
+				- In a new bowl beat up the **heavy cream** until it can form **firm-peaks**, mix in the **crush cookies** that you've set aside and the **condensed milk**. **Fold** until thoroughly mixed.
+				- Spread the **cookie & butter mixture** onto a baking pan, then add the cream mixture.
 				- Chilled in the freezer for 2-3 hours, then add the rest of the cookie & butter mixture on top.
 				- Freeze for at least another 6hours or overnight.
 		- [[Classic Ice cream sandwich]]
