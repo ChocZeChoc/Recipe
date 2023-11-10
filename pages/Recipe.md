@@ -12,7 +12,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- Teaspoon = tsp
 			- ml = millilitres
 			- L = litres
-			- For quick estimate: Solids 1 Tbsp \approx 30g , Liquids 1 Tbsp \approx 15ml
+			- For quick estimate: Paste 1 Tbsp \approx 30g , Liquids 1 Tbsp \approx 15ml, Powder 1 Tbsp \approx
 			- US Volumes are roughly equal to Metric volume; 1 Tbsp(Metric) \approx 1 Tbsp(US), 1 tsp \approx 1 tsp
 		- [[Conversion]]
 			- [[Temperature]]
