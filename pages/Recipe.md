@@ -194,7 +194,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 				- Add **all the powder**, **soy sauce**, and **oil** in a **bowl/bag**. Then add in the **chicken**. Mix until everything is covered.
 				- **Marinate** for at least **15mins to 2 hours**.
-				- Bake in an oven at **200-225**$\degree$C for **25-35mins** or until the **inside** is **at least 75**$\degree$C and the outside is nice and crispy.
+				- Bake in an oven at **200-225**$\degree$C for **25-35mins** or until the **inside** is **at least 75**$\degree$C and the outside is **nice and crispy.**
 		- [[Laab(Larb) Moo/Nam Tok Moo]]
 			- [[Ingredient]]
 				- 300g mince pork (mince chicken, Grilled pork neck for Nam Tok)
@@ -210,8 +210,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 1/2 tsp sugar
 					- msg
 			- [[Instruction]]
-				- Cooked the mince meat in water (you can brown it in oil for some extra flavour).
-				- Add in blended/crushed roasted uncooked rice, chili flakes, chopped shallots (thin half slices), fish sauce, chopped spring onions, and lime juice (sugar, msg). Mix everything together turn off the heat, Add the mint leaves (and Thai basil).
+				- Cooked the **mince meat** in water (you can brown it in oil for some extra flavour), on Medium-high heat.
+				- Add in blended/crushed **roasted uncooked rice**, **chili flakes**, **chopped shallots** (thin half slices), **fish sauce**, **chopped spring onions**, and **lime juice** (sugar, msg). Mix everything together **turn off the heat**, Add the **mint leaves** (and Thai basil).
 		- [[Sushi Rice]]
 			- [[Ingredient]]
 				- 1 cup uncooked Japanese rice
