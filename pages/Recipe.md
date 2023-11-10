@@ -134,13 +134,15 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 		- [[Paad Prik Kang]] #[[Dried curry]]
 			- [[Ingredient]]
-				- 200g Meat (Any kind of chopped meat)
+				- 200g Meat (Any kind of chopped meat best with pork belly)
 				- 2 Tbsp Red curry paste
 				- 2 kaffir leaves
 				- 1 Tbsp Fish sauce
-				- 1 + 1/2 Tbsp
+				- 1 + 1/2 Tbsp Palm/Coconut sugar
+				- 300g Long green beans
 				- [[Optional]]
 					- Massamun curry paste (Very little to make it sweeter)
+					- msg
 			- [[Instruction]]
 		- [[Stir-fry Venus clam]]
 			- [[Ingredient]]
