@@ -4,5 +4,7 @@
 			- 300g meat (pork/chicken)
 			- 2 Tbsp Oystersauce
 			- 2 Eggs
-			- 6
+			- 6 cups of cooked rice, chilled (2 cups as uncooked)
+			- 1 Tbsp Soy sauce (Magi or green )
+			-
 - [[Dessert]]
