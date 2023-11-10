@@ -171,7 +171,8 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 				- 1-2 cup unripe fruit
 		- [[Instruction]]
 			- Blend all the fruit until there are no more clumps.
-			- Put in a pot on medium-high heat
+			- Add into a pot on medium-high heat stir until it starts to boil
+			- Leave it out in the sun, or bake in the oven at 80C until dry.
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
