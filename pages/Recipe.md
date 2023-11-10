@@ -255,11 +255,15 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Nam Jim Jaew]]
 			- [[Ingredient]]
 				- 1 Tbsp roasted chili flakes
-				- 1 + 1/2 Tbsp lime juice
+				- 1 + 1/2 Tbsp lime juice ()
 				- 1 + 1/2 Tbsp fish sauce
 				- 1 tps sugar
-				- 1/2 Tbsp roasted
+				- 1/2 Tbsp roasted uncooked rice
+				- 10g shallots
+				- 5g spring onions
 				- [[Optional]]
+					- 10g red onions
+					- msg
 			- [[Instruction]]
 		- [[Wing-zabb/Larb powder]]
 			- [[Ingredient]]
