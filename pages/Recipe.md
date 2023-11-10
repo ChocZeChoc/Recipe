@@ -339,9 +339,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Wing-zabb/Larb powder]]
 			- [[Ingredient]]
 				- 18g Paprika powder (3 Tbsp)
-				- 2 tps chili powder (more if needed)
-				- 2 tps Lime powder (can be Substitute with citric acid powder)
-				- 1 tps salt
+				- 4g chili powder (2 tps; more if needed)
+				- 4g Lime powder (2 tps; can be Substitute with citric acid powder)
+				- 2g salt (1 tps)
 				- 1 Tbsp sugar
 				- 1 Tbsp roasted uncooked rice
 				- [[Optional]]
