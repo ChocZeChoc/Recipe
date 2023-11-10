@@ -12,6 +12,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- Teaspoon = tsp
 			- ml = millilitres
 			- L = litres
+			- For quick estimate: Solids 1 Tbsp \approx 30g , Liquids 1
 		- [[Conversion]]
 			- [[Temperature]]
 				- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
@@ -138,7 +139,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 0.5g bay leaf (about 3 leaves)
 				- 13g roasted peanuts (about 1+1/2 Tbsp)
 				- 30-40g Massamun curry paste (1-2 Tbsp)
-				- 15ml Tbsp tamarind paste (about 1 Tbsp)
+				- 15ml tamarind paste (about 1 Tbsp)
 				- 30-40g palm/coconut sugar (about 1-1+1/2 Tbsp)
 				- 30ml fish sauce (2 Tbsp)
 				- [[Optional]]
