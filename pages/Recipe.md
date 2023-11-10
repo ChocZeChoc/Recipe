@@ -1,4 +1,4 @@
-Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
+Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 
 - Things to know
 	- #kaphrao and #horapha are both Thai basil but they are not the same, read which tag it has.
@@ -195,7 +195,7 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 			- Freeze for at least another 6hours or overnight.
 	- [[Classic Ice cream sandwich]]
 		- [[Ingredient]]
-			- 1/2
+			- $1/2$ cup
 			- [[Optional]]
 		- [[Instruction]]
 - [[Sauces/Paste/rub]]
