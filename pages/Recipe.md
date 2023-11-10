@@ -162,6 +162,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 1 tsp smoked paprika
 				- 1 tsp coriander seed powder
 				- 1 tsp Dried basil
+				- 1 tsp onion powder
+				- 1 tsp Ginger powder
+				- 1 tsp Garlic powder
+				- 2 tsp cayenne pepper powder
+				- 2 tsp soy sauce
 				-
 				- [[Optional]]
 			- [[Instruction]]
