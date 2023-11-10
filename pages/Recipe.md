@@ -19,7 +19,7 @@
 				- more oil
 				- Dark soy sauce
 		- [[Instruction]]
-			- Cooked 2 cups of rice and let it chill in the fridge for at least 15mins (overnight is better)
+			- Cooked 2 cups of rice and let it **chill in the fridge** for at least 15mins (overnight is better)
 			- Chop the garlic, chilies and bacon
 			- Put 2 Tbsp of cooking oil in the pan, turn the heat to medium-high, when the pan gets hot, put in the chopped chilies and garlic. Stir fry until golden (Do not burn)
 			- Put in the meats (Bacon and/or sliced meat) let it cooked, for the bacon just cook it enough for color (not too crispy).
@@ -61,10 +61,10 @@
 				- Extra egg yolk
 				- 2Tbsp oil
 		- [[Instruction]]
-			- Cook the **guanciale**(bacon/pancetta) until **crispy** (add oil if needed).
+			- Cook the **guanciale**(bacon/pancetta) until **crispy** (add oil if needed) in Medium-High to High.
 			- While the guanciale is cooking, cook the **pasta in sea-salty water**.(3% salt; 1L water : 30g salt )
-			- In a small bowl mix in the eggs and cheese
-			- After the pasta is Al Dente (almost cooked but still springy). Turn of the heat with guanciale and add the still hot pasta and about 5-6Tbsp of pasta water in the pan, Stir in the cheese mixture, **KEEP STIRRING** until everything is coated.
+			- In a **small bowl** mix in the **eggs and cheese**
+			- After the pasta is **Al Dente** (almost cooked but still springy). **Turn off** the heat with guanciale and add the **still hot pasta** and about 5-6Tbsp of pasta water in the pan, Stir in the cheese mixture, **KEEP STIRRING** until everything is coated.
 	- [[Panang Curry]]
 	- [[Green Curry]]
 	- [[Massamun Curry]]
