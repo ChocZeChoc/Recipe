@@ -149,7 +149,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Fry curry paste**, and half of the chilies in **Medium-high** heat pan (use a pot for bigger portions) in **oil or the more solid part of coconut milk** until you start to see oil/fat render out of the coconut milk or **until golden** or **fragrant** if using oil. If you use oil to fry the garlic etc. add the more solid part of the coconut milk in before the next step and let it heat up for about 5-10mins or until fat starts to render out of the coconut milk.
 				- Mix in **fish sauce, salt**, the rest of the **chilies**, **tamarind paste**, and **sugar** into the pan.
 				- Add in the **meat** and the **Spices** let it cook, you can **fry it before adding** it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to **fully cook it**.  Let the curry comes to a **boil** then turn the heat down to a **Medium** for about **20-25mins**.
-				- Add the chopped Potatoes and Onions into the pot, Stir everything until everything is coated. Let it simmer/boil for about 15-20mins. If you want a fall of the bone tender then let it simmer for an extra 30mins. Test if the potatoes is fully cooked (poke a fork into the potatoes),
+				- Add the chopped Potatoes and Onions into the pot, Stir everything until everything is coated. Let it simmer/boil for about 15-20mins. If you want a fall of the bone tender then let it simmer for an extra 30mins. Test if the potatoes is fully cooked (poke a fork into the potatoes and see if there's any resistance).
+				- Add in the roasted peanuts, simmer for 30more
 		- [[Paad Prik Kang]] #[[Dried curry]]
 			- [[Ingredient]]
 				- 200g Meat (Any kind of chopped meat best with fatty meat)
