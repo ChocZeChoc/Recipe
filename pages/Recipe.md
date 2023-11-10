@@ -2,6 +2,10 @@
 	- #kaphrao and #horapha are both Thai basil but they are not the same, read which tag it has.
 		- Common name for #kaphrao is Holy basil, used more often.
 		- And for #horapha is Thai basil
+	- [[Unit]]
+		- All units are measured in Metric scale
+		- Tablespoon = Tbsp
+		- Teaspoon = tps
 - [[Conversion]]
 	- [[Temperature]]
 		- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
