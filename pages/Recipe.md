@@ -151,7 +151,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Finely chop the garlic, put everything except the meat into a bag/bowl, Mix everything until fully combined and the sugar has dissolve into the mixture. Add in the pork (chopped into long strips if preferred you can also copped after it has been cooked) and mix again until all the meat is coated.
 				- Let it marinate in the fridge for at least 15mins to 2 hours.
 				- Grill it over some charcoal or use an air-fryer/oven at 180-200$\degree$C for about 10-20mins. Make sure the middle is at least 65$\degree$C.
-				- Eat with sticky rice and #[[Nam Jim Jaew]] ((654e1d49-d7ae-4575-be1e-b07ec9a3235a))
+				- Eat with sticky rice and #[[Nam Jim Jaew]]
 		- [[Nathan's Oven baked Drumstick]]
 			- [[Ingredient]]
 				- [[Optional]]
