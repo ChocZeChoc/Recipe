@@ -1,5 +1,5 @@
 - Things to know
-	- #kaphrao and
+	- #kaphrao and #horapha are both Thai basil but they are not the same, read which tag it has.
 - [[Conversion]]
 	- [[Temperature]]
 		- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
