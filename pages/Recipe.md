@@ -108,6 +108,8 @@
 				- 1/3 part sugar
 				- 1/6 part salt
 		- [[Instruction]]
-			- Wash and cook the Jap
+			- Wash and cook the Japanese rice in a rice cooker with 1 : 1; Rice : Water ratio
+			- Put the hot rice in a wide bowl (Japanese wooden thing is best)
+			-
 - [[Dessert]]
 - [[Sauces]]
