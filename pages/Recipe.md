@@ -234,7 +234,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 135g All purpose flour or 100g All purpose flour + 35g gluten flour
 		- [[Instruction]]
 			- Sift out the flours, salt, and baking soda into a bowl.
-			- Keep stirring the butter in a Medium-High heat pan/pot until brown. After browning immediately put the browned butter into a container until it reach room temp to stop the cooking and keep the butter from burning. Add some water into the melted butter until
+			- Keep stirring the butter in a Medium-High heat pan/pot until brown. After browning immediately put the browned butter into a container until it reach room temp to stop the cooking and keep the butter from burning. Add some water into the melted butter until it reach about 250ml in total volume.
+			- Mix in White sugar, brown sugar
 - [[Sauces/Paste/rub]]
   collapsed:: true
 	- [[Wing-zabb/Larb powder]]
