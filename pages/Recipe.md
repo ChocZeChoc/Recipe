@@ -198,9 +198,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 1/2 cup + 1Tbsp all-purpose flour
 			- 1/4 tps salt
 			- 1/4 tps baking soda
-			- 1/3 cup sifted cocoa powder
+			- 60g cup sifted cocoa powder
 			- 3 Tbsp room temp butter
-			-
+			- 50g sugar
 			- [[Optional]]
 		- [[Instruction]]
 - [[Sauces/Paste/rub]]
