@@ -107,8 +107,10 @@
 			- 1 Cup turkey berry (Can be substitute with 1 Big purple egg plant/Aubergine)
 			- 1 Cup Thai basil leaves #horapha
 			- 1/2 Cup kaffir leaves
+			- 10-30g palm/coconut sugar (About 1 Tbsp)
 			- 2 Tbsp Fish sauce
 			- [[Optional]]
+				- Purple egg plant/Aubergine
 		- [[Instruction]]
 			- Fry garlic, curry paste, and half of the chilies in medium-high heat pan (use a pot for bigger portions) in oil or the more solid part of coconut milk until you start to see oil/fat render out of the coconut milk or until golden if using oil. If you use oil to fry the garlic etc. add the more solid part of the coconut milk in before the next step and let it heat up for about 5-10mins or until fat starts to render out of the coconut milk.
 			- Mix in fish sauce, salt, the rest of the chilies, and sugar into the pan.
