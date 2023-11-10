@@ -287,7 +287,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- 35g chili flakes
 				- 40g dried whole Thai chilies
-				- 200ml tamarind paste
+				- 200ml tamarind paste (can be substitute with lime juice)
 				- 300g palm/coconut sugar
 				- 150g pickle garlic + juice #[[pickled garlic]]
 					- about 50g of garlic & 100ml of pickled garlic juice
