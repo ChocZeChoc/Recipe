@@ -281,7 +281,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Whisk all-purpose flour**, **salt**, **baking soda**, and **cocoa** together in a **bowl**, **sift** the mixture.
 				- Mix **butter**, **both sugars**, and **vanilla** in another **bowl** with a spatula until **smooth** (add the eggs here). Add flour mixture along with mix until the batter is smooth and stiff. Scoop the mixture on to the baking sheet.
 				- **Bake** for about **10mins** or until the top is **no longer wet**. Let the cookie cools at **room temp** for about **15mins**.
-				- **Freeze** the cookies for about **15mins**, after chilled bring out the cookies add a scoop of **ice cream** between the cookies. And **freeze** for 3hours before eating.
+				- **Freeze** the cookies for about **15mins**, after chilled bring out the cookies add a scoop of **ice cream** between the cookies. And **freeze** for **3hours** before eating.
 		- [[Chocolate chip cookies]]
 			- [[Ingredient]]
 				- 100g All purpose flour
@@ -299,9 +299,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 					- 135g All purpose flour or 100g All purpose flour + 35g gluten flour
 			- [[Instruction]]
-				- Sift out the flours, salt, and baking soda into a bowl.
-				- Keep stirring the butter in a Medium-High heat pan/pot until brown. After browning immediately put the browned butter into a container until it reach room temp to stop the cooking and keep the butter from burning. Add some water into the melted butter until it reach about 250ml in total volume.
-				- Mix in White sugar, brown sugar, espresso powder, and vanilla extract into a bowl, then add in the room temp brown butter. Whisk until thoroughly mixed. Then add the egg & egg yolk into the mixture, continue whisking until fully mixed.
+				- Sift out the **flours**, **salt**, and **baking soda** into a bowl.
+				- Keep stirring the **butter** in a **Medium-High** heat pan/pot until **brown**. After browning immediately put the browned butter into a container until it reach **room temp** to stop the cooking and keep the butter from burning. Add some **water** into the melted butter until it reach about **250ml** in total volume.
+				- Mix in **White sugar**, **brown sugar**, **espresso powder**, and vanilla extract into a bowl, then add in the room temp brown butter. Whisk until thoroughly mixed. Then add the egg & egg yolk into the mixture, continue whisking until fully mixed.
 				- Add in the flour mixture into the butter mixture, carful not to whisk too much as the rest of the flour will get mixed when folding in the chocolate.
 				- Chopped up the chocolate, then add it into the mixture. Fold until everything is mixed. Scoop out the cookies into 70-80g balls (About 14-16 pieces) on to a baking paper. Let it chilled in the fridge for 1 hour.
 				- Bake in the oven for 12-15mins at 180$\degree$C
