@@ -5,7 +5,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- #kaphrao and #horapha are both Thai basil but they are not the same, read which tag it has.
 			- Common name for #kaphrao is Holy basil, used more often.
 			- And for #horapha is Thai basil
-			- For baking try to use
+			- For baking try to use kosher salt if possible
 		- [[Unit]]
 			- All units are measured in Metric scale
 			- Tablespoon = Tbsp
