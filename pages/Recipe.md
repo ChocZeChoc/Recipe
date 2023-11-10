@@ -164,6 +164,7 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Instruction]]
 - [[Dessert]]
 	- [[Fruit Lather]]
+	  collapsed:: true
 		- [[Ingredient]]
 			- 1-10kg Very ripe fruit
 			- 1 tps salt
@@ -175,6 +176,7 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 			- Blend all the fruit until there are no more clumps.
 			- Add into a pot on medium-high heat stir until it starts to thicken (about 10-30mins).
 			- Spread it out very thinly and leave it out in the sun, or bake in the oven at 80C$\degree$ until dry.
+	-
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
