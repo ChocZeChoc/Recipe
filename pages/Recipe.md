@@ -1,10 +1,6 @@
 - [[Conversion]]
 	- [[Temperature]]
-		- 50F = 10C
-		- 75F = 24C
-		- 100F = 38C
-		- 125F = 52C
-		-
+		- $C=\frac{(F-32)}{}
 - [[Savoury]]
 	- [[Nathan's Fried Rice]]
 		- [[Ingredient]]
