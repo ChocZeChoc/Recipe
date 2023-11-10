@@ -164,11 +164,13 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Instruction]]
 - [[Dessert]]
 - [[Sauces/Paste/rub]]
-	- [[Ingredient]]
-		- 3 Tbsp Paprika powder
-		- 2 tps chili powder (more if needed)
-		- 2 tps Lime powder (can be Substitute with citric acid powder)
-		- 1 tps salt
-		- 1 Tbsp sugar
-		- 1 Tbsp
-	- [[Instruction]]
+	- [[Wing-zabb/Larb powder]]
+		- [[Ingredient]]
+			- 3 Tbsp Paprika powder
+			- 2 tps chili powder (more if needed)
+			- 2 tps Lime powder (can be Substitute with citric acid powder)
+			- 1 tps salt
+			- 1 Tbsp sugar
+			- 1 Tbsp roasted uncooked rice
+		- [[Instruction]]
+			- Just mix everything
