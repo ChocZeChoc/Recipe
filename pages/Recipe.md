@@ -179,10 +179,13 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 	- [[Oreo Ice-cream sandwich]]
 		- [[Ingredient]]
 			- 600g Oreo cookies (about 50 cookies)
-			- 170g Melted unsalted butter
+			- 170g Melted butter
 			- 500g Heavy cream
+			- 1 Tbsp vanilla extract
+			- 150g sweet condensed milk
 			- [[Optional]]
 		- [[Instruction]]
+			- Beat
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
