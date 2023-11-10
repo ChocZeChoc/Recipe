@@ -130,8 +130,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
 		- [[Massamun Curry]]
 			- [[Ingredient]]
-				- 500g chicken thigh & drumstick
-				- 300g Potato
+				- 250g chicken thigh & drumstick
+				- 150g Potato
+				- 75g White onion
+				- 300ml Coconutmilk
+				-
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Paad Prik Kang]] #[[Dried curry]]
