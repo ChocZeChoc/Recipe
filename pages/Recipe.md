@@ -114,8 +114,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 400-500ml Coconut milk
 				- 40-60g Green curry paste (About 2Tbsp-3Tbsp)
 				- 2-3 fresh Thai Chilies (more if needed)
-				- 400g Thai egg plant (About 8 thai egg plants Can be substitute with 1-2 Aubergine)
-				- 1 Cup turkey berry (Can be substitute with 1 Big purple egg plant/Aubergine)
+				- 400g Thai egg plant (About 8 Thai egg plants; Can be substitute with 1-2 Aubergine)
+				- 200g turkey berry (About 1 cup; Can be substitute with 1 Aubergine)
 				- 1 Cup Thai basil leaves #horapha
 				- 1/2 Cup kaffir leaves
 				- 10-30g palm/coconut sugar (About 1 Tbsp)
