@@ -139,7 +139,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 13g roasted peanuts
 				- 30-40g Massamun curry paste
 				- 1 Tbsp tamarind paste
-				- 1 + 1/2 Tbsp palm sugar
+				- 30-40g palm/coconut sugar (about 1-1+1/2 Tbsp)
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Paad Prik Kang]] #[[Dried curry]]
