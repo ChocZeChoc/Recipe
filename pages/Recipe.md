@@ -165,7 +165,7 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 - [[Dessert]]
 	- [[Fruit Lather]]
 		- [[Ingredient]]
-			- 10 kg Very ripe fruit
+			- 5 kg Very ripe fruit
 			- 1 tps salt
 			- [[Optional]]
 				- 1-2 cup unripe fruit
