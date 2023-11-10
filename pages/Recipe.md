@@ -105,7 +105,7 @@
 			- 2-3 fresh Thai Chilies (more if needed)
 			- 8 Thai egg plant (Can be substitute with 1-2 Big purple egg plant/Aubergine)
 			- 1 Cup turkey berry (Can be substitute with 1 Big purple egg plant/Aubergine)
-			- 1 Cup basil leaves #kaphrao
+			- 1 Cup Thai basil leaves #horapha
 			- 2 Tbsp Fish sauce
 			- [[Optional]]
 		- [[Instruction]]
