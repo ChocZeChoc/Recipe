@@ -146,7 +146,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 				- Fry curry paste and sugar in medium-high heat pan (use a pot for bigger portions) in oil until fat/oil starts to render or until golden.
 				- Mix in fish sauce to slow down the cooking.
-				- Add in the meat let it cook, you can fry it before adding it in to add more flavour, if using bone-in chicken(drumstick, chicken thigh etc.) do this step first and then bake/boil the chicken to fully cook it. (Add turkey berries and/or Egg plant, Basil leaves, and coriander seeds after this step)
+				- Add in the meat let it cook, you can fry it before adding it in to add more flavour, if using bone-in chicken(drumstick, chicken thigh etc.) do this step first and then bake/boil the chicken to fully cook it. Add the kaffir leave and Long green beans, keep mixing until everything is covered in the curry paste.
 				- Garnish with sliced none spicy chilies, and citrus leaves
 		- [[Stir-fry Venus clam]]
 			- [[Ingredient]]
