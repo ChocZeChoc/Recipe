@@ -72,7 +72,7 @@
 	- [[Panang Curry]]
 		- [[Ingredient]]
 			- 300-400g Meat (Sliced pork, Chicken)
-			- Coconut milk 200ml
+			- 200-400ml Coconut Milk
 			- 2 cloves garlic
 			- 2 Tbsp oil
 			- 3-4 Fresh Chilies
@@ -96,7 +96,7 @@
 	- [[Green Curry]]
 		- [[Ingredient]]
 			- 200-300g Meat (Sliced pork, Chicken, Pork belly)
-			-
+			- 400-500ml Coconut milk
 			- [[Optional]]
 		- [[Instruction]]
 			- Fry garlic, curry paste, and half of the chilies in medium-high heat pan (use a pot for bigger portions) in oil or the more solid part of coconut milk until you start to see oil/fat render out of the coconut milk or until golden if using oil. If you use oil to fry the garlic etc. add the more solid part of the coconut milk in before the next step and let it heat up for about 5-10mins or until fat starts to render out of the coconut milk.
