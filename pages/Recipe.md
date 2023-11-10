@@ -211,7 +211,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- Preheat the oven to 175$\degree$C. Cover/Spray the baking sheet with cooking oil or butter.
 			- Whisk all-purpose flour, salt, baking soda, and cocoa together in a bowl, sift the mixture.
 			- Mix butter, both sugars, and vanilla in another bowl with a spatula until smooth. Add flour mixture along with mix until the batter is smooth and stiff. Scoop the mixture on to the baking sheet.
-			- Bake for about 10mins or until the top is no longer wet. Let the cookie cools for about 10
+			- Bake for about 10mins or until the top is no longer wet. Let the cookie cools at room temp for about 15mins.
+			- Freeze the cookies for about 15mins, after chilled bring out and
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
