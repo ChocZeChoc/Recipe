@@ -1,6 +1,6 @@
 - Things to know
 	- #kaphrao and #horapha are both Thai basil but they are not the same, read which tag it has.
-		- Common name for #kaphrao is holy basil
+		- Common name for #kaphrao is Holy basil, used more often.
 		- And for #horapha is Thai basil
 - [[Conversion]]
 	- [[Temperature]]
@@ -105,7 +105,7 @@
 			- 2-3 fresh Thai Chilies (more if needed)
 			- 8 Thai egg plant (Can be substitute with 1-2 Big purple egg plant/Aubergine)
 			- 1 Cup turkey berry (Can be substitute with 1 Big purple egg plant/Aubergine)
-			- 1 Cup Thai basil #kaphrao
+			- 1 Cup basil leaves #kaphrao
 			- 2 Tbsp Fish sauce
 			- [[Optional]]
 		- [[Instruction]]
