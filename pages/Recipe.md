@@ -140,6 +140,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 30-40g Massamun curry paste (1-2 Tbsp)
 				- 15ml Tbsp tamarind paste (about 1 Tbsp)
 				- 30-40g palm/coconut sugar (about 1-1+1/2 Tbsp)
+				- 30ml fish sauce (2 Tbsp)
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Paad Prik Kang]] #[[Dried curry]]
