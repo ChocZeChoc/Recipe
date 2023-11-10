@@ -174,7 +174,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 30g Thai basil #horapha
 				- 1 Head of garlic
 				- 7 Thai chilies
-				- 60g of Thai chili paste ()
+				- 60g of Thai chili paste (2 Tbsp Nam Prik Pao)
+				- 6g sugar (1 tsp)
+				- 15ml Oyster sauce (1 Tbsp)
+				- 7.5ml Fish sauce (1/2 )
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Marinated pork neck]]
