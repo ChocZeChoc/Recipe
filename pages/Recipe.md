@@ -195,7 +195,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- Freeze for at least another 6hours or overnight.
 	- [[Classic Ice cream sandwich]]
 		- [[Ingredient]]
-			- $1/2$ cup
+			- 1/2 cup + 1Tbsp all-purpose flour
+			- 1/4 tps
 			- [[Optional]]
 		- [[Instruction]]
 - [[Sauces/Paste/rub]]
