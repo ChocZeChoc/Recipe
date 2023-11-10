@@ -210,7 +210,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Instruction]]
 			- Preheat the oven to 175$\degree$C. Cover/Spray the baking sheet with cooking oil or butter.
 			- Whisk all-purpose flour, salt, baking soda, and cocoa together in a bowl, sift the mixture.
-			- Mix butter, both sugars, and vanilla in another bowl,
+			- Mix butter, both sugars, and vanilla in another bowl with a spatula until smooth. Add flour mixture along with mix until the batter is smooth and stiff
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
