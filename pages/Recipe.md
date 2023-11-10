@@ -195,8 +195,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 5g Ginger powder (1 tsp)
 				- 5g Garlic powder (1 tsp)
 				- 10g cayenne pepper powder (2 tsp)
-				- 15ml soy sauce 1 Tbsp
-				- 15ml oil
+				- 15ml soy sauce (1 Tbsp)
+				- 15ml oil (1 Tbsp)
 				- [[Optional]]
 					- BBQ rub
 					- Texas style rub
