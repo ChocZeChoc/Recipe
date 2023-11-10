@@ -141,8 +141,12 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 30g garlic (about 8 cloves)
 				- 8g black pepper
 				- 50g palm/coconut sugar (about 1+1/3 Tbsp)
-				- 2 +
+				- 2 + 1/2 Tbsp oyster sauce
+				- 2 Tbsp soy sauce
+				- 2 Tbsp fish sauce
 				- [[Optional]]
+					- White/Brown sugar
+					- msg
 			- [[Instruction]]
 		- [[Nathan's Oven baked Drumstick]]
 			- [[Ingredient]]
