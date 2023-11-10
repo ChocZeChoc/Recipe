@@ -1,6 +1,7 @@
 - [[Conversion]]
 	- [[Temperature]]
-		- $C=\frac{(F-32)}{}
+		- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
+	- 1 cup = 250ml
 - [[Savoury]]
 	- [[Nathan's Fried Rice]]
 		- [[Ingredient]]
