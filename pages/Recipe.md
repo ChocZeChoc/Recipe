@@ -295,7 +295,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 					- msg
 			- [[Instruction]]
-				- Fry the dried whole chilies, and roast chili flakes in oil & salt. until fragrant.
+				- Roast chili flakes in oil & salt. until fragrant.
 				-
 	- [[Misc]]
 		- [[pickled garlic]]
