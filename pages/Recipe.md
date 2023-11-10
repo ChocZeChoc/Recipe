@@ -170,7 +170,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
 		- [[Stir-fry Venus clam]] ^^Missing^^ **Missing**
 			- [[Ingredient]]
-				- 500g Undulate Venus
+				- 500g Undulate Venus clam (Stripe clam)
+				- 30g Thai basil
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Marinated pork neck]]
