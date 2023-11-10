@@ -89,7 +89,7 @@
 				- None spicy red chilies & Extra Kaffir leaves
 		- [[Instruction]]
 			- Fry chilies, garlic and curry paste in medium-high heat pan in oil or the more solid part of coconut milk.
-			- Add in the meat, if using bone-in chicken(drumstick, chicken thigh etc.) do this step first
+			- Add in the meat let it cook, you can fry it before adding it in to add more flavour, if using bone-in chicken(drumstick, chicken thigh etc.) do this step first .
 	- [[Green Curry]]
 		- [[Ingredient]]
 			- 200-300g pork
