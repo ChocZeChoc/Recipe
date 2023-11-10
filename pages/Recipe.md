@@ -97,10 +97,12 @@
 		- [[Ingredient]]
 			- 200-300g Meat (Sliced pork, Chicken, Pork belly)
 			- 400-500ml Coconut milk
-			- 40-60g Green curry paste
+			- 40-60g Green curry paste (About 2Tbsp-3Tbsp)
 			- 2-3 fresh Thai Chilies (more if needed)
 			- 8 Thai egg plant (Can be substitute with 1-2 Big purple egg plant/Aubergine)
 			- 1 Cup turkey berry (Can be substitute with 1 Big purple egg plant/Aubergine)
+			- 1 Cup Thai basil(Ka phoa)
+			- 2 Tbsp Fish sauce
 			- [[Optional]]
 		- [[Instruction]]
 			- Fry garlic, curry paste, and half of the chilies in medium-high heat pan (use a pot for bigger portions) in oil or the more solid part of coconut milk until you start to see oil/fat render out of the coconut milk or until golden if using oil. If you use oil to fry the garlic etc. add the more solid part of the coconut milk in before the next step and let it heat up for about 5-10mins or until fat starts to render out of the coconut milk.
