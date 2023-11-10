@@ -86,7 +86,9 @@
 				- Lime/Lemon leaves
 				- Turkey berry (some kind of Egg plant)
 				- Coriander seed
+				- None spicy red chilies & Extra Kaffir leaves
 		- [[Instruction]]
+			-
 	- [[Green Curry]]
 		- [[Ingredient]]
 			- 200-300g pork
