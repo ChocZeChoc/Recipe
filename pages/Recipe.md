@@ -210,7 +210,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Laab(Larb) Moo/Nam Tok Moo]]
 			- [[Ingredient]]
 				- 300g mince pork (mince chicken, Grilled pork neck for Nam Tok)
-				- 5 Tbsp roasted uncooked rice
+				- 60g roasted uncooked rice (5 Tbsp)
 				- 1 Tbsp chili powder/flakes
 				- 1-2 lime worth of lime juice (about 2-4Tbsp)
 				- 3-4 small shallots (can be substitute with red onions)
