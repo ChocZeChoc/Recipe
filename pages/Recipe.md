@@ -24,5 +24,6 @@
 			- Put 2 Tbsp of cooking oil in the pan, turn the heat to medium-high, when the pan gets hot, put in the chopped chilies and garlic. Stir fry until golden (Do not burn)
 			- Put in the meats (Bacon and/or sliced meat) let it cooked, for the bacon just cook it enough for color (not too crispy).
 			- Add in the eggs, then break up the yolk and cover the meat. Keep stirring until all the egg is cooked
-			- Add in the chilled rice, break it up in to individual grains. Add in the sauces (soy sauce, oyster sauce)
+			- Add in the chilled rice, break it up in to individual grains. Add in the sauces (soy sauce, oyster sauce etc.) Stir until everything is properly mixed. If the rice looks dry add in some more oil (the rice should be a little reflective).
+			- Add in the garnish &
 - [[Dessert]]
