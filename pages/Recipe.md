@@ -210,7 +210,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 1/2 tsp sugar
 					- msg
 			- [[Instruction]]
-				- Cooked the **mince meat** in water (you can brown it in oil for some extra flavour), on Medium-high heat.
+				- Cooked the **mince meat** in water (you can brown it in oil for some extra flavour), on **Medium-high** heat **pot/pan**.
 				- Add in blended/crushed **roasted uncooked rice**, **chili flakes**, **chopped shallots** (thin half slices), **fish sauce**, **chopped spring onions**, and **lime juice** (sugar, msg). Mix everything together **turn off the heat**, Add the **mint leaves** (and Thai basil).
 		- [[Sushi Rice]]
 			- [[Ingredient]]
@@ -222,11 +222,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 1/3 part sugar
 					- 1/6 part salt
 					- [[Instruction]]
-						- Boil everything together until combined, then let it rest for 10mins
+						- **Boil everything** together until combined, then let it rest for 10mins
 			- [[Instruction]]
-				- Wash and cook the Japanese rice in a rice cooker with 1 : 1; Rice : Water ratio
-				- Put the hot rice in a wide bowl (Japanese wooden thing is best)
-				- Add the vinegar mix and mix the rice and vinegar mixture in a slicing motion (Do not fold the rice or stir only scoop a little and shake it off the rice spoon; Big ass wide spoon for rice; wood or plastic)
+				- Wash and cook the Japanese rice in a rice cooker with **1 : 1; Rice : Water ratio**
+				- Put the hot rice in a **wide bowl** (Japanese wooden thing is best)
+				- Add the **vinegar mix** and mix the rice and vinegar mixture in a **slicing motion** (Do not fold the rice or stir only scoop a little and shake it off the rice spoon; Big ass wide spoon for rice; wood or plastic)
 		- [[Hainan-style chicken/Khoa mun kai]]
 			- [[Ingredient]]
 				- [[Optional]]
@@ -241,7 +241,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 1Tbsp Syrup / 30g sugar
 					- 1 tsp lime juice
 			- [[Instruction]]
-				- Blend all the fruit until there are no more clumps.
+				- **Blend** all the fruit until there are no more clumps.
 				- Add into a pot on medium-high heat stir until it starts to thicken (about 10-30mins).
 				- Spread it out very thinly and leave it out in the sun, or bake in the oven at 80C$\degree$ until dry.
 		- [[Oreo Ice-cream sandwich]]
