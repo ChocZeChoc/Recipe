@@ -194,6 +194,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- Chilled in the freezer for 2-3 hours, then add the rest of the cookie & butter mixture on top.
 			- Freeze for at least another 6hours or overnight.
 	- [[Classic Ice cream sandwich]]
+	  collapsed:: true
 		- [[Ingredient]]
 			- 120g + 1 Tbsp all-purpose flour
 			- 1/4 tps salt
@@ -215,7 +216,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- Mix butter, both sugars, and vanilla in another bowl with a spatula until smooth (add the eggs here). Add flour mixture along with mix until the batter is smooth and stiff. Scoop the mixture on to the baking sheet.
 			- Bake for about 10mins or until the top is no longer wet. Let the cookie cools at room temp for about 15mins.
 			- Freeze the cookies for about 15mins, after chilled bring out the cookies add a scoop of ice cream between the cookies. And freeze for 3hours before eating.
+	- [[Chocolate chip cookies]]
+		-
 - [[Sauces/Paste/rub]]
+  collapsed:: true
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
 			- 3 Tbsp Paprika powder
