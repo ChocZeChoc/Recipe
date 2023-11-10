@@ -90,12 +90,12 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 200ml Coconut Milk
 				- 40-60g Panang curry paste (About 2Tbsp-3Tbsp)
 				- 2 cloves garlic
-				- 2 Tbsp oil
+				- 30ml oil (1/2 Tbsp)
 				- 3-4 Fresh Chilies
 				- salt
 				- 20g sugar
 				- Kaffir leaves
-				- 2 Tbsp Fish sauce
+				- 30ml Fish sauce (2 Tbsp)
 				- [[Optional]]
 					- Holy basil leaves #kaphrao
 					- Lime/Lemon leaves
