@@ -144,7 +144,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 30-40g palm/coconut sugar (about 1-1+1/2 Tbsp)
 				- 30ml fish sauce (2 Tbsp)
 				- [[Optional]]
-			- [[Instruction]]
+			- [[Instruction]] ^^Missing^^ **Missing**
 		- [[Paad Prik Kang]] #[[Dried curry]]
 			- [[Ingredient]]
 				- 200g Meat (Any kind of chopped meat best with fatty meat)
