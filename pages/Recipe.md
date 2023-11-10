@@ -79,8 +79,11 @@
 			- salt
 			- 20g sugar
 			- Kaffir leaves
-			- 40-60g Panang curry paste (About 2)
+			- 40-60g Panang curry paste (About 2Tbsp-3Tbsp)
+			- 2 Tbsp Fish sauce
 			- [[Optional]]
+				- Basil leaves
+				- Lime/Lemon
 		- [[Instruction]]
 	- [[Green Curry]]
 		- [[Ingredient]]
