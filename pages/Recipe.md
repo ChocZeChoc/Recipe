@@ -134,6 +134,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 		- [[Paad Prik Kang]] #[[Dried curry]]
 			- [[Ingredient]]
+				- 200g Meat (Any kind of meat)
 				- 2 Tbsp Red curry paste
 				- [[Optional]]
 					- Massamun curry paste (Very little to make it sweeter)
