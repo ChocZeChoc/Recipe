@@ -62,7 +62,7 @@
 				- 2Tbsp oil
 		- [[Instruction]]
 			- Cook the guanciale(bacon/pancetta) until crispy (add oil if needed).
-			- While the guanciale is cooking, cook the pasta is sea-salty
+			- While the guanciale is cooking, cook the pasta is sea-salty water.(3% salt; 1L water : 30g salt )
 	- [[Panang Curry]]
 	- [[Green Curry]]
 	- [[Massamun Curry]]
