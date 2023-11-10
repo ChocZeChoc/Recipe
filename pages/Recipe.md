@@ -22,7 +22,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- 30ml Oystersauce (2 Tbsp)
 				- 2 Eggs
-				- 6 cups of cooked rice, chilled (2 cups as uncooked)
+				- 1.2kg of cooked rice, chilled (2 cups as uncooked)
 				- 15ml Soy sauce (1 Tbsp)
 				- 2 Cloves of gralic
 				- 2 tsp black pepper
