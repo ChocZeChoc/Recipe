@@ -119,7 +119,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 1 Cup Thai basil leaves #horapha
 				- 1/2 Cup kaffir leaves
 				- 10-30g palm/coconut sugar (About 1 Tbsp)
-				- 2 Tbsp Fish sauce
+				- 30ml Fish sauce (2 Tbsp)
 				- [[Optional]]
 					- Purple egg plant/Aubergine
 					- Red curry paste (add spice and aroma only use a little(1-3 tsp))
