@@ -2,7 +2,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 
 - [[Recipe]]
 	- Things to know
-	  collapsed:: true
 		- #kaphrao and #horapha are both Thai basil but they are not the same, read which tag it has.
 			- Common name for #kaphrao is Holy basil, used more often.
 			- And for #horapha is Thai basil
@@ -231,7 +230,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 			- [[Instruction]]
 	- [[Dessert]]
-	  collapsed:: true
 		- [[Fruit Lather]]
 			- [[Ingredient]]
 				- 1-10kg Very ripe fruit
@@ -356,7 +354,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Blend both chilies, (and tomatoes) and pickled garlic until fully combined. (coriander root goes in this step)
 				- Put in all the sugars into a pan/pot Medium-High to high heat, add in the blended mixture, tamarind paste, and some water. Stir and mix until thicken(use starches to thicken if the flavour is harsher than you'd like) .
 	- [[Misc]]
-	  collapsed:: true
 		- [[pickled garlic]]
 			- [[Ingredient]]
 				- [[Optional]]
