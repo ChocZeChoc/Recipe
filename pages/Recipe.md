@@ -1,3 +1,5 @@
+Links:: https://www.youtube.com/@GinDaiAroiDuay
+
 - Things to know
 	- #kaphrao and #horapha are both Thai basil but they are not the same, read which tag it has.
 		- Common name for #kaphrao is Holy basil, used more often.
@@ -156,7 +158,7 @@
 			- Wash and cook the Japanese rice in a rice cooker with 1 : 1; Rice : Water ratio
 			- Put the hot rice in a wide bowl (Japanese wooden thing is best)
 			- Add the vinegar mix and mix the rice and vinegar mixture in a slicing motion (Do not fold the rice or stir only scoop a little and shake it off the rice spoon; Big ass wide spoon for rice; wood or plastic)
-	- [[Hainan-style chicken / Khoa mun kai]]
+	- [[Hainan-style chicken/Khoa mun kai]]
 		- [[Ingredient]]
 			- [[Optional]]
 		- [[Instruction]]
