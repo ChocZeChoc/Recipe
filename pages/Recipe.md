@@ -134,7 +134,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 150g Potato
 				- 75g White onion
 				- 300ml Coconutmilk
-				- 2.5g cardamom
+				- 2.5g cardamom (1 tsp)
 				- 0.5g bay leaf (about 3 leaves)
 				- 13g roasted peanuts (about 1+1/2 Tbsp)
 				- 30-40g Massamun curry paste (1-2 Tbsp)
