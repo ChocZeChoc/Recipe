@@ -224,7 +224,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 225g browned butter
 			- 215g Brown sugar
 			- 100g sugar
-			-
+			- 2 tsp vanilla extract
+			- 1 tsp coffee powder
+			- 1 egg + 1 yolk
+			- 100g dark chocolate
 			- [[Optional]]
 		- [[Instruction]]
 - [[Sauces/Paste/rub]]
