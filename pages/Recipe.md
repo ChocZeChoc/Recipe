@@ -189,7 +189,8 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 			- Set aside 100g of crushed cookies
 			- Transfer the rest of the crushed cookies into a bowl add the melted butter, and mix.
 			- In a new bowl beat up the heavy cream until it can form firm-peaks, mix in the crush cookies that you've set aside and the condensed milk. Fold until thoroughly mixed.
-			- Spread the cookie
+			- Spread the cookie & butter mixture onto a baking pan, then add the cream mixture, then add the rest of the cookie & butter mixture on top.
+			- Chilled in the freezer
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
