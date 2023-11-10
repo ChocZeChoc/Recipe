@@ -13,7 +13,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- ml = millilitres
 			- L = litres
 			- For quick estimate: Paste 1 Tbsp \approx 30g , Liquids 1 Tbsp \approx 15ml, Powder 1 Tbsp \approx 6g (For bigger grains 12g)
-			- US Volumes are roughly equal to Metric volume; 1 Tbsp(Metric) \approx 1 Tbsp(US), 1 tsp \approx 1 tsp. 2.5
+			- US Volumes are roughly equal to Metric volume; 1 Tbsp(Metric) \approx 1 Tbsp(US), 1 tsp \approx 1 tsp.
 		- [[Conversion]]
 			- [[Temperature]]
 				- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
