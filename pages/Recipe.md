@@ -172,12 +172,12 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- 500g Undulate Venus clam (Stripe clam)
 				- 30g Thai basil #horapha
-				- 1 Head of garlic
+				- 20g garlic (1 Head)
 				- 7 Thai chilies
 				- 60g of Thai chili paste (2 Tbsp Nam Prik Pao)
 				- 6g sugar (1 tsp)
 				- 15ml Oyster sauce (1 Tbsp)
-				- 7.5ml Fish sauce (1/2 )
+				- 7.5ml Fish sauce (1/2 Tbsp)
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Marinated pork neck]]
