@@ -2,6 +2,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 
 - [[Recipe]]
 	- Things to know
+	  collapsed:: true
 		- #kaphrao and #horapha are both Thai basil but they are not the same, read which tag it has.
 			- Common name for #kaphrao is Holy basil, used more often.
 			- And for #horapha is Thai basil
@@ -13,11 +14,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- ml = millilitres
 			- L = litres
 	- [[Conversion]]
+	  collapsed:: true
 		- [[Temperature]]
 			- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
 		- 1 Metric cup = 250ml \approx 1.06 US cup
 	- [[Savoury]]
-	  collapsed:: true
 		- [[Nathan's Fried Rice]]
 			- [[Ingredient]]
 				- 2 Tbsp Oystersauce
@@ -155,6 +156,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Eat with sticky rice and #[[Nam Jim Jaew]]
 		- [[Nathan's Oven baked Drumstick]]
 			- [[Ingredient]]
+				- 700g chicken drumstick (Thighs, Wings)
+				- 1
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Lab(Larb) Moo/Nam Tok Moo]]
