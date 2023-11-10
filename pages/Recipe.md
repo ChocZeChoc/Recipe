@@ -196,7 +196,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 	- [[Classic Ice cream sandwich]]
 		- [[Ingredient]]
 			- 1/2 cup + 1Tbsp all-purpose flour
-			- 1/4 tps
+			- 1/4 tps salt
+			- 1/4 tps baking soda
+			- 1/3 cup sifted cocoa powder
+			- 3 Tbsp room temp butter
+			-
 			- [[Optional]]
 		- [[Instruction]]
 - [[Sauces/Paste/rub]]
