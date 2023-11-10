@@ -73,13 +73,13 @@
 		- [[Ingredient]]
 			- 300-400g Meat (Sliced pork, Chicken)
 			- 200ml Coconut Milk
+			- 40-60g Panang curry paste (About 2Tbsp-3Tbsp)
 			- 2 cloves garlic
 			- 2 Tbsp oil
 			- 3-4 Fresh Chilies
 			- salt
 			- 20g sugar
 			- Kaffir leaves
-			- 40-60g Panang curry paste (About 2Tbsp-3Tbsp)
 			- 2 Tbsp Fish sauce
 			- [[Optional]]
 				- Basil leaves
@@ -97,7 +97,8 @@
 		- [[Ingredient]]
 			- 200-300g Meat (Sliced pork, Chicken, Pork belly)
 			- 400-500ml Coconut milk
-			- 40
+			- 40-60g Green curry paste
+			- 2-3 fresh Thai Chilies (more )
 			- [[Optional]]
 		- [[Instruction]]
 			- Fry garlic, curry paste, and half of the chilies in medium-high heat pan (use a pot for bigger portions) in oil or the more solid part of coconut milk until you start to see oil/fat render out of the coconut milk or until golden if using oil. If you use oil to fry the garlic etc. add the more solid part of the coconut milk in before the next step and let it heat up for about 5-10mins or until fat starts to render out of the coconut milk.
