@@ -227,8 +227,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 2 tsp vanilla extract
 			- 1 tsp coffee powder
 			- 1 egg + 1 yolk
-			- 100g dark chocolate
+			- 150g chocolate chips
+			- 100g chopped dark chocolate
 			- [[Optional]]
+				- 135g of bread flour or
 		- [[Instruction]]
 - [[Sauces/Paste/rub]]
   collapsed:: true
