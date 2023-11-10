@@ -295,9 +295,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- salt
 				- [[Optional]]
 					- msg
-					-
+					- 1 cup shallots
+					- coriander root
 			- [[Instruction]]
-				- Roast Dried chilies. And roast chili flakes in oil & salt. until fragrant.
+				- Roast Dried chilies. And roast chili flakes (and shallots) in oil & salt until fragrant or golden.
 				- Blend both chilies, and tomatoes and pickled garlic until fully combined.
 				- Put in all the sugars into a pan/pot Medium-High to high heat, add in the blended mixture, tamarind paste, and some water. Stir and mix until thicken.
 	- [[Misc]]
