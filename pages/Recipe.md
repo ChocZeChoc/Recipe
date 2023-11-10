@@ -176,7 +176,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- Korean style BBQ rub
 					- msg
 			- [[Instruction]]
-				- Add
+				- Add all the powder, soy sauce, and oil in a bowl/bag. Then add in the chicken. Mix until everything is covered.
+				- Marinate for 15
 		- [[Lab(Larb) Moo/Nam Tok Moo]]
 			- [[Ingredient]]
 				- [[Optional]]
