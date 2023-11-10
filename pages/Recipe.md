@@ -12,7 +12,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- Teaspoon = tsp
 			- ml = millilitres
 			- L = litres
-			- For quick estimate: Solids 1 Tbsp \approx 30g , Liquids 1
+			- For quick estimate: Solids 1 Tbsp \approx 30g , Liquids 1 Tbsp \approx 15ml
 		- [[Conversion]]
 			- [[Temperature]]
 				- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
@@ -23,7 +23,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 2 Tbsp Oystersauce
 				- 2 Eggs
 				- 6 cups of cooked rice, chilled (2 cups as uncooked)
-				- 1 Tbsp Soy sauce (Magi or green cap)
+				- 15ml Soy sauce (1 Tbsp)
 				- 2 Cloves of gralic
 				- 2 tsp black pepper
 				- 2 Tbsp oil
