@@ -2,7 +2,6 @@
 	- [[Temperature]]
 		- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
 	- 1 Metric cup = 250ml = 1.06 US cup
-	-
 - [[Savoury]]
 	- [[Nathan's Fried Rice]]
 		- [[Ingredient]]
@@ -99,5 +98,7 @@
 		- [[Ingredient]]
 			- [[Optional]]
 		- [[Instruction]]
+	- [[Sushi Rice]]
+		- 1 cup
 - [[Dessert]]
 - [[Sauces]]
