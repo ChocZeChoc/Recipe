@@ -132,8 +132,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- 250g chicken thigh & drumstick
 				- 150g Potato
-				- 75g White onion
-				- 400ml Coconutmilk (-200ml every x2 portions; so 4 portions is 1600ml-400ml = 1200ml 6portions)
+				- 75g White onion ()
+				- 300ml Coconut milk
 				- 2.5g cardamom (1 tsp)
 				- 0.5g bay leaf (about 3 leaves)
 				- 13g roasted peanuts (about 1+1/2 Tbsp)
