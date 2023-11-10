@@ -44,5 +44,6 @@
 		- [[Instruction]]
 			- Add oil to medium-high pan, after the oil heats up add chopped chilies and garlic stir until golden
 			- Add meat to the pan, Cook until golden-brown in color. (Have some crust)
-			-
+			- Add the sauces, sugar &  some water to the pan.
+			- Add basil leaves. Cook until
 - [[Dessert]]
