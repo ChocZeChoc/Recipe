@@ -233,7 +233,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Optional]]
 				- 135g All purpose flour or 100g All purpose flour + 35g gluten flour
 		- [[Instruction]]
-			- Sift out the flours, salt, and ba into a bowl
+			- Sift out the flours, salt, and baking soda into a bowl.
+			- Keep stirring the butter in a Medium-High
 - [[Sauces/Paste/rub]]
   collapsed:: true
 	- [[Wing-zabb/Larb powder]]
