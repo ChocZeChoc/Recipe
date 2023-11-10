@@ -20,13 +20,13 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 	- [[Savoury]]
 		- [[Nathan's Fried Rice]]
 			- [[Ingredient]]
-				- 2 Tbsp Oystersauce
+				- 30ml Oystersauce (2 Tbsp)
 				- 2 Eggs
 				- 6 cups of cooked rice, chilled (2 cups as uncooked)
 				- 15ml Soy sauce (1 Tbsp)
 				- 2 Cloves of gralic
 				- 2 tsp black pepper
-				- 2 Tbsp oil
+				- 15ml oil (2 Tbsp)
 				- 4 Strips of bacon (Half a pack)
 				- [[Optional]]
 					- 300g of sliced/mince meat (pork/chicken)
@@ -48,10 +48,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Stir-fry basil]]
 			- [[Ingredient]]
 				- 300g mince meat (pork/chicken)
-				- 1 Tbsp soy sauce (Magi, Green cap, Japanese soya sauce or light soy sauce)
-				- 1 Tbsp Oyster sauce
-				- 1 Tbsp Fish sauce
-				- 1/2 Tbsp Dark soy sauce
+				- 15ml soy sauce (1 Tbsp)
+				- 15ml Oyster sauce (1 Tbsp)
+				- 15ml Fish sauce (1 Tbsp)
+				- 7 Dark soy sauce
 				- 1/2 Tbsp Sugar
 				- 3-4 Red Thai chilies
 				- 4-6 cloves of garlic
