@@ -191,7 +191,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 					- culantro/cilantro for garnish
 			- [[Instruction]]
-				- Cooked the mince meat in water (you can brown in in oil for some extra flavour)
+				- Cooked the mince meat in water (you can brown it in oil for some extra flavour). Add in blended/smashed roasted uncooked rice.
 		- [[Sushi Rice]]
 			- [[Ingredient]]
 				- 1 cup uncooked Japanese rice
@@ -287,7 +287,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Chopped up the chocolate, then add it into the mixture. Fold until everything is mixed. Scoop out the cookies into 70-80g balls (About 14-16 pieces) on to a baking paper. Let it chilled in the fridge for 1 hour.
 				- Bake in the oven for 12-15mins at 180$\degree$C
 	- [[Sauces/Paste/rub]]
-	  collapsed:: true
 		- [[Nam Jim Jaew]]
 		  id:: 654e1d49-d7ae-4575-be1e-b07ec9a3235a
 			- [[Ingredient]]
