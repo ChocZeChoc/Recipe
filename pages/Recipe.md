@@ -18,7 +18,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
 			- 1 Metric cup = 250ml \approx 1.06 US cup
 	- [[Savoury]]
-	  collapsed:: true
 		- [[Nathan's Fried Rice]]
 			- [[Ingredient]]
 				- 2 Tbsp Oystersauce
@@ -181,6 +180,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Bake in an oven at 200-225$\degree$C for 25-35mins or until the inside is at least 75$\degree$C and the outside is nice and crispy.
 		- [[Lab(Larb) Moo/Nam Tok Moo]]
 			- [[Ingredient]]
+				- 300g mince pork (mince chicken)
+				- 5 Tbsp roasted uncooked rice
+				- 1 Tbsp
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Sushi Rice]]
