@@ -83,7 +83,9 @@
 			- 2 Tbsp Fish sauce
 			- [[Optional]]
 				- Basil leaves
-				- Lime/Lemon
+				- Lime/Lemon leaves
+				- Turkey berry (some kind of Egg plant)
+				- Coriander seed
 		- [[Instruction]]
 	- [[Green Curry]]
 		- [[Ingredient]]
