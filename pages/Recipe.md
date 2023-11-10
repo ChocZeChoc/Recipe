@@ -28,7 +28,8 @@
 			- Add in the garnish & a little lime juice (optional).
 	- [[Stir-fry pork basil]]
 		- [[Ingredient]]
-			- 300g mince meat ()
+			- 300g mince meat (pork/chicken)
+			- 1 Tbsp soy sauce (Ma)
 			- [[Optional]]
 		- [[Instruction]]
 - [[Dessert]]
