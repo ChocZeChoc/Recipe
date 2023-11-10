@@ -157,4 +157,4 @@
 			- Put the hot rice in a wide bowl (Japanese wooden thing is best)
 			- Add the vinegar mix and mix the rice and vinegar mixture in a slicing motion (Do not fold the rice or stir only scoop a little and shake it off the rice spoon; Big ass wide spoon for rice; wood or plastic)
 - [[Dessert]]
-- [[Sauces]]
+- [[Sauces/Paste]]
