@@ -192,7 +192,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 1/2 tsp sugar
 					- msg
 			- [[Instruction]]
-				- Cooked the mince meat in water (you can brown it in oil for some extra flavour). Add in blended/crushed roasted uncooked rice, chili flakes, chopped shallots (thin half slices), fish sauce, spring onions, lime juice, (sugar, msg)
+				- Cooked the mince meat in water (you can brown it in oil for some extra flavour). Add in blended/crushed roasted uncooked rice, chili flakes, chopped shallots (thin half slices), fish sauce, chopped spring onions, and lime juice (sugar, msg). Mix everything together turn off the heat, add the mint leaves
 		- [[Sushi Rice]]
 			- [[Ingredient]]
 				- 1 cup uncooked Japanese rice
