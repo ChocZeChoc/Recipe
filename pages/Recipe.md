@@ -147,7 +147,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Paad Prik Kang]] #[[Dried curry]]
 			- [[Ingredient]]
 				- 200g Meat (Any kind of chopped meat best with fatty meat)
-				- 2 Tbsp Red curry paste
+				- 40-60g Red curry paste (2 Tbsp)
 				- 2 kaffir leaves
 				- 1 Tbsp Fish sauce
 				- 1 + 1/2 Tbsp Palm/Coconut sugar
