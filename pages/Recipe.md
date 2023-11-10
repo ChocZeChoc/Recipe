@@ -165,7 +165,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 	- [[Dessert]]
 		- [[Fruit Lather]]
-		  collapsed:: true
 			- [[Ingredient]]
 				- 1-10kg Very ripe fruit
 				- 1 tps salt
@@ -178,7 +177,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add into a pot on medium-high heat stir until it starts to thicken (about 10-30mins).
 				- Spread it out very thinly and leave it out in the sun, or bake in the oven at 80C$\degree$ until dry.
 		- [[Oreo Ice-cream sandwich]]
-		  collapsed:: true
 			- [[Ingredient]]
 				- 600g Oreo cookies (about 50 cookies)
 				- 170g Melted butter
@@ -195,7 +193,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Chilled in the freezer for 2-3 hours, then add the rest of the cookie & butter mixture on top.
 				- Freeze for at least another 6hours or overnight.
 		- [[Classic Ice cream sandwich]]
-		  collapsed:: true
 			- [[Ingredient]]
 				- 120g + 1 Tbsp all-purpose flour
 				- 1/4 tps salt
@@ -241,7 +238,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Chopped up the chocolate, then add it into the mixture. Fold until everything is mixed. Scoop out the cookies into 70-80g balls (About 14-16 pieces) on to a baking paper. Let it chilled in the fridge for 1 hour.
 				- Bake in the oven for 12-15mins at 180$\degree$C
 	- [[Sauces/Paste/rub]]
-	  collapsed:: true
 		- [[Wing-zabb/Larb powder]]
 			- [[Ingredient]]
 				- 3 Tbsp Paprika powder
