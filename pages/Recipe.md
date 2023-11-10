@@ -137,6 +137,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 		- [[Marinated pork neck]]
 			- [[Ingredient]]
+				- 1.3kg pork neck (or any fatty pork)
+				- 30g garlic (about 8 cloves)
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Nathan's Oven baked Drumstick]]
