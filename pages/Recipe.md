@@ -29,7 +29,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 4 Strips of bacon
 				- [[Optional]]
 					- 300g of sliced/mince meat (pork/chicken)
-					- Chili
+					- 1-2 Chili
 					- salt
 					- Chives
 					- msg
@@ -41,9 +41,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Chop the **garlic**, **chilies** and **bacon**
 				- Put **cooking oil** in the pan, turn the heat to **Medium-high**, when the pan gets hot, put in the **chopped chilies** and **garlic**. Stir fry until **golden** **(Not burnt)**
 				- Put in the **meats** (Bacon and/or sliced meat) let it cooked, for the bacon just cook it **enough for color** (not too crispy).
-				- Add in the **eggs**, then **break up the yolk** and **cover** the meat. Keep stirring until all the egg is cooked
-				- Add in the **chilled rice**, break it up in to **individual grains**. Add in the sauces (soy sauce, oyster sauce etc.) Stir until everything is properly mixed. If the**rice looks dry add**  in some more **oil** (the rice should be a little reflective). (msg)
-				- Add in the garnish & a little lime juice (optional).
+				- Add in the **eggs**, then **break up the yolk** and **cover** the meat. Keep stirring **until** all the egg is **cooked**
+				- Add in the **chilled rice**, break it up in to **individual grains**. Add in the **sauces** (soy sauce, oyster sauce etc.) Stir until everything is properly mixed. If the**rice looks dry add**  in some more **oil** (the rice should be a little reflective). (msg)
+				- Add in the **garnish** & a little **lime juice** (optional).
 		- [[Stir-fry basil]]
 			- [[Ingredient]]
 				- 300g mince meat (pork/chicken)
