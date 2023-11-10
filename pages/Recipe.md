@@ -178,7 +178,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 				- Add all the powder, soy sauce, and oil in a bowl/bag. Then add in the chicken. Mix until everything is covered.
 				- Marinate for at least 15mins to 2 hours.
-				- Bake at 200-225$\degree$C for 25-35mins
+				- Bake in an oven at 200-225$\degree$C for 25-35mins or until the inside is at least 75$\degree$C and the outside is nice and crispy.
 		- [[Lab(Larb) Moo/Nam Tok Moo]]
 			- [[Ingredient]]
 				- [[Optional]]
