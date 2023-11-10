@@ -303,8 +303,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Keep stirring the **butter** in a **Medium-High** heat pan/pot until **brown**. After browning immediately put the browned butter into a container until it reach **room temp** to stop the cooking and keep the butter from burning. Add some **water** into the melted butter until it reach about **250ml** in total volume.
 				- Mix in **White sugar**, **brown sugar**, **espresso powder**, and **vanilla extract** into a **bowl**, then add in the room temp brown butter. Whisk until thoroughly mixed. Then add the **egg & egg yolk** into the mixture, continue whisking until **fully mixed**.
 				- Add in the **flour mixture** into the **butter mixture**, careful not to whisk too much as the rest of the flour will get mixed when folding in the chocolate.
-				- **Chopped up the chocolate**, then **add it** into the mixture. **Fold** until everything is mixed. Scoop out the cookies into **70-80g balls** (About 14-16 pieces) on to a baking paper. Let it chilled in the fridge for 1 hour.
-				- Bake in the oven for 12-15mins at 180$\degree$C
+				- **Chopped up the chocolate**, then **add it** into the mixture. **Fold** until everything is mixed. Scoop out the cookies into **70-80g balls** (About 14-16 pieces) on to a baking paper. Let it **chilled** in the fridge for **1 hour.**
+				- **Bake** in the oven for **12-15mins** at **180**$\degree$C
 	- [[Sauces/Paste/rub]]
 		- [[Nam Jim Jaew]]
 		  id:: 654e1d49-d7ae-4575-be1e-b07ec9a3235a
@@ -321,8 +321,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 					- msg
 			- [[Instruction]]
-				- Roast the chili flakes in oil and a pinch of salt, until fragrant.
-				- Chopped up the shallots and onions into thin slices. Add all the ingredient into a small bowl.
+				- **Roast** the **chili flakes** in oil and a pinch of **salt**, until **fragrant**.
+				- **Chopped** up the **shallots** and **onions** into **thin slices**. Add all the ingredient into a small bowl.
 		- [[Wing-zabb/Larb powder]]
 			- [[Ingredient]]
 				- 3 Tbsp Paprika powder
