@@ -170,7 +170,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
 		- [[Stir-fry Venus clam]] ^^Missing^^ **Missing**
 			- [[Ingredient]]
-				- 500g Undulate Venus clam (Stripe clam)
+				- 500g Undulate Venus clam (Stripe clam) (Can be substitute with other types of clam)
 				- 30g Thai basil #horapha
 				- 20g garlic (1 Head)
 				- 20g Thai chilies (About 7 chilies)
@@ -182,7 +182,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 			- [[Instruction]]
 				- **Smash/Crush** the **garlic** and **chilies** in a **pestle & mortar**, (If you do not have one, smack it hard with a knife and finely chopped).
-				- **Fry** the **smashed chili** and **garlic** paste, in some cooking **oil** on **High** heat until **fragrant** or **golden**. Then add in the clam
+				- **Fry** the **smashed chili** and **garlic** paste, in some cooking **oil** on **High** heat until **fragrant** or **golden**. Then add in the clam cook until the clam relax. Then add Thai chili paste
 		- [[Marinated pork neck]]
 			- [[Ingredient]]
 				- 1.3kg pork neck (or any fatty pork)
