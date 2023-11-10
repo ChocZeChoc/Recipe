@@ -168,7 +168,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 				- **Finely chop the garlic**, put **everything except the meat** into a **bag/bowl**, Mix everything until fully combined and the **sugar has dissolve** into the mixture. Add in the **meat** (chopped into long strips if preferred you can also copped after it has been cooked) and mix again until all the meat is **coated**.
 				- Let it **marinate** in the fridge for at least **15mins to 2 hours**.
-				- **Grill** it over some charcoal or use an **air-fryer/oven** at **180-200**$\degree$C for about 10-20mins. Make sure the middle is at least 65$\degree$C.
+				- **Grill** it over some charcoal or use an **air-fryer/oven** at **180-200**$\degree$C for about **10-20mins.** Make sure the middle is at least **65**$\degree$C.
 				- Eat with sticky rice and #[[Nam Jim Jaew]]
 		- [[Nathan's Oven baked Drumstick]]
 			- [[Ingredient]]
@@ -192,9 +192,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- Korean style BBQ rub
 					- msg
 			- [[Instruction]]
-				- Add all the powder, soy sauce, and oil in a bowl/bag. Then add in the chicken. Mix until everything is covered.
-				- Marinate for at least 15mins to 2 hours.
-				- Bake in an oven at 200-225$\degree$C for 25-35mins or until the inside is at least 75$\degree$C and the outside is nice and crispy.
+				- Add **all the powder**, **soy sauce**, and **oil** in a **bowl/bag**. Then add in the **chicken**. Mix until everything is covered.
+				- **Marinate** for at least **15mins to 2 hours**.
+				- Bake in an oven at **200-225**$\degree$C for **25-35mins** or until the **inside** is **at least 75**$\degree$C and the outside is nice and crispy.
 		- [[Laab(Larb) Moo/Nam Tok Moo]]
 			- [[Ingredient]]
 				- 300g mince pork (mince chicken, Grilled pork neck for Nam Tok)
