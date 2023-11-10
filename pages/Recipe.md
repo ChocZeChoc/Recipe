@@ -173,7 +173,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 500g Undulate Venus clam (Stripe clam)
 				- 30g Thai basil #horapha
 				- 20g garlic (1 Head)
-				- 7 Thai chilies
+				- 20g Thai chilies ()
 				- 60g of Thai chili paste (2 Tbsp Nam Prik Pao)
 				- 6g sugar (1 tsp)
 				- 15ml Oyster sauce (1 Tbsp)
