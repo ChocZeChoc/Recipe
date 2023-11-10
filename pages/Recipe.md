@@ -13,6 +13,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- ml = millilitres
 			- L = litres
 			- For quick estimate: Solids 1 Tbsp \approx 30g , Liquids 1 Tbsp \approx 15ml
+			-
 		- [[Conversion]]
 			- [[Temperature]]
 				- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
@@ -27,7 +28,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 2 Cloves of garlic
 				- 5-10g black pepper (1-2 tsp)
 				- 15ml oil (2 Tbsp)
-				- 50-75g bacon (Half a pack \approx 4 strips )
+				- 50-75g bacon (Half a pack \approx 4 Strips)
 				- [[Optional]]
 					- 300g of sliced/mince meat (pork/chicken)
 					- 1-2 Chili
@@ -55,8 +56,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 15g Sugar (1/2 Tbsp)
 				- 3-4 Red Thai chilies
 				- 4-6 cloves of garlic
-				- 1 Cup of fresh holy basil leaves #kaphrao
-				- 30ml oil (1/2 Tbsp)
+				- 1 cup of fresh holy basil leaves #kaphrao
+				- 15-30ml oil (1-2 Tbsp)
 				- [[Optional]]
 					- msg
 					- Sliced baby carrot/corn
