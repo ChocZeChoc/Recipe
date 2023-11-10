@@ -205,9 +205,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 1/2 tps vanilla extract
 			- 80ml room temp whole milk
 			- Vanilla Ice cream
+			- oil or butter
 			- [[Optional]]
 		- [[Instruction]]
-			- Preheat the oven to 175$\degree$C. Cover the baking sheet with cooking oil
+			- Preheat the oven to 175$\degree$C. Cover/Spray the baking sheet with cooking oil or butter.
+			-
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
