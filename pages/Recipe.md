@@ -1,4 +1,6 @@
 - [[Savoury]]
 	- [[Fried Rice]]
-		-
+		- [[Ingredient]]
+			- 300g meat (pork/chicken)
+			- 2 Tbsp
 - [[Dessert]]
