@@ -134,7 +134,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 		- [[Paad Prik Kang]] #[[Dried curry]]
 			- [[Ingredient]]
-				- 200g Meat (Any kind of chopped meat best with pork belly)
+				- 200g Meat (Any kind of chopped meat best with fatty meat)
 				- 2 Tbsp Red curry paste
 				- 2 kaffir leaves
 				- 1 Tbsp Fish sauce
@@ -144,6 +144,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- Massamun curry paste (Very little to make it sweeter)
 					- msg
 			- [[Instruction]]
+				- Fry curry paste, and half of the chilies in medium-high heat pan (use a pot for bigger portions) in oil or until golden if using oil. If you use oil to fry the garlic etc. add the more solid part of the coconut milk in before the next step and let it heat up for about 5-10mins or until fat starts to render out of the coconut milk.
+				- Mix in fish sauce, salt, the rest of the chilies, and sugar into the pan.
+				- Add in the meat let it cook, you can fry it before adding it in to add more flavour, if using bone-in chicken(drumstick, chicken thigh etc.) do this step first and then bake the chicken to fully cook it. (Add turkey berries and/or Egg plant, Basil leaves, and coriander seeds after this step)
+				- Garnish with sliced none spicy chilies, and citrus leaves
 		- [[Stir-fry Venus clam]]
 			- [[Ingredient]]
 				- [[Optional]]
