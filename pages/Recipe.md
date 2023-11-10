@@ -241,9 +241,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 1Tbsp Syrup / 30g sugar
 					- 1 tsp lime juice
 			- [[Instruction]]
-				- **Blend** all the fruit until there are no more clumps.
-				- Add into a pot on medium-high heat stir until it starts to thicken (about 10-30mins).
-				- Spread it out very thinly and leave it out in the sun, or bake in the oven at 80C$\degree$ until dry.
+				- **Blend** all the **fruit** until there are no more clumps.
+				- Add into a pot on **medium-high** heat stir until it starts to **thicken** (about **10-30mins**).
+				- **Spread it** out very **thinly** and leave it out in the **sun**, **or bake** in the oven at **80**C$\degree$ **until dry**.
 		- [[Oreo Ice-cream sandwich]]
 			- [[Ingredient]]
 				- 600g Oreo cookies (about 50 cookies)
@@ -253,7 +253,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 150g sweet condensed milk
 				- [[Optional]]
 			- [[Instruction]]
-				- Crush the Oreo cookies, by either beating them in a Ziploc bag or blending them.
+				- **Crush** the **Oreo cookies**, by either beating them in a Ziploc bag or blending them.
 				- Set aside 100g of crushed cookies
 				- Transfer the rest of the crushed cookies into a bowl add the melted butter, and mix.
 				- In a new bowl beat up the heavy cream until it can form firm-peaks, mix in the crush cookies that you've set aside and the condensed milk. Fold until thoroughly mixed.
