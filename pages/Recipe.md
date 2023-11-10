@@ -46,4 +46,8 @@
 			- Add meat to the pan, Cook until golden-brown in color. (Have some crust)
 			- Add the sauces, sugar &  some water to the pan. (msg)
 			- Add basil leaves. Cook until the leaves withered (Add the extra veggies in this step)
+	- [[Classic carbonara]]
+		- [[Ingredient]]
+			- [[Optional]]
+		- [[Instruction]]
 - [[Dessert]]
