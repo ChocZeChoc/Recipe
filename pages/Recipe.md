@@ -110,6 +110,6 @@
 		- [[Instruction]]
 			- Wash and cook the Japanese rice in a rice cooker with 1 : 1; Rice : Water ratio
 			- Put the hot rice in a wide bowl (Japanese wooden thing is best)
-			-
+			- Add the vinegar mix and mix the rice and vinegar mixture in a slicing motion ()
 - [[Dessert]]
 - [[Sauces]]
