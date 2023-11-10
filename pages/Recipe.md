@@ -139,6 +139,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- 1.3kg pork neck (or any fatty pork)
 				- 30g garlic (about 8 cloves)
+				- 8g black pepper
+				- 50g palm/coconut sugar (about 1+1/3 Tbsp)
+				- 2 +
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Nathan's Oven baked Drumstick]]
