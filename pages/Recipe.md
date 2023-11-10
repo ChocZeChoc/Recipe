@@ -302,7 +302,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 				- Roast Dried chilies and chili flakes (and shallots) in oil & salt until fragrant or golden. (separate frying shallots and chilies for the most control)
 				- Blend both chilies, (and tomatoes) and pickled garlic until fully combined. (coriander root goes in this step)
-				- Put in all the sugars into a pan/pot Medium-High to high heat, add in the blended mixture, tamarind paste, and some water. Stir and mix until thicken(use starches to thicken without the flavour being  .
+				- Put in all the sugars into a pan/pot Medium-High to high heat, add in the blended mixture, tamarind paste, and some water. Stir and mix until thicken(use starches to thicken if the flavour is harsher than you'd like) .
 	- [[Misc]]
 		- [[pickled garlic]]
 			- [[Ingredient]]
