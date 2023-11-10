@@ -170,6 +170,8 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Optional]]
 				- 1-2 cup unripe fruit
 		- [[Instruction]]
+			- Blend all the fruit until there are no more clumps.
+			- Put in a pot on medium-high heat
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
