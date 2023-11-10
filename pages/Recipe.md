@@ -322,7 +322,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- msg
 			- [[Instruction]]
 				- **Roast** the **chili flakes** in oil and a pinch of **salt**, until **fragrant**.
-				- **Chopped** up the **shallots** and **onions** into **thin slices**. Add all the ingredient into a small bowl.
+				- **Chopped** up the **shallots** and **onions** into **thin slices**. Add all the ingredient into a **small bowl**.
 		- [[Wing-zabb/Larb powder]]
 			- [[Ingredient]]
 				- 3 Tbsp Paprika powder
@@ -334,7 +334,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 					- msg
 			- [[Instruction]]
-				- Just mix everything
+				- Just **mix** everything
 		- [[Nam Jim look shin]] #[[Meat balls & Sausage sauce]]
 			- [[Ingredient]]
 				- 35g chili flakes
@@ -352,9 +352,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 2 whole tomatoes
 					- corn/potato starch
 			- [[Instruction]]
-				- Roast Dried chilies and chili flakes (and shallots) in oil & salt until fragrant or golden. (separate frying shallots and chilies for the most control)
-				- Blend both chilies, (and tomatoes) and pickled garlic until fully combined. (coriander root goes in this step)
-				- Put in all the sugars into a pan/pot Medium-High to high heat, add in the blended mixture, tamarind paste, and some water. Stir and mix until thicken(use starches to thicken if the flavour is harsher than you'd like) .
+				- **Roast** Dried **chilies** and **chili flakes** (and **shallots**) in **oil & salt** until **fragrant** or **golden**. (separate frying shallots and chilies for the most control)
+				- **Blend** both chilies, (and tomatoes) and **pickled garlic** until fully **combined**. (coriander root goes in this step)
+				- Put in all the **sugars** into a pan/pot Medium-High to high heat, add in the blended mixture, tamarind paste, and some water. Stir and mix until thicken(use starches to thicken if the flavour is harsher than you'd like) .
 	- [[Misc]]
 		- [[pickled garlic]]
 			- [[Ingredient]]
