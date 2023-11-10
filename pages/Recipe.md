@@ -182,8 +182,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 			- [[Instruction]]
 				- **Smash/Crush** the **garlic** and **chilies** in a **pestle & mortar**, (If you do not have one, smack it hard with a knife and finely chopped).
-				- **Fry** the **smashed chili** and **garlic** paste, in some cooking **oil** on **High** heat until **fragrant** or **golden**. Then add in the clam cook until the clam they relax and open up (If ). Then add Thai chili paste, Sugar, fish sauce, and oyster sauce into the pan/wok.
-				- After stir frying everything for about 2-5mins add in the
+				- **Fry** the **smashed chili** and **garlic** paste, in some cooking **oil** on **High** heat until **fragrant** or **golden**. Then add in the clam cook until the clam they relax and open up (If fry with out the shells, cook until the color change slightly). Then add Thai chili paste, Sugar, fish sauce, and oyster sauce into the pan/wok.
+				- After stir frying everything for about 2-5mins add in the Thai basil leaves stir fry until all the leaves wither.
 		- [[Marinated pork neck]]
 			- [[Ingredient]]
 				- 1.3kg pork neck (or any fatty pork)
