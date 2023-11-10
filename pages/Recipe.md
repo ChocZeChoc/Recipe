@@ -51,12 +51,12 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 15ml soy sauce (1 Tbsp)
 				- 15ml Oyster sauce (1 Tbsp)
 				- 15ml Fish sauce (1 Tbsp)
-				- 7 Dark soy sauce
-				- 1/2 Tbsp Sugar
+				- 7.5ml Dark soy sauce (1/5 Tbsp)
+				- 15g Sugar (1/2 Tbsp)
 				- 3-4 Red Thai chilies
 				- 4-6 cloves of garlic
 				- 1 Cup of fresh holy basil leaves #kaphrao
-				- 2 Tbsp oil
+				- 30ml oil (1/2 Tbsp)
 				- [[Optional]]
 					- msg
 					- Sliced baby carrot/corn
@@ -71,7 +71,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 1-2 Eggs
 				- salt
 				- Pepper
-				- 20g of Parmesan (about 2Tbsp)
+				- 20g of Parmesan (about 1-2Tbsp)
 				- 100g Guanciale
 				- [[Optional]]
 					- Bacon/Pancetta
