@@ -180,7 +180,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 7.5ml Fish sauce (1/2 Tbsp)
 				- [[Optional]]
 			- [[Instruction]]
-				- Smash/Crush the garlic and chilies in a pestle and mortar
+				- Smash/Crush the garlic and chilies in a pestle and mortar, (If you do not have one use )
 		- [[Marinated pork neck]]
 			- [[Ingredient]]
 				- 1.3kg pork neck (or any fatty pork)
