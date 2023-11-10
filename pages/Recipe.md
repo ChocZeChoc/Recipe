@@ -139,7 +139,7 @@
 		- [[Ingredient]]
 			- [[Optional]]
 		- [[Instruction]]
-	- [[Lab/Nam Tok Moo]]
+	- [[Lab(Larb) Moo/Nam Tok Moo]]
 		- [[Ingredient]]
 			- [[Optional]]
 		- [[Instruction]]
