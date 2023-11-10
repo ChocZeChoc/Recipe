@@ -226,13 +226,14 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 215g Brown sugar
 			- 100g sugar
 			- 2 tsp vanilla extract
-			- 1 tsp coffee powder
+			- 1 tsp espresso powder
 			- 1 egg + 1 yolk
 			- 150g chocolate chips (Use 60%+)
 			- 100g chopped chocolate (Use 60%+)
 			- [[Optional]]
 				- 135g All purpose flour or 100g All purpose flour + 35g gluten flour
 		- [[Instruction]]
+			- Sift out the flours, salt, and ba into a bowl
 - [[Sauces/Paste/rub]]
   collapsed:: true
 	- [[Wing-zabb/Larb powder]]
