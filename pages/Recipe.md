@@ -191,7 +191,7 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 			- In a new bowl beat up the heavy cream until it can form firm-peaks, mix in the crush cookies that you've set aside and the condensed milk. Fold until thoroughly mixed.
 			- Spread the cookie & butter mixture onto a baking pan, then add the cream mixture.
 			- Chilled in the freezer for 2-3 hours, then add the rest of the cookie & butter mixture on top.
-			- Freeze for another 6hours
+			- Freeze for at least another 6hours or overnight.
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
