@@ -164,4 +164,7 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Instruction]]
 - [[Dessert]]
 - [[Sauces/Paste/rub]]
-	-
+	- [[Ingredient]]
+		- 3 Tbsp Paprika powder
+		-
+	- [[Instruction]]
