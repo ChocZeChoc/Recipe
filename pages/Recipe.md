@@ -207,7 +207,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- Vanilla Ice cream
 			- [[Optional]]
 		- [[Instruction]]
-			- Preheat the oven to 175\degree C
+			- Preheat the oven to 175$\degree$C. Cover the baking sheet with cooking oil
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
 		- [[Ingredient]]
