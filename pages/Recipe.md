@@ -191,7 +191,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 					- culantro/cilantro for garnish
 			- [[Instruction]]
-				- Cooked the mince meat in
+				- Cooked the mince meat
 		- [[Sushi Rice]]
 			- [[Ingredient]]
 				- 1 cup uncooked Japanese rice
