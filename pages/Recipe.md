@@ -148,7 +148,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- White/Brown sugar
 					- msg
 			- [[Instruction]]
-				- Cho
+				- Finely chop the garlic, put everything except the meat into a bag/bowl,
 		- [[Nathan's Oven baked Drumstick]]
 			- [[Ingredient]]
 				- [[Optional]]
