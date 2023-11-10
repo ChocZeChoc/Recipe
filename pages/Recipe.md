@@ -287,16 +287,17 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- 35g chili flakes
 				- 40g dried whole Thai chilies
-				- 200ml tamarind paste (Can be substitute with 2 whole tomatoes or lime juice)
+				- 200ml tamarind paste
 				- 300g palm/coconut sugar
 				- 150g pickle garlic + juice #[[pickled garlic]]
 				- 250g sugar
+				- 2 whole tomatoes
 				- salt
 				- [[Optional]]
 					- msg
 			- [[Instruction]]
 				- Roast Dried chilies. And roast chili flakes in oil & salt. until fragrant.
-				- Blend both chilies
+				- Blend both chilies, and tomatoes and pickled
 	- [[Misc]]
 		- [[pickled garlic]]
 			- [[Ingredient]]
