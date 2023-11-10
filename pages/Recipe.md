@@ -342,8 +342,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 4g chili powder (2 tps; more if needed)
 				- 4g Lime powder (2 tps; can be Substitute with citric acid powder)
 				- 2g salt (1 tps)
-				- 1 Tbsp sugar
-				- 1 Tbsp roasted uncooked rice
+				- 12g sugar (1 Tbsp)
+				- 12g roasted uncooked rice (1 Tbsp)
 				- [[Optional]]
 					- msg
 			- [[Instruction]]
