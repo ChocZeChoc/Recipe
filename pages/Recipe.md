@@ -156,7 +156,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Eat with sticky rice and #[[Nam Jim Jaew]]
 		- [[Nathan's Oven baked Drumstick]]
 			- [[Ingredient]]
-				- 700g chicken drumstick (Thighs, Wings)
+				- 700g-1kg chicken drumstick (Thighs, Wings)
 				- 1 tsp Black pepper
 				- 1 tsp salt
 				- 1 tsp smoked paprika
