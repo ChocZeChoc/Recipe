@@ -218,7 +218,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- Freeze the cookies for about 15mins, after chilled bring out the cookies add a scoop of ice cream between the cookies. And freeze for 3hours before eating.
 	- [[Chocolate chip cookies]]
 		- [[Ingredient]]
-			- 235g All purpose flour
+			- 100g All purpose flour
+			- 135g All purpose flour
 			- 2 tsp salt
 			- 1 tsp Baking soda
 			- 225g browned butter
@@ -230,7 +231,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 150g chocolate chips
 			- 100g chopped dark chocolate
 			- [[Optional]]
-				- 135g of bread flour or
+				- 135g of bread flour or 100g All purpose flour + 35g gluten flour
 		- [[Instruction]]
 - [[Sauces/Paste/rub]]
   collapsed:: true
