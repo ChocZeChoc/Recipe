@@ -253,7 +253,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Bake in the oven for 12-15mins at 180$\degree$C
 	- [[Sauces/Paste/rub]]
 		- [[Nam Jim Jaew]]
-			-
+			- [[Ingredient]]
+				- 1 Tbsp roasted chili flakes
+				- 1 + 1/2 lime juice
+				- [[Optional]]
+			- [[Instruction]]
 		- [[Wing-zabb/Larb powder]]
 			- [[Ingredient]]
 				- 3 Tbsp Paprika powder
