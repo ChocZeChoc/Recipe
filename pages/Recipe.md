@@ -183,15 +183,16 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 300g mince pork (mince chicken, Grilled pork neck for Nam Tok)
 				- 5 Tbsp roasted uncooked rice
 				- 1 Tbsp chili powder/flakes
-				- 1/2 tsp sugar (Optia)
 				- 1-2 lime worth of lime juice (about 2-4Tbsp)
 				- 3-4 small shallots (can be substitute with red onions)
 				- 3-5 spring onions
 				- half a handful mint leaves
 				- [[Optional]]
 					- culantro/cilantro for garnish
+					- 1/2 tsp sugar
+					- msg
 			- [[Instruction]]
-				- Cooked the mince meat in water (you can brown it in oil for some extra flavour). Add in blended/crushed roasted uncooked rice, chili flakes, chopped shallots (thin half slices), fish sauce, spring onions lime juice, sugar
+				- Cooked the mince meat in water (you can brown it in oil for some extra flavour). Add in blended/crushed roasted uncooked rice, chili flakes, chopped shallots (thin half slices), fish sauce, spring onions, lime juice, (sugar, msg)
 		- [[Sushi Rice]]
 			- [[Ingredient]]
 				- 1 cup uncooked Japanese rice
