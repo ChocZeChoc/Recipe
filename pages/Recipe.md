@@ -165,14 +165,14 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 - [[Dessert]]
 	- [[Fruit Lather]]
 		- [[Ingredient]]
-			- 5kg Very ripe fruit
+			- 5-10kg Very ripe fruit
 			- 1 tps salt
 			- [[Optional]]
 				- 1-2 cup unripe fruit
 				- 1Tbsp Syrup
 		- [[Instruction]]
 			- Blend all the fruit until there are no more clumps.
-			- Add into a pot on medium-high heat stir until it starts to boil
+			- Add into a pot on medium-high heat stir until it starts to boil (about 10-30mins).
 			- Leave it out in the sun, or bake in the oven at 80C$\degree$ until dry.
 - [[Sauces/Paste/rub]]
 	- [[Wing-zabb/Larb powder]]
