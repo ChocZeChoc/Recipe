@@ -181,8 +181,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 30ml oil (2 Tbsp)
 				- [[Optional]]
 			- [[Instruction]]
-				- Smash/Crush the garlic and chilies in a pestle and mortar, (If you do not have one, smack it hard with a knife and finely chopped).
-				- Fry the smashed chili and garlic paste, in some cooking oil on High heat until fragrant or golden
+				- **Smash/Crush** the **garlic** and **chilies** in a **pestle & mortar**, (If you do not have one, smack it hard with a knife and finely chopped).
+				- **Fry** the **smashed chili** and **garlic** paste, in some cooking **oil** on **High** heat until **fragrant** or **golden**. Then add in the clam
 		- [[Marinated pork neck]]
 			- [[Ingredient]]
 				- 1.3kg pork neck (or any fatty pork)
