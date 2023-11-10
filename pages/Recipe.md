@@ -48,7 +48,12 @@
 			- Add basil leaves. Cook until the leaves withered (Add the extra veggies in this step)
 	- [[Classic carbonara]]
 		- [[Ingredient]]
-			- 80g uncooked Spaghetti pasta ()
+			- 80g uncooked Spaghetti pasta (or any kind of pasta)
+			- 1-2 Eggs
+			- salt
+			- Pepper
+			- 2Tbsp oil
+			- 30g of parmessan
 			- [[Optional]]
 		- [[Instruction]]
 	- [[Panang Curry]]
