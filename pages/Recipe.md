@@ -37,8 +37,10 @@
 			- 3-4 Red Thai chilies
 			- 4-6 cloves of garlic
 			- 1 Cup of fresh basil leaves
+			- 2 Tbsp oil
 			- [[Optional]]
 				- msg
-				- Sliced baby carr
+				- Sliced baby carrot/corn
 		- [[Instruction]]
+			- Add oil to medium-high pan, after the oil heats up add chop
 - [[Dessert]]
