@@ -217,7 +217,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- Bake for about 10mins or until the top is no longer wet. Let the cookie cools at room temp for about 15mins.
 			- Freeze the cookies for about 15mins, after chilled bring out the cookies add a scoop of ice cream between the cookies. And freeze for 3hours before eating.
 	- [[Chocolate chip cookies]]
-		-
+		- [[Ingredient]]
+			- 235g All purpose flour
+			-
+			- [[Optional]]
+		- [[Instruction]]
 - [[Sauces/Paste/rub]]
   collapsed:: true
 	- [[Wing-zabb/Larb powder]]
