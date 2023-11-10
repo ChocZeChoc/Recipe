@@ -178,8 +178,9 @@ Links:: [Error 403 (Forbidden)!!1](https://www.youtube.com/@GinDaiAroiDuay)
 			- Spread it out very thinly and leave it out in the sun, or bake in the oven at 80C$\degree$ until dry.
 	- [[Oreo Ice-cream sandwich]]
 		- [[Ingredient]]
-			- Oreo
-			- Melted butter
+			- 600g Oreo cookies (about 50 cookies)
+			- 170g Melted unsalted butter
+			- 500g Heavy cream
 			- [[Optional]]
 		- [[Instruction]]
 - [[Sauces/Paste/rub]]
