@@ -1,7 +1,6 @@
 - [[Savoury]]
 	- [[Nathan's Fried Rice]]
 		- [[Ingredient]]
-			- 300g meat (pork/chicken)
 			- 2 Tbsp Oystersauce
 			- 2 Eggs
 			- 6 cups of cooked rice, chilled (2 cups as uncooked)
@@ -11,10 +10,13 @@
 			- 2 Tbsp oil
 			- 4 Strips of bacon
 			- [[Optional]]
+				- 300g of meat(pork/chicken)
 				- Chili
 				- salt
 				- Chives
 				- msg
 				- Lime
 				- Dark soy sauce
+		- [[Instruction]]
+			- Cooked 2 cups of ri
 - [[Dessert]]
