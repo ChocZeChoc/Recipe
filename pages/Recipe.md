@@ -52,7 +52,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 15ml soy sauce (1 Tbsp)
 				- 15ml Oyster sauce (1 Tbsp)
 				- 15ml Fish sauce (1 Tbsp)
-				- 7.5ml Dark soy sauce (1/5 Tbsp)
+				- 7.5ml Dark soy sauce (1/2 Tbsp)
 				- 15g Sugar (1/2 Tbsp)
 				- 3-4 Red Thai chilies
 				- 4-6 cloves of garlic
@@ -203,6 +203,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- Oregano
 					- chili flakes
 					- Korean style BBQ rub
+					- lime juice
 					- msg
 			- [[Instruction]]
 				- Add **all the powder**, **soy sauce**, and **oil** in a **bowl/bag**. Then add in the **chicken**. Mix until everything is covered.
