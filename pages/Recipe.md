@@ -1,255 +1,256 @@
 Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 
-- Things to know
-	- #kaphrao and #horapha are both Thai basil but they are not the same, read which tag it has.
-		- Common name for #kaphrao is Holy basil, used more often.
-		- And for #horapha is Thai basil
-	- [[Unit]]
-		- All units are measured in Metric scale
-		- Tablespoon = Tbsp
-		- Teaspoon = tsp
-		- ml = millilitres
-		- L = litres
-- [[Conversion]]
-	- [[Temperature]]
-		- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
-	- 1 Metric cup = 250ml \approx 1.06 US cup
-- [[Savoury]]
-	- [[Nathan's Fried Rice]]
-		- [[Ingredient]]
-			- 2 Tbsp Oystersauce
-			- 2 Eggs
-			- 6 cups of cooked rice, chilled (2 cups as uncooked)
-			- 1 Tbsp Soy sauce (Magi or green cap)
-			- 2 Cloves of gralic
-			- 2 tsp black pepper
-			- 2 Tbsp oil
-			- 4 Strips of bacon
-			- [[Optional]]
-				- 300g of sliced/mince meat (pork/chicken)
-				- Chili
+- [[Recipe]]
+	- Things to know
+		- #kaphrao and #horapha are both Thai basil but they are not the same, read which tag it has.
+			- Common name for #kaphrao is Holy basil, used more often.
+			- And for #horapha is Thai basil
+		- [[Unit]]
+			- All units are measured in Metric scale
+			- Tablespoon = Tbsp
+			- Teaspoon = tsp
+			- ml = millilitres
+			- L = litres
+	- [[Conversion]]
+		- [[Temperature]]
+			- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
+		- 1 Metric cup = 250ml \approx 1.06 US cup
+	- [[Savoury]]
+		- [[Nathan's Fried Rice]]
+			- [[Ingredient]]
+				- 2 Tbsp Oystersauce
+				- 2 Eggs
+				- 6 cups of cooked rice, chilled (2 cups as uncooked)
+				- 1 Tbsp Soy sauce (Magi or green cap)
+				- 2 Cloves of gralic
+				- 2 tsp black pepper
+				- 2 Tbsp oil
+				- 4 Strips of bacon
+				- [[Optional]]
+					- 300g of sliced/mince meat (pork/chicken)
+					- Chili
+					- salt
+					- Chives
+					- msg
+					- Lime
+					- more oil
+					- Dark soy sauce
+			- [[Instruction]]
+				- Cooked 2 cups of rice and let it **chill in the fridge** for at least 15mins (overnight is better)
+				- Chop the garlic, chilies and bacon
+				- Put 2 Tbsp of cooking oil in the pan, turn the heat to **medium-high**, when the pan gets hot, put in the chopped chilies and garlic. Stir fry until **golden** **(Not burnt)**
+				- Put in the meats (Bacon and/or sliced meat) let it cooked, for the bacon just cook it **enough for color** (not too crispy).
+				- Add in the eggs, then **break up the yolk** and cover the meat. Keep stirring until all the egg is cooked
+				- Add in the **chilled rice**, break it up in to **individual grains**. Add in the sauces (soy sauce, oyster sauce etc.) Stir until everything is properly mixed. If the**rice looks dry add**  in some more **oil** (the rice should be a little reflective). (msg)
+				- Add in the garnish & a little lime juice (optional).
+		- [[Stir-fry basil]]
+			- [[Ingredient]]
+				- 300g mince meat (pork/chicken)
+				- 1 Tbsp soy sauce (Magi, Green cap, Japanese soya sauce or light soy sauce)
+				- 1 Tbsp Oyster sauce
+				- 1 Tbsp Fish sauce
+				- 1/2 Tbsp Dark soy sauce
+				- 1/2 Tbsp Sugar
+				- 3-4 Red Thai chilies
+				- 4-6 cloves of garlic
+				- 1 Cup of fresh holy basil leaves #kaphrao
+				- 2 Tbsp oil
+				- [[Optional]]
+					- msg
+					- Sliced baby carrot/corn
+			- [[Instruction]]
+				- Add oil to **medium-high** pan, after the oil heats up add chopped chilies and garlic stir until golden
+				- Add meat to the pan, Cook until **golden-brown** in color. (Have some crust)
+				- Add the sauces, sugar &  some water to the pan. (msg)
+				- Add basil leaves. Cook until the leaves **withered** (Add the extra veggies in this step)
+		- [[Classic carbonara]]
+			- [[Ingredient]]
+				- 80g uncooked Spaghetti pasta (or any kind of pasta)
+				- 1-2 Eggs
 				- salt
-				- Chives
-				- msg
-				- Lime
-				- more oil
-				- Dark soy sauce
-		- [[Instruction]]
-			- Cooked 2 cups of rice and let it **chill in the fridge** for at least 15mins (overnight is better)
-			- Chop the garlic, chilies and bacon
-			- Put 2 Tbsp of cooking oil in the pan, turn the heat to **medium-high**, when the pan gets hot, put in the chopped chilies and garlic. Stir fry until **golden** **(Not burnt)**
-			- Put in the meats (Bacon and/or sliced meat) let it cooked, for the bacon just cook it **enough for color** (not too crispy).
-			- Add in the eggs, then **break up the yolk** and cover the meat. Keep stirring until all the egg is cooked
-			- Add in the **chilled rice**, break it up in to **individual grains**. Add in the sauces (soy sauce, oyster sauce etc.) Stir until everything is properly mixed. If the**rice looks dry add**  in some more **oil** (the rice should be a little reflective). (msg)
-			- Add in the garnish & a little lime juice (optional).
-	- [[Stir-fry basil]]
-		- [[Ingredient]]
-			- 300g mince meat (pork/chicken)
-			- 1 Tbsp soy sauce (Magi, Green cap, Japanese soya sauce or light soy sauce)
-			- 1 Tbsp Oyster sauce
-			- 1 Tbsp Fish sauce
-			- 1/2 Tbsp Dark soy sauce
-			- 1/2 Tbsp Sugar
-			- 3-4 Red Thai chilies
-			- 4-6 cloves of garlic
-			- 1 Cup of fresh holy basil leaves #kaphrao
-			- 2 Tbsp oil
-			- [[Optional]]
-				- msg
-				- Sliced baby carrot/corn
-		- [[Instruction]]
-			- Add oil to **medium-high** pan, after the oil heats up add chopped chilies and garlic stir until golden
-			- Add meat to the pan, Cook until **golden-brown** in color. (Have some crust)
-			- Add the sauces, sugar &  some water to the pan. (msg)
-			- Add basil leaves. Cook until the leaves **withered** (Add the extra veggies in this step)
-	- [[Classic carbonara]]
-		- [[Ingredient]]
-			- 80g uncooked Spaghetti pasta (or any kind of pasta)
-			- 1-2 Eggs
-			- salt
-			- Pepper
-			- 20g of Parmesan (about 2Tbsp)
-			- 100g Guanciale
-			- [[Optional]]
-				- Bacon/Pancetta
-				- garlic
-				- Pecorino
-				- Extra egg yolk
-				- 2Tbsp oil
-		- [[Instruction]]
-			- Cook the **guanciale**(bacon/pancetta) until **crispy** (add oil if needed) in **Medium-High to High** heat pan.
-			- While the guanciale is cooking, cook the **pasta in sea-salty water**.(3% salt; 1L water : 30g salt )
-			- In a **small bowl** mix in the **eggs and cheese**
-			- After the pasta is **Al Dente** (almost cooked but still springy). **Turn off** the heat with guanciale and add the **still hot pasta** and about 5-6Tbsp of pasta water in the pan, Stir in the cheese mixture, **KEEP STIRRING** until everything is coated.
-	- [[Panang Curry]]
-		- [[Ingredient]]
-			- 300-400g Meat (Sliced pork, Chicken)
-			- 200ml Coconut Milk
-			- 40-60g Panang curry paste (About 2Tbsp-3Tbsp)
-			- 2 cloves garlic
-			- 2 Tbsp oil
-			- 3-4 Fresh Chilies
-			- salt
-			- 20g sugar
-			- Kaffir leaves
-			- 2 Tbsp Fish sauce
-			- [[Optional]]
-				- Holy basil leaves #kaphrao
-				- Lime/Lemon leaves
-				- Turkey berry (Can be substitute with 1-2 Big purple egg plant/Aubergine)
-				- Coriander seed
-				- None spicy red chilies & Extra Kaffir leaves
-		- [[Instruction]]
-			- Fry garlic, curry paste, and half of the chilies in medium-high heat pan (use a pot for bigger portions) in oil or the more solid part of coconut milk until you start to see oil/fat render out of the coconut milk or until golden if using oil. If you use oil to fry the garlic etc. add the more solid part of the coconut milk in before the next step and let it heat up for about 5-10mins or until fat starts to render out of the coconut milk.
-			- Mix in fish sauce, salt, the rest of the chilies, and sugar into the pan.
-			- Add in the meat let it cook, you can fry it before adding it in to add more flavour, if using bone-in chicken(drumstick, chicken thigh etc.) do this step first and then bake the chicken to fully cook it. (Add turkey berries and/or Egg plant, Basil leaves, and coriander seeds after this step)
-			- Add the citrus leaves
-			- Garnish with sliced none spicy chilies, and citrus leaves
-	- [[Green Curry]]
-		- [[Ingredient]]
-			- 200-300g Meat (Sliced pork, Chicken, Pork belly)
-			- 400-500ml Coconut milk
-			- 40-60g Green curry paste (About 2Tbsp-3Tbsp)
-			- 2-3 fresh Thai Chilies (more if needed)
-			- 8 Thai egg plant (Can be substitute with 1-2 Big purple egg plant/Aubergine)
-			- 1 Cup turkey berry (Can be substitute with 1 Big purple egg plant/Aubergine)
-			- 1 Cup Thai basil leaves #horapha
-			- 1/2 Cup kaffir leaves
-			- 10-30g palm/coconut sugar (About 1 Tbsp)
-			- 2 Tbsp Fish sauce
-			- [[Optional]]
-				- Purple egg plant/Aubergine
-				- Red curry paste (add spice and aroma only use a little(1-3 tsp))
-		- [[Instruction]]
-			- Fry curry paste, and half of the chilies in medium-high heat pan (use a pot for bigger portions) in oil or the more solid part of coconut milk until you start to see oil/fat render out of the coconut milk or until golden if using oil. If you use oil to fry the garlic etc. add the more solid part of the coconut milk in before the next step and let it heat up for about 5-10mins or until fat starts to render out of the coconut milk.
-			- Mix in fish sauce, salt, the rest of the chilies, and sugar into the pan.
-			- Add in the meat let it cook, you can fry it before adding it in to add more flavour, if using bone-in chicken(drumstick, chicken thigh etc.) do this step first and then bake the chicken to fully cook it. (Add turkey berries and/or Egg plant, Basil leaves, and coriander seeds after this step)
-			- Garnish with sliced none spicy chilies, and citrus leaves
-	- [[Massamun Curry]]
-		- [[Ingredient]]
-			- [[Optional]]
-		- [[Instruction]]
-	- [[Stir-fry Venus clam]]
-		- [[Ingredient]]
-			- [[Optional]]
-		- [[Instruction]]
-	- [[Marinated pork neck]]
-		- [[Ingredient]]
-			- [[Optional]]
-		- [[Instruction]]
-	- [[Nathan's Oven baked Drumstick]]
-		- [[Ingredient]]
-			- [[Optional]]
-		- [[Instruction]]
-	- [[Lab(Larb) Moo/Nam Tok Moo]]
-		- [[Ingredient]]
-			- [[Optional]]
-		- [[Instruction]]
-	- [[Sushi Rice]]
-		- [[Ingredient]]
-			- 1 cup uncooked Japanese rice
-			- 1 cup water
-			- 7.5ml #[[Vinegar mix]]
-			- [[Vinegar mix]]
-				- 1 part vinegar
-				- 1/3 part sugar
-				- 1/6 part salt
-		- [[Instruction]]
-			- Wash and cook the Japanese rice in a rice cooker with 1 : 1; Rice : Water ratio
-			- Put the hot rice in a wide bowl (Japanese wooden thing is best)
-			- Add the vinegar mix and mix the rice and vinegar mixture in a slicing motion (Do not fold the rice or stir only scoop a little and shake it off the rice spoon; Big ass wide spoon for rice; wood or plastic)
-	- [[Hainan-style chicken/Khoa mun kai]]
-		- [[Ingredient]]
-			- [[Optional]]
-		- [[Instruction]]
-- [[Dessert]]
-	- [[Fruit Lather]]
+				- Pepper
+				- 20g of Parmesan (about 2Tbsp)
+				- 100g Guanciale
+				- [[Optional]]
+					- Bacon/Pancetta
+					- garlic
+					- Pecorino
+					- Extra egg yolk
+					- 2Tbsp oil
+			- [[Instruction]]
+				- Cook the **guanciale**(bacon/pancetta) until **crispy** (add oil if needed) in **Medium-High to High** heat pan.
+				- While the guanciale is cooking, cook the **pasta in sea-salty water**.(3% salt; 1L water : 30g salt )
+				- In a **small bowl** mix in the **eggs and cheese**
+				- After the pasta is **Al Dente** (almost cooked but still springy). **Turn off** the heat with guanciale and add the **still hot pasta** and about 5-6Tbsp of pasta water in the pan, Stir in the cheese mixture, **KEEP STIRRING** until everything is coated.
+		- [[Panang Curry]]
+			- [[Ingredient]]
+				- 300-400g Meat (Sliced pork, Chicken)
+				- 200ml Coconut Milk
+				- 40-60g Panang curry paste (About 2Tbsp-3Tbsp)
+				- 2 cloves garlic
+				- 2 Tbsp oil
+				- 3-4 Fresh Chilies
+				- salt
+				- 20g sugar
+				- Kaffir leaves
+				- 2 Tbsp Fish sauce
+				- [[Optional]]
+					- Holy basil leaves #kaphrao
+					- Lime/Lemon leaves
+					- Turkey berry (Can be substitute with 1-2 Big purple egg plant/Aubergine)
+					- Coriander seed
+					- None spicy red chilies & Extra Kaffir leaves
+			- [[Instruction]]
+				- Fry garlic, curry paste, and half of the chilies in medium-high heat pan (use a pot for bigger portions) in oil or the more solid part of coconut milk until you start to see oil/fat render out of the coconut milk or until golden if using oil. If you use oil to fry the garlic etc. add the more solid part of the coconut milk in before the next step and let it heat up for about 5-10mins or until fat starts to render out of the coconut milk.
+				- Mix in fish sauce, salt, the rest of the chilies, and sugar into the pan.
+				- Add in the meat let it cook, you can fry it before adding it in to add more flavour, if using bone-in chicken(drumstick, chicken thigh etc.) do this step first and then bake the chicken to fully cook it. (Add turkey berries and/or Egg plant, Basil leaves, and coriander seeds after this step)
+				- Add the citrus leaves
+				- Garnish with sliced none spicy chilies, and citrus leaves
+		- [[Green Curry]]
+			- [[Ingredient]]
+				- 200-300g Meat (Sliced pork, Chicken, Pork belly)
+				- 400-500ml Coconut milk
+				- 40-60g Green curry paste (About 2Tbsp-3Tbsp)
+				- 2-3 fresh Thai Chilies (more if needed)
+				- 8 Thai egg plant (Can be substitute with 1-2 Big purple egg plant/Aubergine)
+				- 1 Cup turkey berry (Can be substitute with 1 Big purple egg plant/Aubergine)
+				- 1 Cup Thai basil leaves #horapha
+				- 1/2 Cup kaffir leaves
+				- 10-30g palm/coconut sugar (About 1 Tbsp)
+				- 2 Tbsp Fish sauce
+				- [[Optional]]
+					- Purple egg plant/Aubergine
+					- Red curry paste (add spice and aroma only use a little(1-3 tsp))
+			- [[Instruction]]
+				- Fry curry paste, and half of the chilies in medium-high heat pan (use a pot for bigger portions) in oil or the more solid part of coconut milk until you start to see oil/fat render out of the coconut milk or until golden if using oil. If you use oil to fry the garlic etc. add the more solid part of the coconut milk in before the next step and let it heat up for about 5-10mins or until fat starts to render out of the coconut milk.
+				- Mix in fish sauce, salt, the rest of the chilies, and sugar into the pan.
+				- Add in the meat let it cook, you can fry it before adding it in to add more flavour, if using bone-in chicken(drumstick, chicken thigh etc.) do this step first and then bake the chicken to fully cook it. (Add turkey berries and/or Egg plant, Basil leaves, and coriander seeds after this step)
+				- Garnish with sliced none spicy chilies, and citrus leaves
+		- [[Massamun Curry]]
+			- [[Ingredient]]
+				- [[Optional]]
+			- [[Instruction]]
+		- [[Stir-fry Venus clam]]
+			- [[Ingredient]]
+				- [[Optional]]
+			- [[Instruction]]
+		- [[Marinated pork neck]]
+			- [[Ingredient]]
+				- [[Optional]]
+			- [[Instruction]]
+		- [[Nathan's Oven baked Drumstick]]
+			- [[Ingredient]]
+				- [[Optional]]
+			- [[Instruction]]
+		- [[Lab(Larb) Moo/Nam Tok Moo]]
+			- [[Ingredient]]
+				- [[Optional]]
+			- [[Instruction]]
+		- [[Sushi Rice]]
+			- [[Ingredient]]
+				- 1 cup uncooked Japanese rice
+				- 1 cup water
+				- 7.5ml #[[Vinegar mix]]
+				- [[Vinegar mix]]
+					- 1 part vinegar
+					- 1/3 part sugar
+					- 1/6 part salt
+			- [[Instruction]]
+				- Wash and cook the Japanese rice in a rice cooker with 1 : 1; Rice : Water ratio
+				- Put the hot rice in a wide bowl (Japanese wooden thing is best)
+				- Add the vinegar mix and mix the rice and vinegar mixture in a slicing motion (Do not fold the rice or stir only scoop a little and shake it off the rice spoon; Big ass wide spoon for rice; wood or plastic)
+		- [[Hainan-style chicken/Khoa mun kai]]
+			- [[Ingredient]]
+				- [[Optional]]
+			- [[Instruction]]
+	- [[Dessert]]
+		- [[Fruit Lather]]
+		  collapsed:: true
+			- [[Ingredient]]
+				- 1-10kg Very ripe fruit
+				- 1 tps salt
+				- [[Optional]]
+					- 1-2 cup unripe fruit
+					- 1Tbsp Syrup / 30g sugar
+					- 1 tsp lime juice
+			- [[Instruction]]
+				- Blend all the fruit until there are no more clumps.
+				- Add into a pot on medium-high heat stir until it starts to thicken (about 10-30mins).
+				- Spread it out very thinly and leave it out in the sun, or bake in the oven at 80C$\degree$ until dry.
+		- [[Oreo Ice-cream sandwich]]
+		  collapsed:: true
+			- [[Ingredient]]
+				- 600g Oreo cookies (about 50 cookies)
+				- 170g Melted butter
+				- 500g Heavy cream
+				- 1 Tbsp vanilla extract
+				- 150g sweet condensed milk
+				- [[Optional]]
+			- [[Instruction]]
+				- Crush the Oreo cookies, by either beating them in a Ziploc bag or blending them.
+				- Set aside 100g of crushed cookies
+				- Transfer the rest of the crushed cookies into a bowl add the melted butter, and mix.
+				- In a new bowl beat up the heavy cream until it can form firm-peaks, mix in the crush cookies that you've set aside and the condensed milk. Fold until thoroughly mixed.
+				- Spread the cookie & butter mixture onto a baking pan, then add the cream mixture.
+				- Chilled in the freezer for 2-3 hours, then add the rest of the cookie & butter mixture on top.
+				- Freeze for at least another 6hours or overnight.
+		- [[Classic Ice cream sandwich]]
+		  collapsed:: true
+			- [[Ingredient]]
+				- 120g + 1 Tbsp all-purpose flour
+				- 1/4 tps salt
+				- 1/4 tps baking soda
+				- 60-100g cup sifted cocoa powder
+				- 40-50g room temp butter
+				- 50g sugar
+				- 30g brown sugar
+				- 1/2 tps vanilla extract
+				- 80ml room temp whole milk
+				- Vanilla Ice cream
+				- oil or butter
+				- [[Optional]]
+					- up to 200g extra butter
+					- 2 eggs
+			- [[Instruction]]
+				- Preheat the oven to 175$\degree$C. Cover/Spray the baking sheet with cooking oil or butter.
+				- Whisk all-purpose flour, salt, baking soda, and cocoa together in a bowl, sift the mixture.
+				- Mix butter, both sugars, and vanilla in another bowl with a spatula until smooth (add the eggs here). Add flour mixture along with mix until the batter is smooth and stiff. Scoop the mixture on to the baking sheet.
+				- Bake for about 10mins or until the top is no longer wet. Let the cookie cools at room temp for about 15mins.
+				- Freeze the cookies for about 15mins, after chilled bring out the cookies add a scoop of ice cream between the cookies. And freeze for 3hours before eating.
+		- [[Chocolate chip cookies]]
+			- [[Ingredient]]
+				- 100g All purpose flour
+				- 135g bread flour
+				- 1 tsp salt
+				- 1 tsp Baking soda
+				- 225g butter
+				- 215g Brown sugar
+				- 100g sugar
+				- 2 tsp vanilla extract
+				- 1 tsp espresso powder
+				- 1 egg + 1 yolk
+				- 150g chocolate chips (Use 60%+)
+				- 100g chopped chocolate (Use 60%+)
+				- [[Optional]]
+					- 135g All purpose flour or 100g All purpose flour + 35g gluten flour
+			- [[Instruction]]
+				- Sift out the flours, salt, and baking soda into a bowl.
+				- Keep stirring the butter in a Medium-High heat pan/pot until brown. After browning immediately put the browned butter into a container until it reach room temp to stop the cooking and keep the butter from burning. Add some water into the melted butter until it reach about 250ml in total volume.
+				- Mix in White sugar, brown sugar, espresso powder, and vanilla extract into a bowl, then add in the room temp brown butter. Whisk until thoroughly mixed. Then add the egg & egg yolk into the mixture, continue whisking until fully mixed.
+				- Add in the flour mixture into the butter mixture, carful not to whisk too much as the rest of the flour will get mixed when folding in the chocolate.
+				- Chopped up the chocolate, then add it into the mixture. Fold until everything is mixed. Scoop out the cookies into 70-80g balls (About 14-16 pieces) on to a baking paper. Let it chilled in the fridge for 1 hour.
+				- Bake in the oven for 12-15mins at 180$\degree$C
+	- [[Sauces/Paste/rub]]
 	  collapsed:: true
-		- [[Ingredient]]
-			- 1-10kg Very ripe fruit
-			- 1 tps salt
-			- [[Optional]]
-				- 1-2 cup unripe fruit
-				- 1Tbsp Syrup / 30g sugar
-				- 1 tsp lime juice
-		- [[Instruction]]
-			- Blend all the fruit until there are no more clumps.
-			- Add into a pot on medium-high heat stir until it starts to thicken (about 10-30mins).
-			- Spread it out very thinly and leave it out in the sun, or bake in the oven at 80C$\degree$ until dry.
-	- [[Oreo Ice-cream sandwich]]
-	  collapsed:: true
-		- [[Ingredient]]
-			- 600g Oreo cookies (about 50 cookies)
-			- 170g Melted butter
-			- 500g Heavy cream
-			- 1 Tbsp vanilla extract
-			- 150g sweet condensed milk
-			- [[Optional]]
-		- [[Instruction]]
-			- Crush the Oreo cookies, by either beating them in a Ziploc bag or blending them.
-			- Set aside 100g of crushed cookies
-			- Transfer the rest of the crushed cookies into a bowl add the melted butter, and mix.
-			- In a new bowl beat up the heavy cream until it can form firm-peaks, mix in the crush cookies that you've set aside and the condensed milk. Fold until thoroughly mixed.
-			- Spread the cookie & butter mixture onto a baking pan, then add the cream mixture.
-			- Chilled in the freezer for 2-3 hours, then add the rest of the cookie & butter mixture on top.
-			- Freeze for at least another 6hours or overnight.
-	- [[Classic Ice cream sandwich]]
-	  collapsed:: true
-		- [[Ingredient]]
-			- 120g + 1 Tbsp all-purpose flour
-			- 1/4 tps salt
-			- 1/4 tps baking soda
-			- 60-100g cup sifted cocoa powder
-			- 40-50g room temp butter
-			- 50g sugar
-			- 30g brown sugar
-			- 1/2 tps vanilla extract
-			- 80ml room temp whole milk
-			- Vanilla Ice cream
-			- oil or butter
-			- [[Optional]]
-				- up to 200g extra butter
-				- 2 eggs
-		- [[Instruction]]
-			- Preheat the oven to 175$\degree$C. Cover/Spray the baking sheet with cooking oil or butter.
-			- Whisk all-purpose flour, salt, baking soda, and cocoa together in a bowl, sift the mixture.
-			- Mix butter, both sugars, and vanilla in another bowl with a spatula until smooth (add the eggs here). Add flour mixture along with mix until the batter is smooth and stiff. Scoop the mixture on to the baking sheet.
-			- Bake for about 10mins or until the top is no longer wet. Let the cookie cools at room temp for about 15mins.
-			- Freeze the cookies for about 15mins, after chilled bring out the cookies add a scoop of ice cream between the cookies. And freeze for 3hours before eating.
-	- [[Chocolate chip cookies]]
-		- [[Ingredient]]
-			- 100g All purpose flour
-			- 135g bread flour
-			- 1 tsp salt
-			- 1 tsp Baking soda
-			- 225g butter
-			- 215g Brown sugar
-			- 100g sugar
-			- 2 tsp vanilla extract
-			- 1 tsp espresso powder
-			- 1 egg + 1 yolk
-			- 150g chocolate chips (Use 60%+)
-			- 100g chopped chocolate (Use 60%+)
-			- [[Optional]]
-				- 135g All purpose flour or 100g All purpose flour + 35g gluten flour
-		- [[Instruction]]
-			- Sift out the flours, salt, and baking soda into a bowl.
-			- Keep stirring the butter in a Medium-High heat pan/pot until brown. After browning immediately put the browned butter into a container until it reach room temp to stop the cooking and keep the butter from burning. Add some water into the melted butter until it reach about 250ml in total volume.
-			- Mix in White sugar, brown sugar, espresso powder, and vanilla extract into a bowl, then add in the room temp brown butter. Whisk until thoroughly mixed. Then add the egg & egg yolk into the mixture, continue whisking until fully mixed.
-			- Add in the flour mixture into the butter mixture, carful not to whisk too much as the rest of the flour will get mixed when folding in the chocolate.
-			- Chopped up the chocolate, then add it into the mixture. Fold until everything is mixed. Scoop out the cookies into 70-80g balls (About 14-16 pieces) on to a baking paper. Let it chilled in the fridge for 1 hour.
-			- Bake in the oven for 12-15mins at 180$\degree$C
-- [[Sauces/Paste/rub]]
-  collapsed:: true
-	- [[Wing-zabb/Larb powder]]
-		- [[Ingredient]]
-			- 3 Tbsp Paprika powder
-			- 2 tps chili powder (more if needed)
-			- 2 tps Lime powder (can be Substitute with citric acid powder)
-			- 1 tps salt
-			- 1 Tbsp sugar
-			- 1 Tbsp roasted uncooked rice
-			- [[Optional]]
-				- msg
-		- [[Instruction]]
-			- Just mix everything
+		- [[Wing-zabb/Larb powder]]
+			- [[Ingredient]]
+				- 3 Tbsp Paprika powder
+				- 2 tps chili powder (more if needed)
+				- 2 tps Lime powder (can be Substitute with citric acid powder)
+				- 1 tps salt
+				- 1 Tbsp sugar
+				- 1 Tbsp roasted uncooked rice
+				- [[Optional]]
+					- msg
+			- [[Instruction]]
+				- Just mix everything
