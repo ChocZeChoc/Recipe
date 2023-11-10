@@ -88,7 +88,7 @@
 				- Coriander seed
 				- None spicy red chilies & Extra Kaffir leaves
 		- [[Instruction]]
-			-
+			- Fry chilies, garlic and curry paste in medium-high heat pan. If using chicken
 	- [[Green Curry]]
 		- [[Ingredient]]
 			- 200-300g pork
