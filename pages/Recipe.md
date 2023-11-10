@@ -21,5 +21,6 @@
 		- [[Instruction]]
 			- Cooked 2 cups of rice and let it chill in the fridge for at least 15mins (overnight is better)
 			- Chop the garlic and chili
-			- Put 2 Tbsp of cooking oil in the pan, turn the heat to medium-high, when the pan get's hot
+			- Put 2 Tbsp of cooking oil in the pan, turn the heat to medium-high, when the pan gets hot, put in the chopped chilies and garlic. Stir fry until golden (Do not burn)
+			- Put in meat
 - [[Dessert]]
