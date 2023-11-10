@@ -16,7 +16,9 @@
 				- Chives
 				- msg
 				- Lime
+				- more oil
 				- Dark soy sauce
 		- [[Instruction]]
-			- Cooked 2 cups of ri
+			- Cooked 2 cups of rice and let it chill in the fridge for at least 15mins (overnight is better)
+			- Put 2 Tbs
 - [[Dessert]]
