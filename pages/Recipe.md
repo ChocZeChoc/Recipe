@@ -106,7 +106,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Mix in **fish sauce, salt**, the rest of the **chilies**, and **sugar** into the pan.
 				- Add in the **meat** let it cook, you can **fry it before adding** it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to **fully cook it**. (Add turkey berries and/or Egg plant, Basil leaves, and coriander seeds after this step)
 				- Add the citrus leaves
-				- Garnish with sliced none spicy chilies, and citrus leaves
+				- **Garnish** with sliced none spicy chilies, and citrus leaves
 		- [[Green Curry]]
 			- [[Ingredient]]
 				- 200-300g Meat (Sliced pork, Chicken, Pork belly)
@@ -127,7 +127,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Mix in **fish sauce, salt**, the rest of the **chilies**, and **sugar** into the pan.
 				- Add in the **meat** let it cook, you can **fry it before adding** it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to **fully cook it**. (Add turkey berries and/or Egg plant, Basil leaves, and coriander seeds after this step)
 				- Add the citrus leaves
-				- Garnish with sliced none spicy chilies, and citrus leaves
+				- **Garnish** with sliced none spicy chilies, and citrus leaves
 		- [[Massamun Curry]]
 			- [[Ingredient]]
 				- [[Optional]]
@@ -147,8 +147,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Poached** the **long green bean** for about **10-30secs.** Let it cool at room temp.
 				- Fry curry paste and sugar in **Medium-high** heat pan (use a pot for bigger portions) in oil until **fragrant** or fat/oil starts to render or **until golden**.
 				- Mix in **fish sauce** to slow down the cooking.
-				- Add in the **meat** let it cook, you can fry it before adding it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to fully cook it. Add the kaffir leave and Long green beans, keep mixing until everything is covered in the curry paste.
-				- Garnish with sliced none spicy chilies, and citrus leaves
+				- Add in the **meat** let it cook, you can fry it before adding it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to **fully cook it**. Add the **kaffir leave** and **Long green beans**, keep mixing until everything is **covered** in the curry paste.
+				- **Garnish** with sliced none spicy chilies, and citrus leaves
 		- [[Stir-fry Venus clam]]
 			- [[Ingredient]]
 				- [[Optional]]
@@ -166,7 +166,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- White/Brown sugar
 					- msg
 			- [[Instruction]]
-				- Finely chop the garlic, put everything except the meat into a bag/bowl, Mix everything until fully combined and the sugar has dissolve into the mixture. Add in the pork (chopped into long strips if preferred you can also copped after it has been cooked) and mix again until all the meat is coated.
+				- **Finely chop the garlic**, put **everything except the meat** into a **bag/bowl**, Mix everything until fully combined and the **sugar has dissolve** into the mixture. Add in the pork (chopped into long strips if preferred you can also copped after it has been cooked) and mix again until all the meat is coated.
 				- Let it marinate in the fridge for at least 15mins to 2 hours.
 				- Grill it over some charcoal or use an air-fryer/oven at 180-200$\degree$C for about 10-20mins. Make sure the middle is at least 65$\degree$C.
 				- Eat with sticky rice and #[[Nam Jim Jaew]]
