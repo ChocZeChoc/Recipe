@@ -112,7 +112,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- 200-300g Meat (Sliced pork, Chicken, Pork belly)
 				- 400-500ml Coconut milk
-				- 40-60g Green curry paste (About 2Tbsp-3Tbsp)
+				- 60g Green curry paste (2Tbsp)
 				- 2-3 fresh Thai Chilies (more if needed)
 				- 400g Thai egg plant (About 8 Thai egg plants; Can be substitute with 1-2 Aubergine)
 				- 200g turkey berry (About 1 cup; Can be substitute with 1 Aubergine)
@@ -147,10 +147,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Paad Prik Kang]] #[[Dried curry]]
 			- [[Ingredient]]
 				- 200g Meat (Any kind of chopped meat best with fatty meat)
-				- 40-60g Red curry paste (2 Tbsp)
+				- 60g Red curry paste (2 Tbsp)
 				- 2 kaffir leaves
-				- 1 Tbsp Fish sauce
-				- 1 + 1/2 Tbsp Palm/Coconut sugar
+				- 15ml Fish sauce (1 Tbsp)
+				- 45g Palm/Coconut sugar (1 + 1/2 Tbsp)
 				- 300g Long green beans
 				- [[Optional]]
 					- Massamun curry paste (Very little to make it sweeter)
