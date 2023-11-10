@@ -182,7 +182,13 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- 300g mince pork (mince chicken)
 				- 5 Tbsp roasted uncooked rice
-				- 1 Tbsp
+				- 1 Tbsp chili powder/flakes
+				- 1/2 tsp sugar
+				- 1-2 lime (about 2-4Tbsp)
+				- 3-4 small shallots
+				- 3-5 spring onions
+				- handful mint leaves
+				-
 				- [[Optional]]
 			- [[Instruction]]
 		- [[Sushi Rice]]
