@@ -1,3 +1,4 @@
 - [[Savoury]]
-	-
+	- [[Fried Rice]]
+		-
 - [[Dessert]]
