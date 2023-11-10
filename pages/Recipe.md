@@ -26,13 +26,15 @@
 			- Add in the eggs, then break up the yolk and cover the meat. Keep stirring until all the egg is cooked
 			- Add in the chilled rice, break it up in to individual grains. Add in the sauces (soy sauce, oyster sauce etc.) Stir until everything is properly mixed. If the rice looks dry add in some more oil (the rice should be a little reflective).
 			- Add in the garnish & a little lime juice (optional).
-	- [[Stir-fry pork basil]]
+	- [[Stir-fry basil]]
 		- [[Ingredient]]
 			- 300g mince meat (pork/chicken)
 			- 1 Tbsp soy sauce (Magi, Green cap, Japanese soya sauce or light soy sauce)
+			- 1 Tbsp Oyster sauce
+			- 1 Tbsp Fish sauce
 			- 1/2 Tbsp Dark soy sauce
 			- 1/2 Tbsp Sugar
-			-
+			- 3-4
 			- [[Optional]]
 		- [[Instruction]]
 - [[Dessert]]
