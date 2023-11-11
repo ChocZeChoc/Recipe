@@ -126,6 +126,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add the citrus leaves
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
 		- [[Green Curry]]
+			- 1 [[Servings]]
+				- [[Nutrition/Servings]]
+					- 870 [[kCal]]
+					- 69g [[Protein]]
 			- [[Ingredient]]
 				- 200-300g Meat (Sliced pork, Chicken, Pork belly)
 				- 400-500ml Coconut milk
