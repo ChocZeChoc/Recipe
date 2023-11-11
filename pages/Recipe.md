@@ -291,8 +291,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Sushi Rice]]
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
-					- [[kCal]]
-					- g [[Protein]]
+					- 648[[kCal]]
+					- 12g [[Protein]]
 			- [[Ingredient]]
 				- 1 cup uncooked Japanese rice
 				- 1 cup water
