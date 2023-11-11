@@ -330,7 +330,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 20g Honey (1 Tbsp)
 					- 2g Chili flakes (1 tsp)
 					- 15ml oil (1 Tbsp)
-					- 100g Sausage (Can be substitute with up to 250g of meat or double the pasta \approx -8g protein)
+					- 100g Sausage (Can be substitute with up to 250g of meat x2 protein or double the pasta less protein & kCal)
 					- [[Optional]]
 						- msg
 				- [[Instruction]]
