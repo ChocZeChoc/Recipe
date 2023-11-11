@@ -94,7 +94,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 2Tbsp oil
 			- [[Instruction]]
 				- Cook the **guanciale**(bacon/pancetta) until **crispy** (add oil if needed) in **Medium-High to High** heat pan.
-				- While the guanciale is cooking, cook the **pasta in sea-salty water**.(3% salt; 1L water : 30g salt )
+				- While the guanciale is cooking, cook the **pasta in Half sea-salty water**.(1% salt; 1L water : 10g salt )
 				- In a **small bowl** mix in the **eggs and cheese**
 				- After the pasta is **Al Dente** (almost cooked but still springy). **Turn off** the heat with guanciale and add the **still hot pasta** and about 5-6Tbsp of pasta water in the pan, Stir in the cheese mixture, **KEEP STIRRING** until everything is coated.
 		- [[Panang Curry]]
