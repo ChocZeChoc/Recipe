@@ -319,8 +319,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Fruit Lather]]
 			- 10 [[Servings]]
 				- [[Nutrition/Servings]]
-					- [[kCal]]
-					- g [[Protein]]
+					- 52[[kCal]]
+					- 1g [[Protein]]
 			- [[Ingredient]]
 				- 1kg Very ripe fruit (mango)
 				- 1 tps salt
