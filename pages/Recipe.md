@@ -355,7 +355,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Classic Ice cream sandwich]]
 			- 12 [[Servings]] (1 Sandwich)
 				- [[Nutrition/Servings]]
-					- 486 [[kCal]]
+					- 277 [[kCal]]
 					- g [[Protein]]
 			- [[Ingredient]]
 				- 120g + 1 Tbsp all-purpose flour
