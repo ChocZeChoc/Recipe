@@ -321,6 +321,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 						- [[kCal]]
 						- g [[Protein]]
 				- [[Ingredient]]
+					- 80g
 					- [[Optional]]
 				- [[Instruction]]
 	- [[Dessert]]
