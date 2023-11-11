@@ -21,7 +21,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 	- [[Savoury]]
 		- [[Nathan's Fried Rice]]
 			- [[Ingredient]]
-				- 30ml Oystersauce (2 Tbsp)
+				- 30ml Oystersauce (2 Tbsp) 20kCal
 				- 2 Eggs
 				- 400g of uncooked rice (2 cups)
 				- 15ml Soy sauce (1 Tbsp)
