@@ -356,7 +356,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 12 [[Servings]] (1 Sandwich)
 				- [[Nutrition/Servings]]
 					- 277 [[kCal]]
-					- g [[Protein]]
+					- 6g [[Protein]]
 			- [[Ingredient]]
 				- 120g + 1 Tbsp all-purpose flour
 				- 1/4 tps salt
