@@ -75,6 +75,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add the sauces, sugar &  some water to the pan. (msg)
 				- Add basil leaves. Cook until the leaves **withered** (Add the extra veggies in this step)
 		- [[Classic carbonara]]
+			- 2 [[Servings]]
+				- [[Nutrition/Servings]]
+					- 902 [[kCal]]
+					- 66g [[Protein]]
 			- [[Ingredient]]
 				- 80g uncooked Spaghetti pasta (or any kind of pasta)
 				- 1-2 Eggs
