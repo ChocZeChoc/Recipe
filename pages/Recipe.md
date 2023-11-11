@@ -315,7 +315,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- [[Optional]]
 			- [[Instruction]]
-			- [[Nathan's style spicy garlic chili oil pasta]] (I have not measure the exact amout for this )
+			- [[Nathan's style spicy garlic chili oil pasta]] (I have not measure the exact amout for this yet this is just an estimate)
 				- 1 [[Servings]]
 					- [[Nutrition/Servings]]
 						- [[kCal]]
@@ -325,7 +325,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 60g Chili oil (2 Tbsp Lao Gan Ma Crispy recipe is my favourite)
 					- 15g garlic (4 Cloves)
 					- 15ml Soy sauce (1 Tbsp)
-					- 15ml Oyster sauce
+					- 15ml Oyster sauce (1 Tbsp)
+					-
 					- [[Optional]]
 				- [[Instruction]]
 	- [[Dessert]]
