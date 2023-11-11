@@ -353,7 +353,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Chilled** in the freezer for **2-3 hours**, then add the rest of the **cookie & butter mixture** on top.
 				- **Freeze** for at least another **6hours** or overnight.
 		- [[Classic Ice cream sandwich]]
-			- 12 [[Servings]]
+			- 12 [[Servings]] (1 Sandwich)
 				- [[Nutrition/Servings]]
 					- 333 [[kCal]]
 					- g [[Protein]]
