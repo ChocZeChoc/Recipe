@@ -130,7 +130,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add in the **meat** let it cook, you can **fry it before adding** it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to **fully cook it**. (Add turkey berries and/or Egg plant, Basil leaves, and coriander seeds after this step)
 				- Add the citrus leaves
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
-			-
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Green Curry]]
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
@@ -156,6 +156,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add in the **meat** let it cook, you can **fry it before adding** it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to **fully cook it**. (Add turkey berries and/or Egg plant, Basil leaves, and coriander seeds after this step)
 				- Add the citrus leaves
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Massamun Curry]]
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
@@ -181,6 +182,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add in the **meat** and the **Spices** let it cook, you can **fry it before adding** it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to **fully cook it**.  Let the curry comes to a **boil** then turn the heat down to a **Medium** for about **20-25mins**.
 				- Add the **chopped Potatoes** and **Onions** into the pot, Stir everything until everything is coated. Let it **simmer/boil** for about **15-20mins**. If you want a **fall of the bone** tender then let it simmer for an **extra 30-60mins**. Test if the **potatoes is fully cooked** (poke a fork into the potatoes and see if there's any resistance).
 				- Add in the **roasted peanuts**, let it simmer for an extra **20secs**.
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Paad Prik Kang]] #[[Dried curry]]
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
@@ -202,6 +204,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Mix in **fish sauce** to slow down the cooking.
 				- Add in the **meat** let it cook, you can fry it before adding it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to **fully cook it**. Add the **kaffir leave** and **Long green beans**, keep mixing until everything is **covered** in the curry paste.
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
+				-
 		- [[Stir-fry Venus clam]]
 			- 2 [[Servings]]
 				- [[Nutrition/Servings]]
