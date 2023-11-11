@@ -456,10 +456,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 150g pickle garlic + juice #[[pickled garlic]]
 					- about 50g of garlic & 100ml of pickled garlic juice
 				- 250g sugar
+				- 1 cup shallots
 				- salt
 				- [[Optional]]
 					- msg
-					- 1 cup shallots
 					- coriander root
 					- 2 whole tomatoes
 					- corn/potato starch
