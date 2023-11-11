@@ -322,6 +322,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 						- g [[Protein]]
 				- [[Ingredient]]
 					- 80g Dried pasta (Small ones are better than spaghetti for this recipe)
+					- 60g Chili oil (Lao Gan Ma Crispy recipe is my favourite)
 					-
 					- [[Optional]]
 				- [[Instruction]]
