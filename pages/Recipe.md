@@ -199,7 +199,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Stir-fry Venus clam]]
 			- 2 [[Servings]]
 				- [[Nutrition/Servings]]
-					- [[kCal]]
+					- 1277[[kCal]]
 					- g [[Protein]]
 			- [[Ingredient]]
 				- 500g Undulate Venus clam (Stripe clam) (Can be substitute with other types of clam)
