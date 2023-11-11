@@ -151,6 +151,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add the citrus leaves
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
 		- [[Massamun Curry]]
+			- 1 [[Servings]]
+				- [[Nutrition/Servings]]
+					- 1102 [[kCal]]
+					- 54g [[Protein]]
 			- [[Ingredient]]
 				- 250g chicken thigh & drumstick (about 2-3 pieces)
 				- 150g Potato (1-2 Potato)
