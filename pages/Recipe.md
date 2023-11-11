@@ -176,6 +176,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add the **chopped Potatoes** and **Onions** into the pot, Stir everything until everything is coated. Let it **simmer/boil** for about **15-20mins**. If you want a **fall of the bone** tender then let it simmer for an **extra 30-60mins**. Test if the **potatoes is fully cooked** (poke a fork into the potatoes and see if there's any resistance).
 				- Add in the **roasted peanuts**, let it simmer for an extra **20secs**.
 		- [[Paad Prik Kang]] #[[Dried curry]]
+			- 1 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- 200g Meat (Any kind of chopped meat best with fatty meat)
 				- 60g Red curry paste (2 Tbsp)
@@ -192,7 +196,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Mix in **fish sauce** to slow down the cooking.
 				- Add in the **meat** let it cook, you can fry it before adding it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to **fully cook it**. Add the **kaffir leave** and **Long green beans**, keep mixing until everything is **covered** in the curry paste.
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
-		- [[Stir-fry Venus clam]] ^^Missing^^ **Missing**
+		- [[Stir-fry Venus clam]]
+			- 2 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- 500g Undulate Venus clam (Stripe clam) (Can be substitute with other types of clam)
 				- 30g Thai basil #horapha
@@ -209,6 +217,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Fry** the **smashed chili** and **garlic** paste, in some cooking **oil** on **High** heat until **fragrant** or **golden**. Then add in the **clam** cook until the clam they **relax** and **open up** (If fry**without the shells** , cook until the **color change slightly**). Then add **Thai chili paste**, **Sugar**, **fish sauce**, and **oyster sauce** into the **pan/wok**.
 				- After**stir frying**  everything for about **2-5mins** add in the **Thai basil leaves** stir fry until all the leaves **wither**.
 		- [[Marinated pork neck]]
+			- 1 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- 1.3kg pork neck (or any fatty pork)
 				- 30g garlic (about 8 cloves)
