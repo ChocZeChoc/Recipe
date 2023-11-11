@@ -19,16 +19,16 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
 			- 1 Metric cup = 250ml \approx 1.06 US cup
 	- [[Savoury]]
-		- [[Nathan's Fried Rice]]
+		- [[Nathan's Fried Rice]] 1992#kCal
 			- [[Ingredient]]
-				- 30ml Oystersauce (2 Tbsp) 20kCal
-				- 2 Eggs 180kCal
-				- 370g of uncooked rice (2 cups) 1431 kCal
-				- 15ml Soy sauce (1 Tbsp) 0 kCal
-				- 2 Cloves of garlic 8 kCal
-				- 5-10g black pepper (1-2 tsp) 5kCal
-				- 15ml oil (2 Tbsp) 240kCal
-				- 50-75g bacon (Half a pack \approx 4 Strips) 108kCal
+				- 30ml Oystersauce (2 Tbsp)
+				- 2 Eggs
+				- 370g of uncooked rice (2 cups)
+				- 15ml Soy sauce (1 Tbsp)
+				- 2 Cloves of garlic
+				- 5-10g black pepper (1-2 tsp)
+				- 15ml oil (2 Tbsp)
+				- 50-75g bacon (Half a pack \approx 4 Strips)
 				- [[Optional]]
 					- 300g of sliced/mince meat (pork/chicken)
 					- 1-2 Chili
