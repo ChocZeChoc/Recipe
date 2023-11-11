@@ -332,7 +332,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- [[Optional]]
 						- msg
 				- [[Instruction]]
-					- Boil pasta in half sea-salt water
+					- Cook the **pasta in Half sea-salty water**.(1% salt; 1L water : 10g salt ). Add
 	- [[Dessert]]
 	  collapsed:: true
 		- [[Fruit Lather]]
