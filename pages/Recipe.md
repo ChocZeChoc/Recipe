@@ -75,10 +75,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add the sauces, sugar &  some water to the pan. (msg)
 				- Add basil leaves. Cook until the leaves **withered** (Add the extra veggies in this step)
 		- [[Classic carbonara]]
-			- 2 [[Servings]]
+			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
-					- 902 [[kCal]]
-					- 66g [[Protein]]
+					- 1121 [[kCal]]
+					- 36g [[Protein]]
 			- [[Ingredient]]
 				- 80g uncooked Spaghetti pasta (or any kind of pasta)
 				- 1-2 Eggs
@@ -98,6 +98,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- In a **small bowl** mix in the **eggs and cheese**
 				- After the pasta is **Al Dente** (almost cooked but still springy). **Turn off** the heat with guanciale and add the **still hot pasta** and about 5-6Tbsp of pasta water in the pan, Stir in the cheese mixture, **KEEP STIRRING** until everything is coated.
 		- [[Panang Curry]]
+			- 2 [[Servings]]
+				- [[Nutrition/Servings]]
+					- 902 [[kCal]]
+					- 66g [[Protein]]
 			- [[Ingredient]]
 				- 300-400g Meat (Sliced pork, Chicken)
 				- 200ml Coconut Milk
