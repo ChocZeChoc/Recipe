@@ -315,7 +315,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- [[Optional]]
 			- [[Instruction]]
-			- [[Nathan's style spicy garlic chili oil pasta]] (just an estimate )
+			- [[Nathan's style spicy garlic chili oil pasta]] (just an estimate; only been eye balling this)
 				- 1 [[Servings]]
 					- [[Nutrition/Servings]]
 						- [[kCal]]
