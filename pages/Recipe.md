@@ -329,10 +329,13 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 15g butter (1 Tbsp)
 					- 20g Honey (1 Tbsp)
 					- 2g Chili flakes (1 tsp)
+					- 15ml oil (1 Tbsp)
 					- [[Optional]]
 						- msg
 				- [[Instruction]]
-					- Cook the **pasta in Half sea-salty water**.(1% salt; 1L water : 10g salt ). Add
+					- Cook the **pasta in Half sea-salty water**.(1% salt; 1L water : 10g salt ).
+					- Chopped the garlic while i
+					- Add oil, chili oil,
 	- [[Dessert]]
 	  collapsed:: true
 		- [[Fruit Lather]]
