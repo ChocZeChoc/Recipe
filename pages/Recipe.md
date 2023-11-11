@@ -326,6 +326,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 15g garlic (4 Cloves)
 					- 15ml Soy sauce (1 Tbsp)
 					- 15ml Oyster sauce (1 Tbsp)
+					- 15g butter (1 Tbsp)
 					-
 					- [[Optional]]
 				- [[Instruction]]
