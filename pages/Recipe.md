@@ -219,8 +219,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Marinated pork neck]]
 			- 5 [[Servings]]
 				- [[Nutrition/Servings]]
-					- 488[[kCal]]
-					- g [[Protein]]
+					- 748[[kCal]]
+					- 68g [[Protein]]
 			- [[Ingredient]]
 				- 1.3kg pork neck (or any fatty pork)
 				- 30g garlic (about 8 cloves)
