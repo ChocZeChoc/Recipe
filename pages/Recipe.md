@@ -240,8 +240,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Nathan's Oven baked Drumstick]]
 			- 3 [[Servings]]
 				- [[Nutrition/Servings]]
-					- [[kCal]]
-					- g [[Protein]]
+					- 450[[kCal]]
+					- 43g [[Protein]]
 			- [[Ingredient]]
 				- 700g-1kg chicken drumstick (Thighs, Wings)
 				- 5g Black pepper (1 tsp)
