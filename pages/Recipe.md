@@ -321,7 +321,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 						- [[kCal]]
 						- g [[Protein]]
 				- [[Ingredient]]
-					- 80g
+					- 80g Dried pasta (Small ones are better than spaghetti for this recipe)
+					-
 					- [[Optional]]
 				- [[Instruction]]
 	- [[Dessert]]
