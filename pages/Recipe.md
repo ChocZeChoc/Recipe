@@ -21,9 +21,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 	- [[Savoury]]
 		- [[Nathan's Fried Rice]]
 			- 2 [[Servings]]
-			- [[Nutrition/Servings]]
-				- 909 [[kCal]]
-				-
+				- [[Nutrition/Servings]]
+					- 909 [[kCal]]
+					- 22g [[Protein]]
 			- [[Ingredient]]
 				- 30ml Oystersauce (2 Tbsp)
 				- 2 Eggs
@@ -51,6 +51,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add in the **chilled rice**, break it up in to **individual grains**. Add in the **sauces** (soy sauce, oyster sauce etc.) Stir until everything is properly mixed. If the**rice looks dry add**  in some more **oil** (the rice should be a little reflective). (msg)
 				- Add in the **garnish** & a little **lime juice** (optional).
 		- [[Stir-fry basil]]
+			- 2 [[Servings]]
+				- [[Nutrition/Servings]]
+					- 909 [[kCal]]
+					- 22g [[Protein]]
 			- [[Ingredient]]
 				- 300g mince meat (pork/chicken)
 				- 15ml soy sauce (1 Tbsp)
