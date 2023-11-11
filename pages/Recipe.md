@@ -219,7 +219,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Marinated pork neck]]
 			- 5 [[Servings]]
 				- [[Nutrition/Servings]]
-					- [[kCal]]
+					- 488[[kCal]]
 					- g [[Protein]]
 			- [[Ingredient]]
 				- 1.3kg pork neck (or any fatty pork)
