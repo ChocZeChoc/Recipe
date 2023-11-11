@@ -339,7 +339,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- Add **oil**, **chili oil**, **chopped garlic**, **chili flakes** into a **Medium-Low** pan, Keep stir frying until **fragrant**, and the garlic is soft or **golden**.
 					- Add the **sausages**(or meat) into the **pan** and cook until all the meat is **golden-brown** or develop a nice **crust**. (I usually cook the meat in oil by itself until brown then go through the steps) **Turn down** the **heat** if the **pasta** is **not Al dente yet**.
 					- Add the still hot cooked pasta into the pan, Add soy sauce, oyster sauce, and honey into the pan, stir-fry everything on High heat until all the pasta and meats is coated.
-					-
+					- Turn off the heat add butter to the still hot pan, keep stir-frying for 2mins.
 	- [[Dessert]]
 	  collapsed:: true
 		- [[Fruit Lather]]
