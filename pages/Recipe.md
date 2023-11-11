@@ -408,10 +408,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 	- [[Sauces/Paste/rub]]
 		- [[Nam Jim Jaew]]
 		  id:: 654e1d49-d7ae-4575-be1e-b07ec9a3235a
-			- 1 [[Servings]]
+			- 5 [[Servings]]
 				- [[Nutrition/Servings]]
-					- 898 [[kCal]]
-					- 28g [[Protein]]
+					- 180 [[kCal]]
+					- 6g [[Protein]]
 			- [[Ingredient]]
 				- 6g chili flakes (1 Tbsp)
 				- 22.5ml lime juice (1+1/2 Tbsp; can be substitute with tamarind paste)
