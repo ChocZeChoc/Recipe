@@ -271,7 +271,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 885 [[kCal]]
-					- g [[Protein]]
+					- 78g [[Protein]]
 			- [[Ingredient]]
 				- 300g mince pork (mince chicken, Grilled pork neck for Nam Tok)
 				- 60g roasted uncooked rice (5 Tbsp)
