@@ -381,8 +381,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Chocolate chip cookies]]
 			- 14 [[Servings]] (1 Cookie)
 				- [[Nutrition/Servings]]
-					- [[kCal]]
-					- g [[Protein]]
+					- 360[[kCal]]
+					- 4g [[Protein]]
 			- [[Ingredient]]
 				- 100g All purpose flour
 				- 135g bread flour
