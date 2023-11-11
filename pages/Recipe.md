@@ -19,6 +19,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
 				- $F\degree=(C\degree \cdot \frac{9}{5})+32$
 			- 1 Metric cup = 250ml \approx 1.06 US cup
+		- ---------------------------------------------------------------------------------------------------------------
 	- [[Savoury]]
 		- [[Nathan's Fried Rice]]
 			- 2 [[Servings]]
@@ -51,6 +52,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add in the **eggs**, then **break up the yolk** and **cover** the meat. Keep stirring **until** all the egg is **cooked**
 				- Add in the **chilled rice**, break it up in to **individual grains**. Add in the **sauces** (soy sauce, oyster sauce etc.) Stir until everything is properly mixed. If the**rice looks dry add**  in some more **oil** (the rice should be a little reflective). (msg)
 				- Add in the **garnish** & a little **lime juice** (optional).
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Stir-fry basil]]
 			- 2 [[Servings]]
 				- [[Nutrition/Servings]]
