@@ -217,7 +217,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Fry** the **smashed chili** and **garlic** paste, in some cooking **oil** on **High** heat until **fragrant** or **golden**. Then add in the **clam** cook until the clam they **relax** and **open up** (If fry**without the shells** , cook until the **color change slightly**). Then add **Thai chili paste**, **Sugar**, **fish sauce**, and **oyster sauce** into the **pan/wok**.
 				- After**stir frying**  everything for about **2-5mins** add in the **Thai basil leaves** stir fry until all the leaves **wither**.
 		- [[Marinated pork neck]]
-			- 1 [[Servings]]
+			- 5 [[Servings]]
 				- [[Nutrition/Servings]]
 					- [[kCal]]
 					- g [[Protein]]
@@ -238,6 +238,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Grill** it over some charcoal or use an **air-fryer/oven** at **180-200**$\degree$C for about **10-20mins.** Make sure the middle is at least **65**$\degree$C.
 				- Eat with sticky rice and #[[Nam Jim Jaew]]
 		- [[Nathan's Oven baked Drumstick]]
+			- 3 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- 700g-1kg chicken drumstick (Thighs, Wings)
 				- 5g Black pepper (1 tsp)
@@ -264,6 +268,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Marinate** for at least **15mins to 2 hours**.
 				- Bake in an oven at **200-225**$\degree$C for **25-35mins** or until the **inside** is **at least 75**$\degree$C and the outside is **nice and crispy.**
 		- [[Laab(Larb) Moo/Nam Tok Moo]]
+			- 1 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- 300g mince pork (mince chicken, Grilled pork neck for Nam Tok)
 				- 60g roasted uncooked rice (5 Tbsp)
@@ -281,6 +289,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Cooked the **mince meat** in water (you can brown it in oil for some extra flavour), on **Medium-high** heat **pot/pan**.
 				- Add in blended/crushed **roasted uncooked rice**, **chili flakes**, **chopped shallots** (thin half slices), **fish sauce**, **chopped spring onions**, and **lime juice** (sugar, msg). Mix everything together **turn off the heat**, Add the **mint leaves** (and Thai basil).
 		- [[Sushi Rice]]
+			- 1 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- 1 cup uncooked Japanese rice
 				- 1 cup water
