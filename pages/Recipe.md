@@ -270,7 +270,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Laab(Larb) Moo/Nam Tok Moo]]
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
-					- [[kCal]]
+					- 885 [[kCal]]
 					- g [[Protein]]
 			- [[Ingredient]]
 				- 300g mince pork (mince chicken, Grilled pork neck for Nam Tok)
