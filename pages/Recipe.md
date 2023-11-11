@@ -19,7 +19,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- $C\degree=\frac{(F\degree-32)\cdot5}{9}$
 			- 1 Metric cup = 250ml \approx 1.06 US cup
 	- [[Savoury]]
-		- [[Nathan's Fried Rice]] 1992#kCal
+		- [[Nathan's Fried Rice]]
 			- [[Ingredient]]
 				- 30ml Oystersauce (2 Tbsp)
 				- 2 Eggs
