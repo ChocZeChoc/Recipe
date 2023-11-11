@@ -298,7 +298,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 1 cup water
 				- 7.5ml #[[Vinegar mix]]
 				- [[Vinegar mix]]
-					- 1 part vinegar
+					- 1 part rice vinegar
 					- 1/3 part sugar
 					- 1/6 part salt
 					- [[Instruction]]
