@@ -379,6 +379,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Bake** for about **10mins** or until the top is **no longer wet**. Let the cookie cools at **room temp** for about **15mins**.
 				- **Freeze** the cookies for about **15mins**, after chilled bring out the cookies add a scoop of **ice cream** between the cookies. And **freeze** for **3hours** before eating.
 		- [[Chocolate chip cookies]]
+			- 14 [[Servings]] (1 Cookie)
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- 100g All purpose flour
 				- 135g bread flour
@@ -404,6 +408,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 	- [[Sauces/Paste/rub]]
 		- [[Nam Jim Jaew]]
 		  id:: 654e1d49-d7ae-4575-be1e-b07ec9a3235a
+			- 1 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- 6g chili flakes (1 Tbsp)
 				- 22.5ml lime juice (1+1/2 Tbsp; can be substitute with tamarind paste)
@@ -420,6 +428,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Roast** the **chili flakes** in oil and a pinch of **salt**, until **fragrant**.
 				- **Chopped** up the **shallots** and **onions** into **thin slices**. Add all the ingredient into a **small bowl**.
 		- [[Wing-zabb/Larb powder]]
+			- 1 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- 18g Paprika powder (3 Tbsp)
 				- 4g chili powder (2 tps; more if needed)
@@ -432,6 +444,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 				- Just **mix** everything
 		- [[Nam Jim look shin]] #[[Meat balls & Sausage sauce]]
+			- 1 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- 35g chili flakes
 				- 40g dried whole Thai chilies
@@ -453,6 +469,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Put in all the **sugars** into a **pan/pot Medium-High** to **high** heat, add in the **blended mixture**, **tamarind paste**, and some **water**. Stir and **mix** until **thicken**(use starches to thicken if the flavour is harsher than you'd like) .
 	- [[Misc]]
 		- [[pickled garlic]] ^^Missing^^ **Missing**
+			- 1 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- [[Optional]]
 			- [[Instruction]]
