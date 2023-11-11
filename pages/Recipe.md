@@ -23,8 +23,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- 30ml Oystersauce (2 Tbsp) 20kCal
 				- 2 Eggs 180kCal
-				- 370g of uncooked rice (2 cups)
-				- 15ml Soy sauce (1 Tbsp)
+				- 370g of uncooked rice (2 cups) 1431 kCal
+				- 15ml Soy sauce (1 Tbsp) 0 kCal
 				- 2 Cloves of garlic
 				- 5-10g black pepper (1-2 tsp)
 				- 15ml oil (2 Tbsp)
