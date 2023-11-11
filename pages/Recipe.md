@@ -328,9 +328,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 15ml Oyster sauce (1 Tbsp)
 					- 15g butter (1 Tbsp)
 					- 20g Honey (1 Tbsp)
-					- 2g Chili flake
+					- 2g Chili flakes (1 tsp)
 					- [[Optional]]
+						- msg
 				- [[Instruction]]
+					- Boil pasta in half sea-salt water
 	- [[Dessert]]
 	  collapsed:: true
 		- [[Fruit Lather]]
