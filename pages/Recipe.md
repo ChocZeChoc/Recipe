@@ -430,8 +430,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Wing-zabb/Larb powder]]
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
-					- [[kCal]]
-					- g [[Protein]]
+					- 41 [[kCal]]
+					- 0g [[Protein]]
 			- [[Ingredient]]
 				- 18g Paprika powder (3 Tbsp)
 				- 4g chili powder (2 tps; more if needed)
