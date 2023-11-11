@@ -20,7 +20,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 1 Metric cup = 250ml \approx 1.06 US cup
 	- [[Savoury]]
 		- [[Nathan's Fried Rice]]
-			- 2 Servings 909kCal 22g per servings
+			- 2 [[Servings]]
+			- [[Nutrition/Servings]]
+				- 909 [[kCal]]
+				-
 			- [[Ingredient]]
 				- 30ml Oystersauce (2 Tbsp)
 				- 2 Eggs
