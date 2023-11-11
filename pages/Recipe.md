@@ -334,8 +334,9 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 						- msg
 				- [[Instruction]]
 					- Cook the **pasta in Half sea-salty water**.(1% salt; 1L water : 10g salt ).
-					- Chopped the garlic while the pasta is cooking.
-					- Add oil, chili oil, chopped garlic, chili flakes into a **Medium-Low** pan, Keep stir frying until fragrant
+					- **Chopped** the **garlic** while the pasta is cooking.
+					- Add **oil**, **chili oil**, **chopped garlic**, **chili flakes** into a **Medium-Low** pan, Keep stir frying until **fragrant**, and the garlic is soft or **golden**.
+					- Add the cooked pasta into the still hot pan
 	- [[Dessert]]
 	  collapsed:: true
 		- [[Fruit Lather]]
