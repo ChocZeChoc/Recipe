@@ -2,7 +2,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 
 - [[Recipe]]
 	- Things to know
-	  collapsed:: true
 		- #kaphrao and #horapha are both Thai basil but they are not the same, read which tag it has.
 			- Common name for #kaphrao is Holy basil, used more often.
 			- And for #horapha common name is Thai basil
@@ -22,7 +21,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- 1 Metric cup = 250ml \approx 1.06 US cup
 	- [[Savoury]]
 		- [[Nathan's Fried Rice]]
-		  collapsed:: true
 			- 2 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 909 [[kCal]]
@@ -54,7 +52,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add in the **chilled rice**, break it up in to **individual grains**. Add in the **sauces** (soy sauce, oyster sauce etc.) Stir until everything is properly mixed. If the**rice looks dry add**  in some more **oil** (the rice should be a little reflective). (msg)
 				- Add in the **garnish** & a little **lime juice** (optional).
 		- [[Stir-fry basil]]
-		  collapsed:: true
 			- 2 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 902 [[kCal]]
@@ -79,7 +76,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add the sauces, sugar &  some water to the pan. (msg)
 				- Add basil leaves. Cook until the leaves **withered** (Add the extra veggies in this step)
 		- [[Classic carbonara]]
-		  collapsed:: true
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 1121 [[kCal]]
@@ -103,7 +99,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- In a **small bowl** mix in the **eggs and cheese**
 				- After the pasta is **Al Dente** (almost cooked but still springy). **Turn off** the heat with guanciale and add the **still hot pasta** and about 5-6Tbsp of pasta water in the pan, Stir in the cheese mixture, **KEEP STIRRING** until everything is coated.
 		- [[Panang Curry]]
-		  collapsed:: true
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 977 [[kCal]]
@@ -132,7 +127,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add the citrus leaves
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
 		- [[Green Curry]]
-		  collapsed:: true
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 870 [[kCal]]
@@ -158,7 +152,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add the citrus leaves
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
 		- [[Massamun Curry]]
-		  collapsed:: true
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 1102 [[kCal]]
@@ -184,7 +177,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add the **chopped Potatoes** and **Onions** into the pot, Stir everything until everything is coated. Let it **simmer/boil** for about **15-20mins**. If you want a **fall of the bone** tender then let it simmer for an **extra 30-60mins**. Test if the **potatoes is fully cooked** (poke a fork into the potatoes and see if there's any resistance).
 				- Add in the **roasted peanuts**, let it simmer for an extra **20secs**.
 		- [[Paad Prik Kang]] #[[Dried curry]]
-		  collapsed:: true
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 953 [[kCal]]
@@ -206,7 +198,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add in the **meat** let it cook, you can fry it before adding it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to **fully cook it**. Add the **kaffir leave** and **Long green beans**, keep mixing until everything is **covered** in the curry paste.
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
 		- [[Stir-fry Venus clam]]
-		  collapsed:: true
 			- 2 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 633 [[kCal]]
@@ -227,7 +218,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Fry** the **smashed chili** and **garlic** paste, in some cooking **oil** on **High** heat until **fragrant** or **golden**. Then add in the **clam** cook until the clam they **relax** and **open up** (If fry**without the shells** , cook until the **color change slightly**). Then add **Thai chili paste**, **Sugar**, **fish sauce**, and **oyster sauce** into the **pan/wok**.
 				- After**stir frying**  everything for about **2-5mins** add in the **Thai basil leaves** stir fry until all the leaves **wither**.
 		- [[Marinated pork neck]]
-		  collapsed:: true
 			- 5 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 748[[kCal]]
@@ -249,7 +239,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Grill** it over some charcoal or use an **air-fryer/oven** at **180-200**$\degree$C for about **10-20mins.** Make sure the middle is at least **65**$\degree$C.
 				- Eat with sticky rice and #[[Nam Jim Jaew]]
 		- [[Nathan's Oven baked Drumstick]]
-		  collapsed:: true
 			- 3 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 450[[kCal]]
@@ -280,7 +269,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Marinate** for at least **15mins to 2 hours**.
 				- Bake in an oven at **200-225**$\degree$C for **25-35mins** or until the **inside** is **at least 75**$\degree$C and the outside is **nice and crispy.**
 		- [[Laab(Larb) Moo/Nam Tok Moo]]
-		  collapsed:: true
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 885 [[kCal]]
@@ -302,7 +290,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Cooked the **mince meat** in water (you can brown it in oil for some extra flavour), on **Medium-high** heat **pot/pan**.
 				- Add in blended/crushed **roasted uncooked rice**, **chili flakes**, **chopped shallots** (thin half slices), **fish sauce**, **chopped spring onions**, and **lime juice** (sugar, msg). Mix everything together **turn off the heat**, Add the **mint leaves** (and Thai basil).
 		- [[Sushi Rice]]
-		  collapsed:: true
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 648[[kCal]]
@@ -322,7 +309,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Put the hot rice in a **wide bowl** (Japanese wooden thing is best)
 				- Add the **vinegar mix** and mix the rice and vinegar mixture in a **slicing motion** (Do not fold the rice or stir only scoop a little and shake it off the rice spoon; Big ass wide spoon for rice; wood or plastic)
 		- [[Hainan-style chicken/Khoa mun kai]] ^^Missing^^ **Missing**
-		  collapsed:: true
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
 					- [[kCal]]
@@ -360,7 +346,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- **Turn off** the heat **add butter** to the still **hot pan**, keep **stir-frying** for **2-3mins**.
 	- [[Dessert]]
 		- [[Fruit Lather]]
-		  collapsed:: true
 			- 10 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 52[[kCal]]
@@ -377,7 +362,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add into a pot on **medium-high** heat stir until it starts to **thicken** (about **10-30mins**).
 				- **Spread it** out very **thinly** and leave it out in the **sun**, **or bake** in the oven at **80**C$\degree$ **until dry**.
 		- [[Oreo Ice-cream sandwich]]
-		  collapsed:: true
 			- 6 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 969 [[kCal]]
@@ -398,7 +382,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Chilled** in the freezer for **2-3 hours**, then add the rest of the **cookie & butter mixture** on top.
 				- **Freeze** for at least another **6hours** or overnight.
 		- [[Classic Ice cream sandwich]]
-		  collapsed:: true
 			- 12 [[Servings]] (1 Sandwich)
 				- [[Nutrition/Servings]]
 					- 277 [[kCal]]
@@ -425,7 +408,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Bake** for about **10mins** or until the top is **no longer wet**. Let the cookie cools at **room temp** for about **15mins**.
 				- **Freeze** the cookies for about **15mins**, after chilled bring out the cookies add a scoop of **ice cream** between the cookies. And **freeze** for **3hours** before eating.
 		- [[Chocolate chip cookies]]
-		  collapsed:: true
 			- 14 [[Servings]] (1 Cookie)
 				- [[Nutrition/Servings]]
 					- 360[[kCal]]
@@ -455,7 +437,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 	- [[Sauces/Paste/rub]]
 		- [[Nam Jim Jaew]]
 		  id:: 654e1d49-d7ae-4575-be1e-b07ec9a3235a
-		  collapsed:: true
 			- 5 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 180 [[kCal]]
@@ -476,7 +457,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Roast** the **chili flakes** in oil and a pinch of **salt**, until **fragrant**.
 				- **Chopped** up the **shallots** and **onions** into **thin slices**. Add all the ingredient into a **small bowl**.
 		- [[Wing-zabb/Larb powder]]
-		  collapsed:: true
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 41 [[kCal]]
@@ -493,7 +473,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 				- Just **mix** everything
 		- [[Nam Jim look shin]] #[[Meat balls & Sausage sauce]]
-		  collapsed:: true
 			- 10 [[Servings]]
 				- [[Nutrition/Servings]]
 					- 297 [[kCal]]
@@ -519,7 +498,6 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Put in all the **sugars** into a **pan/pot Medium-High** to **high** heat, add in the **blended mixture**, **tamarind paste**, and some **water**. Stir and **mix** until **thicken**(use starches to thicken if the flavour is harsher than you'd like) .
 	- [[Misc]]
 		- [[pickled garlic]] ^^Missing^^ **Missing**
-		  collapsed:: true
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
 					- [[kCal]]
