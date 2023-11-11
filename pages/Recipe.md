@@ -77,6 +77,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add meat to the pan, Cook until **golden-brown** in color. (Have some crust)
 				- Add the sauces, sugar &  some water to the pan. (msg)
 				- Add basil leaves. Cook until the leaves **withered** (Add the extra veggies in this step)
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Classic carbonara]]
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
@@ -100,6 +101,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- While the guanciale is cooking, cook the **pasta in Half sea-salty water**.(1% salt; 1L water : 10g salt )
 				- In a **small bowl** mix in the **eggs and cheese**
 				- After the pasta is **Al Dente** (almost cooked but still springy). **Turn off** the heat with guanciale and add the **still hot pasta** and about 5-6Tbsp of pasta water in the pan, Stir in the cheese mixture, **KEEP STIRRING** until everything is coated.
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Panang Curry]]
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
@@ -128,6 +130,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add in the **meat** let it cook, you can **fry it before adding** it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to **fully cook it**. (Add turkey berries and/or Egg plant, Basil leaves, and coriander seeds after this step)
 				- Add the citrus leaves
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
+			-
 		- [[Green Curry]]
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
