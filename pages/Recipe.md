@@ -27,8 +27,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 15ml Soy sauce (1 Tbsp) 0 kCal
 				- 2 Cloves of garlic 8 kCal
 				- 5-10g black pepper (1-2 tsp) 5kCal
-				- 15ml oil (2 Tbsp)
-				- 50-75g bacon (Half a pack \approx 4 Strips)
+				- 15ml oil (2 Tbsp) 240kCal
+				- 50-75g bacon (Half a pack \approx 4 Strips) 108kCal
 				- [[Optional]]
 					- 300g of sliced/mince meat (pork/chicken)
 					- 1-2 Chili
