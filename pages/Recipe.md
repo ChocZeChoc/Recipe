@@ -330,9 +330,12 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 20g Honey (1 Tbsp)
 					- 2g Chili flakes (1 tsp)
 					- 15ml oil (1 Tbsp)
-					- 100g Sausage (Can be substitute with up to 250g of meat x2 protein or double the pasta less protein & kCal)
+					- 100g Sausage
 					- [[Optional]]
 						- msg
+							- Sausages can be 
+							  substitute with up to 250g of meat (\approx +35g protein)
+							  or double the pasta less protein & kCal
 				- [[Instruction]]
 					- Cook the **pasta in Half sea-salty water**.(1% salt; 1L water : 10g salt ).
 					- **Chopped** the **garlic** and **sausages** while the pasta is cooking. (The chopping should be done **separately**: chop the garlic then put it in the pan THEN chop the sausages)
