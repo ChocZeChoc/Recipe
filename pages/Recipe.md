@@ -308,13 +308,21 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Put the hot rice in a **wide bowl** (Japanese wooden thing is best)
 				- Add the **vinegar mix** and mix the rice and vinegar mixture in a **slicing motion** (Do not fold the rice or stir only scoop a little and shake it off the rice spoon; Big ass wide spoon for rice; wood or plastic)
 		- [[Hainan-style chicken/Khoa mun kai]] ^^Missing^^ **Missing**
+			- 1 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- [[Optional]]
 			- [[Instruction]]
 	- [[Dessert]]
 		- [[Fruit Lather]]
+			- 10 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
-				- 1-10kg Very ripe fruit
+				- 1kg Very ripe fruit (mango)
 				- 1 tps salt
 				- [[Optional]]
 					- 1-2 cup unripe fruit
@@ -325,6 +333,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add into a pot on **medium-high** heat stir until it starts to **thicken** (about **10-30mins**).
 				- **Spread it** out very **thinly** and leave it out in the **sun**, **or bake** in the oven at **80**C$\degree$ **until dry**.
 		- [[Oreo Ice-cream sandwich]]
+			- 6 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- 600g Oreo cookies (about 50 cookies)
 				- 170g Melted butter
@@ -341,6 +353,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Chilled** in the freezer for **2-3 hours**, then add the rest of the **cookie & butter mixture** on top.
 				- **Freeze** for at least another **6hours** or overnight.
 		- [[Classic Ice cream sandwich]]
+			- 12 [[Servings]]
+				- [[Nutrition/Servings]]
+					- [[kCal]]
+					- g [[Protein]]
 			- [[Ingredient]]
 				- 120g + 1 Tbsp all-purpose flour
 				- 1/4 tps salt
