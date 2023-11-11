@@ -327,7 +327,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- 15ml Soy sauce (1 Tbsp)
 					- 15ml Oyster sauce (1 Tbsp)
 					- 15g butter (1 Tbsp)
-					-
+					- 20g Honey (1 Tbsp)
+					- 2g Chili flake
 					- [[Optional]]
 				- [[Instruction]]
 	- [[Dessert]]
