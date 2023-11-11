@@ -178,7 +178,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Paad Prik Kang]] #[[Dried curry]]
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
-					- [[kCal]]
+					- 963 [[kCal]]
 					- g [[Protein]]
 			- [[Ingredient]]
 				- 200g Meat (Any kind of chopped meat best with fatty meat)
