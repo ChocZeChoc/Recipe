@@ -335,8 +335,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Oreo Ice-cream sandwich]]
 			- 6 [[Servings]]
 				- [[Nutrition/Servings]]
-					- [[kCal]]
-					- g [[Protein]]
+					- 969 [[kCal]]
+					- 8g [[Protein]]
 			- [[Ingredient]]
 				- 600g Oreo cookies (about 50 cookies)
 				- 170g Melted butter
@@ -355,7 +355,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Classic Ice cream sandwich]]
 			- 12 [[Servings]]
 				- [[Nutrition/Servings]]
-					- [[kCal]]
+					- 333 [[kCal]]
 					- g [[Protein]]
 			- [[Ingredient]]
 				- 120g + 1 Tbsp all-purpose flour
