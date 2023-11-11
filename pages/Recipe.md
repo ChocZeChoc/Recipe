@@ -53,10 +53,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 		- [[Stir-fry basil]]
 			- 2 [[Servings]]
 				- [[Nutrition/Servings]]
-					- 909 [[kCal]]
-					- 22g [[Protein]]
+					- 902 [[kCal]]
+					- 66g [[Protein]]
 			- [[Ingredient]]
-				- 300g mince meat (pork/chicken)
+				- 250g mince meat (pork/chicken)
 				- 15ml soy sauce (1 Tbsp)
 				- 15ml Oyster sauce (1 Tbsp)
 				- 15ml Fish sauce (1 Tbsp)
