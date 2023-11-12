@@ -330,35 +330,35 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- [[Optional]]
 			- [[Instruction]]
 			- ----------------------------------------------------------------------------------------------------------
-			- [[Nathan's style spicy garlic chili oil pasta]] (just an estimate; only been eye balling this)
-				- 1 [[Servings]]
-					- [[Nutrition/Servings]]
-						- 1164 [[kCal]]
-						- 31g [[Protein]]
-				- [[Ingredient]]
-					- 80g Dried pasta (Small ones are better than spaghetti for this recipe)
-					- 60g Chili oil (2 Tbsp Lao Gan Ma Crispy recipe usually add 1-2 extra tablespoons)
-					- 15g garlic (4 Cloves)
-					- 15ml Soy sauce (1 Tbsp)
-					- 15ml Oyster sauce (1 Tbsp)
-					- 15g butter (1 Tbsp)
-					- 20g Honey (1 Tbsp)
-					- 2g Chili flakes (1 tsp)
-					- 15ml oil (1 Tbsp)
-					- 100g Sausage
-					- [[Optional]]
-						- msg
-						- Sausages can be substitute 
-						  with up to 250g of meat (\approx +35g protein almost same kCal)
-						  or double the pasta (\approx -8g protein almost same kCal)
-				- [[Instruction]]
-					- Cook the **pasta in Half sea-salty water**.(1% salt; 1L water : 10g salt ).
-					- **Chopped** the **garlic** and **sausages** while the pasta is cooking. (The chopping should be done **separately**: chop the garlic then put it in the pan THEN chop the sausages)
-					- Add **oil**, **chili oil**, **chopped garlic**, **chili flakes** into a **Medium-Low** pan, Keep stir frying until **fragrant**, and the garlic is soft or **golden**.
-					- Add the **sausages**(or meat) into the **pan** and cook until all the meat is **golden-brown** or develop a nice **crust**. (I usually cook the meat in oil by itself until brown then go through the steps) **Turn down** the **heat** if the **pasta** is **not Al dente yet**.
-					- **Add** the **still hot** cooked **pasta** into the **pan**, Add **soy sauce**, **oyster sauce**, and **honey** (and msg) into the pan, **stir-fry** everything on **High** heat **until** all the pasta and meats is **coated**.
-					- **Turn off** the heat **add butter** to the still **hot pan**, keep **stir-frying** for **2-3mins**.
-				- ----------------------------------------------------------------------------------------------------------
+		- [[Nathan's style spicy garlic chili oil pasta]] (just an estimate; only been eye balling this)
+			- 1 [[Servings]]
+				- [[Nutrition/Servings]]
+					- 1164 [[kCal]]
+					- 31g [[Protein]]
+			- [[Ingredient]]
+				- 80g Dried pasta (Small ones are better than spaghetti for this recipe)
+				- 60g Chili oil (2 Tbsp Lao Gan Ma Crispy recipe usually add 1-2 extra tablespoons)
+				- 15g garlic (4 Cloves)
+				- 15ml Soy sauce (1 Tbsp)
+				- 15ml Oyster sauce (1 Tbsp)
+				- 15g butter (1 Tbsp)
+				- 20g Honey (1 Tbsp)
+				- 2g Chili flakes (1 tsp)
+				- 15ml oil (1 Tbsp)
+				- 100g Sausage
+				- [[Optional]]
+					- msg
+					- Sausages can be substitute 
+					  with up to 250g of meat (\approx +35g protein almost same kCal)
+					  or double the pasta (\approx -8g protein almost same kCal)
+			- [[Instruction]]
+				- Cook the **pasta in Half sea-salty water**.(1% salt; 1L water : 10g salt ).
+				- **Chopped** the **garlic** and **sausages** while the pasta is cooking. (The chopping should be done **separately**: chop the garlic then put it in the pan THEN chop the sausages)
+				- Add **oil**, **chili oil**, **chopped garlic**, **chili flakes** into a **Medium-Low** pan, Keep stir frying until **fragrant**, and the garlic is soft or **golden**.
+				- Add the **sausages**(or meat) into the **pan** and cook until all the meat is **golden-brown** or develop a nice **crust**. (I usually cook the meat in oil by itself until brown then go through the steps) **Turn down** the **heat** if the **pasta** is **not Al dente yet**.
+				- **Add** the **still hot** cooked **pasta** into the **pan**, Add **soy sauce**, **oyster sauce**, and **honey** (and msg) into the pan, **stir-fry** everything on **High** heat **until** all the pasta and meats is **coated**.
+				- **Turn off** the heat **add butter** to the still **hot pan**, keep **stir-frying** for **2-3mins**.
+			- ----------------------------------------------------------------------------------------------------------
 	- [[Dessert]]
 		- [[Fruit Lather]]
 			- 10 [[Servings]]
