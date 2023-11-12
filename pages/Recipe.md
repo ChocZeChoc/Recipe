@@ -376,6 +376,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Blend** all the **fruit** until there are no more clumps.
 				- Add into a pot on **medium-high** heat stir until it starts to **thicken** (about **10-30mins**).
 				- **Spread it** out very **thinly** and leave it out in the **sun**, **or bake** in the oven at **80**C$\degree$ **until dry**.
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Oreo Ice-cream sandwich]]
 			- 6 [[Servings]]
 				- [[Nutrition/Servings]]
@@ -396,6 +397,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Spread the **cookie & butter mixture** onto a baking pan, then add the **cream mixture**.
 				- **Chilled** in the freezer for **2-3 hours**, then add the rest of the **cookie & butter mixture** on top.
 				- **Freeze** for at least another **6hours** or overnight.
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Classic Ice cream sandwich]]
 			- 12 [[Servings]] (1 Sandwich)
 				- [[Nutrition/Servings]]
@@ -422,6 +424,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Mix **butter**, **both sugars**, and **vanilla** in another **bowl** with a spatula until **smooth** (add the eggs here). Add flour mixture along with mix until the batter is smooth and stiff. Scoop the mixture on to the baking sheet.
 				- **Bake** for about **10mins** or until the top is **no longer wet**. Let the cookie cools at **room temp** for about **15mins**.
 				- **Freeze** the cookies for about **15mins**, after chilled bring out the cookies add a scoop of **ice cream** between the cookies. And **freeze** for **3hours** before eating.
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Chocolate chip cookies]]
 			- 14 [[Servings]] (1 Cookie)
 				- [[Nutrition/Servings]]
@@ -449,6 +452,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add in the **flour mixture** into the **butter mixture**, careful not to whisk too much as the rest of the flour will get mixed when folding in the chocolate.
 				- **Chopped up the chocolate**, then **add it** into the mixture. **Fold** until everything is mixed. Scoop out the cookies into **70-80g balls** (About 14-16 pieces) on to a baking paper. Let it **chilled** in the fridge for **1 hour.**
 				- **Bake** in the oven for **12-15mins** at **180**$\degree$C
+			- ----------------------------------------------------------------------------------------------------------
 	- [[Sauces/Paste/rub]]
 		- [[Nam Jim Jaew]]
 		  id:: 654e1d49-d7ae-4575-be1e-b07ec9a3235a
@@ -471,6 +475,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 				- **Roast** the **chili flakes** in oil and a pinch of **salt**, until **fragrant**.
 				- **Chopped** up the **shallots** and **onions** into **thin slices**. Add all the ingredient into a **small bowl**.
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Wing-zabb/Larb powder]]
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
@@ -487,6 +492,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- msg
 			- [[Instruction]]
 				- Just **mix** everything
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Nam Jim look shin]] #[[Meat balls & Sausage sauce]]
 			- 10 [[Servings]]
 				- [[Nutrition/Servings]]
@@ -511,6 +517,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Roast** Dried **chilies** and **chili flakes** (and **shallots**) in **oil & salt** until **fragrant** or **golden**. (separate frying shallots and chilies for the most control)
 				- **Blend** both chilies, (and tomatoes) and **pickled garlic** until fully **combined**. (coriander root goes in this step)
 				- Put in all the **sugars** into a **pan/pot Medium-High** to **high** heat, add in the **blended mixture**, **tamarind paste**, and some **water**. Stir and **mix** until **thicken**(use starches to thicken if the flavour is harsher than you'd like) .
+			- ----------------------------------------------------------------------------------------------------------
 	- [[Misc]]
 		- [[pickled garlic]] ^^Missing^^ **Missing**
 			- 1 [[Servings]]
@@ -520,3 +527,4 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- [[Optional]]
 			- [[Instruction]]
+		- ----------------------------------------------------------------------------------------------------------
