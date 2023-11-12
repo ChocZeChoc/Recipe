@@ -117,7 +117,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- salt
 				- 20g sugar
 				- Kaffir leaves
-				- 30ml Fish sauce (2 Tbsp)
+				- 15ml Fish sauce (1 Tbsp)
 				- [[Optional]]
 					- Holy basil leaves #kaphrao
 					- Lime/Lemon leaves
@@ -146,7 +146,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 1 Cup Thai basil leaves #horapha
 				- 1/2 Cup kaffir leaves
 				- 10-30g palm/coconut sugar (About 1 Tbsp)
-				- 30ml Fish sauce (2 Tbsp)
+				- 15ml Fish sauce (1 Tbsp)
 				- [[Optional]]
 					- Purple egg plant/Aubergine
 					- Red curry paste (add spice and aroma only use a little(1-3 tsp))
