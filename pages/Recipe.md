@@ -204,7 +204,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Mix in **fish sauce** to slow down the cooking.
 				- Add in the **meat** let it cook, you can fry it before adding it in to add more flavour, if using bone-in **chicken**(drumstick, chicken thigh etc.) do **this step first** and then bake/boil the chicken to **fully cook it**. Add the **kaffir leave** and **Long green beans**, keep mixing until everything is **covered** in the curry paste.
 				- **Garnish** with sliced none spicy chilies, and citrus leaves
-				-
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Stir-fry Venus clam]]
 			- 2 [[Servings]]
 				- [[Nutrition/Servings]]
@@ -225,6 +225,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- **Smash/Crush** the **garlic** and **chilies** in a **pestle & mortar**, (If you do not have one, smack it hard with a knife and finely chopped).
 				- **Fry** the **smashed chili** and **garlic** paste, in some cooking **oil** on **High** heat until **fragrant** or **golden**. Then add in the **clam** cook until the clam they **relax** and **open up** (If fry**without the shells** , cook until the **color change slightly**). Then add **Thai chili paste**, **Sugar**, **fish sauce**, and **oyster sauce** into the **pan/wok**.
 				- After**stir frying**  everything for about **2-5mins** add in the **Thai basil leaves** stir fry until all the leaves **wither**.
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Marinated pork neck]]
 			- 5 [[Servings]]
 				- [[Nutrition/Servings]]
@@ -246,6 +247,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Let it **marinate** in the fridge for at least **15mins to 2 hours**.
 				- **Grill** it over some charcoal or use an **air-fryer/oven** at **180-200**$\degree$C for about **10-20mins.** Make sure the middle is at least **65**$\degree$C.
 				- Eat with sticky rice and #[[Nam Jim Jaew]]
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Nathan's Oven baked Drumstick]]
 			- 3 [[Servings]]
 				- [[Nutrition/Servings]]
@@ -276,6 +278,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Add **all the powder**, **soy sauce**, and **oil** in a **bowl/bag**. Then add in the **chicken**. Mix until everything is covered.
 				- **Marinate** for at least **15mins to 2 hours**.
 				- Bake in an oven at **200-225**$\degree$C for **25-35mins** or until the **inside** is **at least 75**$\degree$C and the outside is **nice and crispy.**
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Laab(Larb) Moo/Nam Tok Moo]]
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
