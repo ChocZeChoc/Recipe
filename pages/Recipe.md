@@ -300,6 +300,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Instruction]]
 				- Cooked the **mince meat** in water (you can brown it in oil for some extra flavour), on **Medium-high** heat **pot/pan**.
 				- Add in blended/crushed **roasted uncooked rice**, **chili flakes**, **chopped shallots** (thin half slices), **fish sauce**, **chopped spring onions**, and **lime juice** (sugar, msg). Mix everything together **turn off the heat**, Add the **mint leaves** (and Thai basil).
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Sushi Rice]]
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
@@ -319,6 +320,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Wash and cook the Japanese rice in a rice cooker with **1 : 1; Rice : Water ratio**
 				- Put the hot rice in a **wide bowl** (Japanese wooden thing is best)
 				- Add the **vinegar mix** and mix the rice and vinegar mixture in a **slicing motion** (Do not fold the rice or stir only scoop a little and shake it off the rice spoon; Big ass wide spoon for rice; wood or plastic)
+			- ----------------------------------------------------------------------------------------------------------
 		- [[Hainan-style chicken/Khoa mun kai]] ^^Missing^^ **Missing**
 			- 1 [[Servings]]
 				- [[Nutrition/Servings]]
@@ -327,6 +329,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 			- [[Ingredient]]
 				- [[Optional]]
 			- [[Instruction]]
+			- ----------------------------------------------------------------------------------------------------------
 			- [[Nathan's style spicy garlic chili oil pasta]] (just an estimate; only been eye balling this)
 				- 1 [[Servings]]
 					- [[Nutrition/Servings]]
