@@ -434,7 +434,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 100g All purpose flour
 				- 135g bread flour
 				- 1 tsp salt
-				- 1 tsp
+				- 1 tsp Baking powder
 				- 1/2 tsp Baking soda
 				- 225g butter
 				- 165g Brown sugar
