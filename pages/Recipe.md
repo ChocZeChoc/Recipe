@@ -436,8 +436,8 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- 1 tsp salt
 				- 1 tsp Baking soda
 				- 225g butter
-				- 215g Brown sugar
-				- 100g sugar
+				- 165g Brown sugar
+				- 150g sugar
 				- 2 tsp vanilla extract (or 1 tsp Vanilla sugar)
 				- 1 tsp espresso powder
 				- 1 egg + 1 yolk
