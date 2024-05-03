@@ -33,11 +33,12 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Cola drink
 				- Black Pepper
 				- Garlic
-				-
-				-
+				- Soy sauce
+				- Oyster Sauce
 				- [[Optional]]
 					- Red Onions (Very Small diced)
 					- Green Onions (Slice)
+					- Hot sauce
 			- [[Instruction]]
 				-
 			- ----------------------------------------------------------------------------------------------------------
