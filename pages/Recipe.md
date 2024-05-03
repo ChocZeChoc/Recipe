@@ -35,10 +35,12 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Garlic
 				- Soy sauce
 				- Oyster Sauce
+				- Corn Starch
 				- [[Optional]]
 					- Red Onions (Very Small diced)
 					- Green Onions (Slice)
 					- Hot sauce
+					- Potato Starch
 			- [[Instruction]]
 				-
 			- ----------------------------------------------------------------------------------------------------------
