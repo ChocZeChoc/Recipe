@@ -34,8 +34,10 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 				- Black Pepper
 				- Garlic
 				-
+				-
 				- [[Optional]]
-					-
+					- Red Onions (Very Small diced)
+					- Green Onions (Slice)
 			- [[Instruction]]
 				-
 			- ----------------------------------------------------------------------------------------------------------
