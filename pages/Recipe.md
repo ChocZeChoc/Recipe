@@ -42,6 +42,7 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- Green Onions (Slice)
 					- Hot sauce
 					- Potato Starch
+					- Msg
 			- [[Instruction]]
 				-
 			- ----------------------------------------------------------------------------------------------------------
