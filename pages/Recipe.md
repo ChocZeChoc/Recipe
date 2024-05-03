@@ -29,6 +29,11 @@ Links:: [Favourite Thai cook](https://www.youtube.com/@GinDaiAroiDuay)
 					- g [[Protein]]
 			- [[Ingredient]]
 				- 250-300g Chicken Wings
+				- Chili Flakes
+				- Cola drink
+				- Black Pepper
+				- Garlic
+				-
 				- [[Optional]]
 					-
 			- [[Instruction]]
