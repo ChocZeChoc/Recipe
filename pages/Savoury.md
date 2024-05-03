@@ -1,0 +1,19 @@
+- [[Nathan's Fried Rice]]
+	- 2 [[Servings]]
+		- [[Nutrition/Servings]]
+			- 909 [[kCal]]
+			- 22g [[Protein]]
+	- [[Ingredient]]
+		- 30ml Oystersauce (2 Tbsp)
+		- 2 Eggs
+		- 370g of uncooked rice (2 cups)
+		- 15ml Soy sauce (1 Tbsp)
+		- 2 Cloves of garlic
+		- 5-10g black pepper (1-2 tsp)
+		- 15ml oil (2 Tbsp)
+		- 50-75g bacon (Half a pack \approx 4 Strips)
+		- [[Optional]]
+			- 300g of sliced/mince meat (pork/chicken)
+	- [[Instruction]]
+		-
+	- ----------------------------------------------------------------------------------------------------------
